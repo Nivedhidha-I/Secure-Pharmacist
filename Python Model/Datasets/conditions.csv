@@ -1,0 +1,476 @@
+1,Abdominal Distension
+2,Abnormal Uterine Bleeding
+3,Abortion
+4,Acne
+5,Actinic Keratosis
+6,Acute Coronary Syndrome
+7,Acute Lymphoblastic Leukemia
+8,Acute Promyelocytic Leukemia
+9,Addison's Disease
+10,Adrenocortical Insufficiency
+11,Adult Human Growth Hormone Deficiency
+12,Agitated State
+13,Agitation
+14,Alcohol Dependence
+15,Alcohol Withdrawal
+16,Allergic Reactions
+17,Allergic Rhinitis
+18,Allergies
+19,Alopecia
+20,Alpha-1 Proteinase Inhibitor Deficiency
+21,Alzheimer's Disease
+22,Anal Fissure and Fistula
+23,Anaplastic Oligodendroglioma
+24,Androgenetic Alopecia
+25,Anemia
+26,Anemia Associated with Chronic Renal Failure
+27,"Anemia, Chemotherapy Induced"
+28,"Anemia, Sickle Cell"
+29,Anesthesia
+30,Angina
+31,Angina Pectoris Prophylaxis
+32,Ankylosing Spondylitis
+33,Anorexia
+34,Anti NMDA Receptor Encephalitis
+35,Anxiety
+36,Anxiety and Stress
+37,Aphthous Ulce
+38,Arrhythmia
+39,Asthma
+40,"Asthma, Maintenance"
+41,"Asthma, acute"
+42,Asystole
+43,Atopic Dermatitis
+44,Atrial Fibrillation
+45,Atrial Flutte
+46,Atrophic Vaginitis
+47,Autoimmune Hepatitis
+48,B12 Nutritional Deficiency
+49,Back Pain
+50,Bacterial Infection
+51,Bacterial Skin Infection
+52,Bacterial Vaginitis
+53,Barrett's Esophagus
+54,Bartonellosis
+55,Basal Cell Carcinoma
+56,Benign Essential Trem
+57,Benign Prostatic Hyperplasia
+58,Biliary Cirrhosis
+59,Bipolar Disorde
+60,Birth Control
+61,Bladder Infection
+62,Bleeding Disorde
+63,Body Imaging
+64,Bone infection
+65,Bowel Preparation
+66,Brain Tum
+67,Breakthrough Pain
+68,Breast Cance
+69,"Breast Cancer, Adjuvant"
+70,"Breast Cancer, Metastatic"
+71,"Breast Cancer, Prevention"
+72,Bronchiectasis
+73,Bronchitis
+74,Bronchospasm Prophylaxis
+75,"Burns, External"
+76,Bursitis
+77,CMV Prophylaxis
+78,COPD
+79,"COPD, Acute"
+80,"COPD, Maintenance"
+81,Campylobacter Gastroenteritis
+82,Cance
+83,Carcinoid Tum
+84,Cerebrovascular Insufficiency
+85,Cervical Dystonia
+86,Chlamydia Infection
+87,Chronic Fatigue Syndrome
+88,Chronic Idiopathic Constipation
+89,Chronic Inflammatory Demyelinating Polyradiculoneuropathy
+90,Chronic Lymphocytic Leukemia
+91,Chronic Myelogenous Leukemia
+92,Chronic Pain
+93,Chronic Pancreatitis
+94,Chronic Spasticity
+95,Clostridial Infection
+96,Cluster Headaches
+97,Cold Sores
+98,Cold Symptoms
+99,Colorectal Cance
+100,Computed Tomography
+101,Condylomata Acuminata
+102,Conjunctivitis
+103,"Conjunctivitis, Allergic"
+104,"Conjunctivitis, Bacterial"
+105,Constipation
+106,"Constipation, Acute"
+107,"Constipation, Chronic"
+108,"Constipation, Drug Induced"
+109,Costochondritis
+110,Cough
+111,Cough and Nasal Congestion
+112,Crohn's Disease
+113,"Crohn's Disease, Acute"
+114,"Crohn's Disease, Maintenance"
+115,Cutaneous Candidiasis
+116,Cutaneous T-cell Lymphoma
+117,Cystic Fibrosis
+118,Dandruff
+119,Deep Vein Thrombosis
+120,"Deep Vein Thrombosis, Prophylaxis"
+121,Depression
+122,Dermatitis
+123,Dermatologic Lesion
+124,Dermatological Disorders
+125,Dermatomyositis
+126,Dermatophytosis
+127,Diabetes Insipidus
+128,"Diabetes, Type 1"
+129,"Diabetes, Type 2"
+130,Diabetic Kidney Disease
+131,Diabetic Macular Edema
+132,Diabetic Peripheral Neuropathy
+133,Diagnosis and Investigation
+134,Diaper Rash
+135,Diarrhea
+136,"Diarrhea, Acute"
+137,"Diarrhea, Chronic"
+138,Dientamoeba fragilis
+139,Dietary Supplementation
+140,Diverticulitis
+141,Dry Eye Disease
+142,Dry Skin
+143,Dumping Syndrome
+144,Dupuytren's contracture
+145,Dysautonomia
+146,Dyspareunia
+147,Dystonia
+148,Dysuria
+149,Ear Wax Impaction
+150,Eczema
+151,Edema
+152,Emergency Contraception
+153,Endometrial Cance
+154,"Endometrial Hyperplasia, Prophylaxis"
+155,Endometriosis
+156,Epilepsy
+157,Erectile Dysfunction
+158,Erosive Esophagitis
+159,Euvolemic Hyponatremia
+160,Expectoration
+161,Extrapyramidal Reaction
+162,Eye Redness
+163,Eye Redness/Itching
+164,GERD
+165,Gas
+166,Gaucher Disease
+167,Generalized Anxiety Disorde
+168,Gestational Diabetes
+169,Gingivitis
+170,Glaucoma
+171,"Glaucoma, Open Angle"
+172,Glaucoma/Intraocular Hypertension
+173,Glioblastoma Multiforme
+174,Gout
+175,"Gout, Acute"
+176,Gouty Arthritis
+177,HIV Infection
+178,Hairy Cell Leukemia
+179,Hashimoto's disease
+180,Head Lice
+181,Head and Neck Cance
+182,Headache
+183,Heart Attack
+184,Heart Failure
+185,Helicobacter Pylori Infection
+186,Hemophilia A
+187,Hemophilia B
+188,Hemorrhoids
+189,Hepatic Encephalopathy
+190,Hepatitis B
+191,Hepatitis C
+192,Hepatocellular Carcinoma
+193,Herbal Supplementation
+194,Hereditary Angioedema
+195,Herpes Simplex
+196,Herpes Simplex Dendritic Keratitis
+197,"Herpes Simplex, Mucocutaneous/Immunocompetent Host"
+198,"Herpes Simplex, Suppression"
+199,"Herpes Zoster, Prophylaxis"
+200,Hiccups
+201,High Blood Pressure
+202,High Cholesterol
+203,"High Cholesterol, Familial Heterozygous"
+204,"High Cholesterol, Familial Homozygous"
+205,Hirsutism
+206,Hot Flashes
+207,Human Papilloma Virus
+208,Human Papillomavirus Prophylaxis
+209,Hyperhidrosis
+210,Hyperkalemia
+211,Hyperlipoproteinemia
+212,"Hyperlipoproteinemia Type IIa, Elevated LDL"
+213,Hyperparathyroidism Secondary to Renal Impairment
+214,Hyperphosphatemia
+215,Hyperphosphatemia of Renal Failure
+216,Hyperprolactinemia
+217,Hypersomnia
+218,Hypertensive Emergency
+219,Hyperthyroidism
+220,Hypertriglyceridemia
+221,Hypoactive Sexual Desire Disorde
+222,Hypocalcemia
+223,Hypodermoclysis
+224,Hypoestrogenism
+225,Hypoglycemia
+226,"Hypogonadism, Male"
+227,Hypokalemia
+228,Hypokalemic Periodic Paralysis
+229,Hypoparathyroidism
+230,"Hypothyroidism, After Thyroid Removal"
+231,Ichthyosis
+232,Idiopathic Thrombocytopenic Purpura
+233,Impetig
+234,Indigestion
+235,Inflammatory Conditions
+236,Influenza
+237,Influenza Prophylaxis
+238,Insomnia
+239,Insulin Resistance Syndrome
+240,Intermittent Claudication
+241,Interstitial Cystitis
+242,Intraocular Hypertension
+243,Iritis
+244,Iron Deficiency Anemia
+245,Irritable Bowel Syndrome
+246,Ischemic Stroke
+247,"Ischemic Stroke, Prophylaxis"
+248,Keratoconjunctivitis Sicca
+249,Keratosis
+250,Kidney Infections
+251,Labor Induction
+252,Lactose Intolerance
+253,Left Ventricular Dysfunction
+254,Lennox-Gastaut Syndrome
+255,Lewy Body Dementia
+256,Lichen Sclerosus
+257,Light Sedation
+258,Lipodystrophy
+259,Liver Magnetic Resonance Imaging
+260,Local Anesthesia
+261,"Lyme Disease, Neurologic"
+262,Lymphoma
+263,Macular Degeneration
+264,Major Depressive Disorde
+265,Malaria
+266,Malaria Prevention
+267,Malignant Glioma
+268,Mania
+269,Melanoma
+270,"Melanoma, Metastatic"
+271,Melasma
+272,Meningitis
+273,"Meningitis, Meningococcal"
+274,Menopausal Disorders
+275,Menorrhagia
+276,Menstrual Disorders
+277,Methicillin-Resistant Staphylococcus Aureus Infection
+278,Migraine
+279,Migraine Prevention
+280,Mild Cognitive Impairment
+281,Motion Sickness
+282,Mucositis
+283,Multiple Myeloma
+284,Multiple Sclerosis
+285,Muscle Pain
+286,Muscle Spasm
+287,Myasthenia Gravis
+288,Myelodysplastic Syndrome
+289,NSAID-Induced Ulcer Prophylaxis
+290,Narcolepsy
+291,Nasal Congestion
+292,Nausea/Vomiting
+293,Nausea/Vomiting of Pregnancy
+294,"Nausea/Vomiting, Chemotherapy Induced"
+295,"Nausea/Vomiting, Postoperative"
+296,Neuralgia
+297,Neurosurgery
+298,Neutropenia Associated with Chemotherapy
+299,Nocturnal Leg Cramps
+300,Non-Hodgkin's Lymphoma
+301,Non-Small Cell Lung Cance
+302,Not Listed / Othe
+303,Obesity
+304,Obsessive Compulsive Disorde
+305,Obstructive Sleep Apnea/Hypopnea Syndrome
+306,"Onychomycosis, Fingernail"
+307,"Onychomycosis, Toenail"
+308,Oophorectomy
+309,Ophthalmic Surgery
+310,Opiate Dependence
+311,Opiate Withdrawal
+312,Opioid Overdose
+313,Opioid-Induced Constipation
+314,Oral Thrush
+315,Oral and Dental Conditions
+316,"Organ Transplant, Rejection Prophylaxis"
+317,Osteoarthritis
+318,Osteolytic Bone Lesions of Multiple Myeloma
+319,Osteolytic Bone Metastases of Solid Tumors
+320,Osteoporosis
+321,Otitis Externa
+322,Otitis Media
+323,Ovarian Cance
+324,Overactive Bladde
+325,Ovulation Induction
+326,Paget's Disease
+327,Pain
+328,Pain/Feve
+329,Pancreatic Cance
+330,Pancreatic Exocrine Dysfunction
+331,Panic Disorde
+332,"Paragonimus westermani, Lung Fluke"
+333,Parkinson's Disease
+334,Parkinsonism
+335,Pediatric Growth Hormone Deficiency
+336,Percutaneous Coronary Intervention
+337,Performance Anxiety
+338,Period Pain
+339,Periodic Limb Movement Disorde
+340,Peripheral Neuropathy
+341,Pinworm Infection (Enterobius vermicularis)
+342,Plaque Psoriasis
+343,Pneumococcal Disease Prophylaxis
+344,Pneumonia
+345,Polycystic Ovary Syndrome
+346,Polycythemia Vera
+347,Porphyria
+348,Post Traumatic Stress Disorde
+349,Postherpetic Neuralgia
+350,Postmenopausal Symptoms
+351,Postoperative Ocular Inflammation
+352,Postoperative Pain
+353,Postural Orthostatic Tachycardia Syndrome
+354,Precocious Puberty
+355,Premature Lab
+356,Premenstrual Dysphoric Disorde
+357,Premenstrual Syndrome
+358,Prevention of Bladder infection
+359,Prevention of Dental Caries
+360,Prevention of Thromboembolism in Atrial Fibrillation
+361,Primary Immunodeficiency Syndrome
+362,Progesterone Insufficiency
+363,Prostate Cance
+364,Prostatitis
+365,Pruritus
+366,Pseudobulbar Affect
+367,Pseudotumor Cerebri
+368,Psoriasis
+369,Psoriatic Arthritis
+370,Psychosis
+371,"Pulmonary Embolism, Recurrent Event"
+372,Pulmonary Hypertension
+373,Rabies Prophylaxis
+374,Raynaud's Syndrome
+375,Reflex Sympathetic Dystrophy Syndrome
+376,Rejection Prophylaxis
+377,Renal Cell Carcinoma
+378,Restless Legs Syndrome
+379,Rheumatoid Arthritis
+380,Rhinitis
+381,Rhinorrhea
+382,Rosacea
+383,SIADH
+384,Salivary Gland Cance
+385,Scabies
+386,Schizoaffective Disorde
+387,Schizophrenia
+388,Schnitzler Syndrome
+389,Sciatica
+390,Seasonal Allergic Conjunctivitis
+391,Seborrheic Dermatitis
+392,Secondary Cutaneous Bacterial Infections
+393,Secondary Hyperparathyroidism
+394,Sedation
+395,Seizure Prevention
+396,Seizures
+397,"Sexual Dysfunction, SSRI Induced"
+398,Sinus Symptoms
+399,Sinusitis
+400,Sjogren's Syndrome
+401,Skin Cance
+402,Skin Rash
+403,Skin and Structure Infection
+404,Skin or Soft Tissue Infection
+405,Smoking Cessation
+406,Social Anxiety Disorde
+407,Sore Throat
+408,Spondyloarthritis
+409,Still's Disease
+410,Stomach Ulce
+411,Strep Throat
+412,Strongyloidiasis
+413,Submental Fullness
+414,Supraventricular Tachycardia
+415,Swine Flu
+416,Systemic Lupus Erythematosus
+417,Systemic Mastocytosis
+418,TSH Suppression
+419,Testicular Cance
+420,Thrombocythemia
+421,Thyroid Cance
+422,Tinea Corporis
+423,Tinea Cruris
+424,Tinea Pedis
+425,Tinea Versicol
+426,Tinnitus
+427,Tonsillitis/Pharyngitis
+428,Topical Disinfection
+429,Tourette's Syndrome
+430,Transient Ischemic Attack
+431,Trichotillomania
+432,Trigeminal Neuralgia
+433,"Tuberculosis, Prophylaxis"
+434,Turner's Syndrome
+435,Ulcerative Colitis
+436,"Ulcerative Colitis, Active"
+437,"Ulcerative Colitis, Maintenance"
+438,Underactive Thyroid
+439,Upper Respiratory Tract Infection
+440,Urinary Incontinence
+441,Urinary Retention
+442,Urinary Tract Infection
+443,Urinary Tract Stones
+444,Urticaria
+445,Uveitis
+446,Vaginal Yeast Infection
+447,Vertig
+448,Vitamin B12 Deficiency
+449,Vitamin D Deficiency
+450,Vitamin K Deficiency
+451,Vitamin/Mineral Supplementation and Deficiency
+452,Vitamin/Mineral Supplementation during Pregnancy/Lactation
+453,Wegener's Granulomatosis
+454,Weight Loss
+455,Wilson's Disease
+456,Xerostomia
+457,acial Wrinkles
+458,amilial Cold Autoinflammatory Syndrome
+459,amilial Mediterranean Feve
+460,atigue
+461,emale Infertility
+462,ge (amlodipine / valsartan)
+463,ge HCT (amlodipine / hydrochlorothiazide / valsartan)
+464,ibromyalgia
+465,lic Acid Deficiency
+466,min / pioglitazone)
+467,min / rosiglitazone)
+468,min / saxagliptin)
+469,min / sitagliptin)
+470,min)
+471,moterol / mometasone)
+472,moterol)
+473,t Care
+474,tic (mycophenolic acid)
+475,von Willebrand's Disease
+476,ADHD

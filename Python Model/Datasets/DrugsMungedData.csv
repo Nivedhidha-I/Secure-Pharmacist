@@ -1,0 +1,3158 @@
+drug_id,condition_id,average_rating,class
+ProCentra,ADHD,10,A
+Desoxyn,ADHD,9.588235294,A
+Zenzedi,ADHD,9.571428571,A
+Methamphetamine,ADHD,9.523809524,A
+Cylert,ADHD,9.5,A
+Dyanavel XR,ADHD,9.5,A
+Pemoline,ADHD,9.5,A
+Dextroamphetamine,ADHD,9.302325581,A
+Daytrana,ADHD,9.236842105,A
+Methylin ER,ADHD,9.222222222,A
+Adzenys XR-ODT,ADHD,9.2,A
+Dexedrine,ADHD,9.173076923,A
+Amphetamine,ADHD,9.068965517,A
+Wellbutrin SR,ADHD,9.040816327,A
+Amphetamine / dextroamphetamine,ADHD,9.038348083,A
+Adderall XR,ADHD,9.032967033,A
+Vyvanse,ADHD,9.012084592,A
+Aptensio XR,ADHD,9,B
+Mydayis,ADHD,9,B
+Quillivant XR,ADHD,9,B
+Ritalin LA,ADHD,9,B
+Lisdexamfetamine,ADHD,8.976878613,B
+Metadate CD,ADHD,8.9375,B
+Concerta,ADHD,8.920863309,B
+Intuniv,ADHD,8.914893617,B
+Kapvay,ADHD,8.9,B
+Focalin XR,ADHD,8.875,B
+Ritalin,ADHD,8.862068966,B
+Focalin,ADHD,8.846153846,B
+Atomoxetine,ADHD,8.808510638,B
+Dexmethylphenidate,ADHD,8.802631579,B
+Guanfacine,ADHD,8.76056338,B
+Catapres,ADHD,8.75,B
+Strattera,ADHD,8.697916667,B
+Evekeo,ADHD,8.5,B
+Urecholine,Abdominal Distension,9,B
+Tri-Lo-Marzia,Abnormal Uterine Bleeding,10,A
+Aygestin,Abnormal Uterine Bleeding,9.333333333,A
+Necon 1 / 35,Abnormal Uterine Bleeding,9.153846154,A
+Provera,Abnormal Uterine Bleeding,9.131578947,A
+Necon 1 / 50,Abnormal Uterine Bleeding,9,B
+Mestranol / norethindrone,Abnormal Uterine Bleeding,8.75,B
+Tri-Previfem,Abnormal Uterine Bleeding,8.630434783,B
+Low-Ogestrel-21,Abnormal Uterine Bleeding,8,C
+Cytotec,Abortion,9.5,A
+Mifepristone,Abortion,7,C
+Absorica,Acne,10,A
+Adoxa,Acne,10,A
+Avar,Acne,10,A
+Avita,Acne,10,A
+Benzoyl peroxide / hydrocortisone,Acne,10,A
+Benzoyl peroxide / sulfur,Acne,10,A
+Clindagel,Acne,10,A
+Ery Pads,Acne,10,A
+Fostex Medicated,Acne,10,A
+Hexachlorophene,Acne,10,A
+Norinyl 1+35,Acne,10,A
+NuOx,Acne,10,A
+Oxy-10,Acne,10,A
+PanOxyl 10% Acne Foaming Wash,Acne,10,A
+Pernox,Acne,10,A
+Resorcinol / sulfur,Acne,10,A
+Salicylic acid,Acne,10,A
+Sulfur,Acne,10,A
+PanOxyl,Acne,9.6,A
+Zenatane,Acne,9.6,A
+Onexton,Acne,9.583333333,A
+Benzaclin,Acne,9.565217391,A
+Benzoyl peroxide,Acne,9.55,A
+Aldactone,Acne,9.444444444,A
+Dapsone,Acne,9.442105263,A
+Sulfacetamide sodium / sulfur,Acne,9.4,A
+Accutane,Acne,9.388489209,A
+Minocin,Acne,9.333333333,A
+Ziana,Acne,9.333333333,A
+Isotretinoin,Acne,9.286031042,A
+Tazarotene,Acne,9.272727273,A
+Aczone,Acne,9.247311828,A
+Acanya,Acne,9.242424242,A
+Monodox,Acne,9.210526316,A
+Benzoyl peroxide / clindamycin,Acne,9.168316832,A
+Atralin,Acne,9.166666667,A
+Tretinoin,Acne,9.157360406,A
+Differin,Acne,9.157142857,A
+Retin-A,Acne,9.133333333,A
+Adapalene,Acne,9.123076923,A
+Spironolactone,Acne,9.118644068,A
+Doryx,Acne,9.105263158,A
+Tetracycline,Acne,9.0625,A
+Clindamycin / tretinoin,Acne,9.055555556,A
+Benzoyl peroxide / erythromycin,Acne,9.045454545,A
+Adapalene / benzoyl peroxide,Acne,9.003401361,A
+Altabax,Acne,9,B
+BP Wash,Acne,9,B
+Benzamycin,Acne,9,B
+Duac,Acne,9,B
+Fabior,Acne,9,B
+Tretin-X,Acne,9,B
+Yasmin,Acne,9,B
+Epiduo,Acne,8.996453901,B
+Solodyn,Acne,8.976744186,B
+Claravis,Acne,8.962962963,B
+Minocycline,Acne,8.95890411,B
+Tri-Sprintec,Acne,8.956284153,B
+Amnesteem,Acne,8.941176471,B
+Veltin,Acne,8.923076923,B
+Gianvi,Acne,8.904109589,B
+TriNessa,Acne,8.821917808,B
+Ethinyl estradiol / norgestimate,Acne,8.796059113,B
+Epiduo Forte,Acne,8.538461538,B
+BenzEFoam,Acne,8.5,B
+Myorisan,Acne,8.5,B
+Acticlate,Acne,8.333333333,B
+Retin A Micro,Acne,8.333333333,B
+TriNessa Lo,Acne,8.333333333,B
+Benzoyl peroxide / salicylic acid,Acne,8,C
+Dynacin,Acne,8,C
+Sumadan,Acne,8,C
+Ingenol,Actinic Keratosis,8.666666667,B
+Tolak,Actinic Keratosis,8,C
+Effient,Acute Coronary Syndrome,9,B
+Prasugrel,Acute Coronary Syndrome,9,B
+Ticagrelor,Acute Coronary Syndrome,8.166666667,B
+Brilinta,Acute Coronary Syndrome,8,C
+Gleevec,Acute Lymphoblastic Leukemia,9.35,A
+Arsenic trioxide,Acute Promyelocytic Leukemia,9,B
+Vesanoid,Acute Promyelocytic Leukemia,8,C
+Decadron,Addison's Disease,9,B
+Hydrocortone,Addison's Disease,8,C
+Cortef,Adrenocortical Insufficiency,9,B
+Norditropin,Adult Human Growth Hormone Deficiency,10,A
+Omnitrope,Adult Human Growth Hormone Deficiency,10,A
+Somatropin,Adult Human Growth Hormone Deficiency,9.583333333,A
+Saizen,Adult Human Growth Hormone Deficiency,9,B
+Abilify,Agitated State,9.018518519,A
+Zyprexa Intramuscular,Agitation,8,C
+Antabuse,Alcohol Dependence,9.6,A
+Disulfiram,Alcohol Dependence,9.5,A
+Campral,Alcohol Dependence,9.471264368,A
+Acamprosate,Alcohol Dependence,9.444444444,A
+Revia,Alcohol Dependence,9.333333333,A
+Chlordiazepoxide,Alcohol Withdrawal,9.617283951,A
+Librium,Alcohol Withdrawal,9.520547945,A
+Baclofen,Alcohol Withdrawal,9.043859649,A
+Serax,Alcohol Withdrawal,8.857142857,B
+Lioresal,Alcohol Withdrawal,8.666666667,B
+Dexchlorpheniramine,Allergic Reactions,10,A
+EpiPen,Allergic Reactions,10,A
+Chlor-Trimeton,Allergic Reactions,9.5,A
+Acetaminophen / dexbrompheniramine / pseudoephedrine,Allergic Rhinitis,10,A
+Allegra ODT,Allergic Rhinitis,10,A
+Astelin,Allergic Rhinitis,10,A
+Children's Claritin Allergy,Allergic Rhinitis,10,A
+Chlorpheniramine / phenylephrine,Allergic Rhinitis,10,A
+Clemastine,Allergic Rhinitis,10,A
+Deconamine,Allergic Rhinitis,10,A
+Diphenhydramine / phenylephrine,Allergic Rhinitis,10,A
+Drixoral Cold / Flu,Allergic Rhinitis,10,A
+R-Tanna,Allergic Rhinitis,10,A
+Zyrtec-D 12 Hour,Allergic Rhinitis,10,A
+Dexbrompheniramine / pseudoephedrine,Allergic Rhinitis,9.942857143,A
+Kenalog-40,Allergic Rhinitis,9.777777778,A
+Brompheniramine,Allergic Rhinitis,9.666666667,A
+Nasacort AQ,Allergic Rhinitis,9.666666667,A
+Omnaris,Allergic Rhinitis,9.666666667,A
+Patanase,Allergic Rhinitis,9.666666667,A
+Rhinocort,Allergic Rhinitis,9.666666667,A
+Azelastine / fluticasone,Allergic Rhinitis,9.653846154,A
+Nasacort,Allergic Rhinitis,9.611111111,A
+Dymista,Allergic Rhinitis,9.586206897,A
+Azelastine,Allergic Rhinitis,9.583333333,A
+Cetirizine / pseudoephedrine,Allergic Rhinitis,9.5,A
+Rhinocort Aqua,Allergic Rhinitis,9.5,A
+Astepro,Allergic Rhinitis,9.454545455,A
+Fexofenadine,Allergic Rhinitis,9.395833333,A
+Fluticasone,Allergic Rhinitis,9.352112676,A
+Nasacort Allergy 24HR,Allergic Rhinitis,9.333333333,A
+Nasonex,Allergic Rhinitis,9.263157895,A
+Xyzal,Allergic Rhinitis,9.241935484,A
+Chlorpheniramine,Allergic Rhinitis,9.210526316,A
+Loratadine,Allergic Rhinitis,9.210526316,A
+Zyrtec,Allergic Rhinitis,9.06122449,A
+All Day Allergy,Allergic Rhinitis,9,B
+Allegra-D 12 Hour,Allergic Rhinitis,9,B
+Beconase AQ,Allergic Rhinitis,9,B
+Benadryl Allergy Sinus,Allergic Rhinitis,9,B
+Carbinoxamine,Allergic Rhinitis,9,B
+Clarinex,Allergic Rhinitis,9,B
+Clarinex-D 12 Hour,Allergic Rhinitis,9,B
+Claritin,Allergic Rhinitis,9,B
+Desloratadine / pseudoephedrine,Allergic Rhinitis,9,B
+Diphenhydramine / pseudoephedrine,Allergic Rhinitis,9,B
+Flunisolide,Allergic Rhinitis,9,B
+Nasarel,Allergic Rhinitis,9,B
+Palgic,Allergic Rhinitis,9,B
+QNASL,Allergic Rhinitis,9,B
+Wal-finate,Allergic Rhinitis,9,B
+Zyrtec-D,Allergic Rhinitis,9,B
+Claritin-D 24 Hour,Allergic Rhinitis,8.666666667,B
+Fexofenadine / pseudoephedrine,Allergic Rhinitis,8.55,B
+Allegra-D 24 Hour,Allergic Rhinitis,8.5,B
+Desloratadine,Allergic Rhinitis,8.333333333,B
+Triprolidine,Allergies,10,A
+Zymine,Allergies,10,A
+Hyzine,Allergies,8,C
+Rogaine Women's,Alopecia,10,A
+Kenalog-10,Alopecia,9.777777778,A
+Minoxidil,Alopecia,8.90625,B
+Rogaine,Alopecia,8.2,B
+Alpha 1-proteinase inhibitor,Alpha-1 Proteinase Inhibitor Deficiency,10,A
+Prolastin-C,Alpha-1 Proteinase Inhibitor Deficiency,10,A
+Zemaira,Alpha-1 Proteinase Inhibitor Deficiency,10,A
+Razadyne ER,Alzheimer's Disease,10,A
+Galantamine,Alzheimer's Disease,9,B
+Exelon,Alzheimer's Disease,8.5,B
+Namenda,Alzheimer's Disease,8.5,B
+Rivastigmine,Alzheimer's Disease,8.5,B
+Aricept,Alzheimer's Disease,8.333333333,B
+Namenda XR,Alzheimer's Disease,8,C
+Nitroglycerin,Anal Fissure and Fistula,9.125,A
+Rectiv,Anal Fissure and Fistula,8.333333333,B
+Temozolomide,Anaplastic Oligodendroglioma,9.285714286,A
+Propecia,Androgenetic Alopecia,8.6,B
+Ferralet 90,Anemia,10,A
+Integra,Anemia,10,A
+Oxymetholone,Anemia,10,A
+Multivitamin with iron,Anemia,9.25,A
+Epogen,Anemia,9,B
+Integra F,Anemia,9,B
+Maxaron Forte,Anemia,8,C
+Aranesp,Anemia Associated with Chronic Renal Failure,9,B
+Darbepoetin alfa,Anemia Associated with Chronic Renal Failure,9,B
+Epoetin alfa,Anemia Associated with Chronic Renal Failure,8.75,B
+Procrit,"Anemia, Chemotherapy Induced",9,B
+Hydroxyurea,"Anemia, Sickle Cell",9.5,A
+Ketalar,Anesthesia,10,A
+Pentothal,Anesthesia,10,A
+Thiopental,Anesthesia,10,A
+Diprivan,Anesthesia,9.75,A
+Emla,Anesthesia,9.75,A
+Propofol,Anesthesia,9.62987013,A
+Ketamine,Anesthesia,9.571428571,A
+Lidocaine / prilocaine,Anesthesia,8.8,B
+Lidoderm,Anesthesia,8.619047619,B
+Ranolazine,Angina,9.416666667,A
+Ranexa,Angina,9.277777778,A
+Isosorbide dinitrate,Angina,9,B
+Imdur,Angina Pectoris Prophylaxis,9.5,A
+Enbrel,Ankylosing Spondylitis,9.284482759,A
+Clinoril,Ankylosing Spondylitis,9.25,A
+Cimzia,Ankylosing Spondylitis,9.2,A
+Indocin SR,Ankylosing Spondylitis,8.666666667,B
+Cyproheptadine,Anorexia,9.466666667,A
+Dronabinol,Anorexia,9.347826087,A
+Immune globulin intravenous,Anti NMDA Receptor Encephalitis,9.5,A
+Alprazolam Intensol,Anxiety,10,A
+Micrainin,Anxiety,10,A
+Pexeva,Anxiety,10,A
+Tranxene SD,Anxiety,10,A
+Zetran,Anxiety,10,A
+Diazepam Intensol,Anxiety,9.75,A
+Stelazine,Anxiety,9.75,A
+Xanax XR,Anxiety,9.588235294,A
+Amitriptyline / perphenazine,Anxiety,9.5,A
+Limbitrol DS,Anxiety,9.5,A
+Triavil,Anxiety,9.5,A
+Diazepam,Anxiety,9.477508651,A
+Propranolol,Anxiety,9.440506329,A
+Clorazepate,Anxiety,9.411764706,A
+Ativan,Anxiety,9.393442623,A
+Trifluoperazine,Anxiety,9.333333333,A
+Tranxene,Anxiety,9.25,A
+Oxazepam,Anxiety,9.034482759,A
+BuSpar,Anxiety,9.019354839,A
+Meprobamate,Anxiety,9,B
+Miltown,Anxiety,9,B
+Remeron,Anxiety,8.967032967,B
+Mirtazapine,Anxiety,8.954301075,B
+Phenytoin,Anxiety,8.9,B
+Buspirone,Anxiety,8.883458647,B
+Vistaril,Anxiety,8.754098361,B
+Atarax,Anxiety,8.744680851,B
+Hydroxyzine,Anxiety,8.735177866,B
+Tenormin,Anxiety,8.692307692,B
+Prozac,Anxiety and Stress,9.039772727,A
+Kava,Anxiety and Stress,9,B
+Citalopram,Anxiety and Stress,8.993455497,B
+Fluvoxamine,Anxiety and Stress,8.963414634,B
+Orajel,Aphthous Ulce,7,C
+Mexitil,Arrhythmia,10,A
+Pacerone,Arrhythmia,10,A
+Tikosyn,Arrhythmia,9.181818182,A
+Dofetilide,Arrhythmia,9.041666667,A
+Mexiletine,Arrhythmia,9,B
+Norpace CR,Arrhythmia,9,B
+Amiodarone,Arrhythmia,8.8,B
+Disopyramide,Arrhythmia,8.25,B
+Cordarone,Arrhythmia,8,C
+Norpace,Arrhythmia,8,C
+Quinidine,Arrhythmia,8,C
+Aristocort,Asthma,10,A
+Azmacort,Asthma,10,A
+Ipratropium Inhalation Solution,Asthma,10,A
+Mepolizumab,Asthma,10,A
+Nucala,Asthma,10,A
+Breo Ellipta,Asthma,9.483870968,A
+Singulair,Asthma,9.433333333,A
+Montelukast,Asthma,9.25,A
+Prednisone,Asthma,9.246696035,A
+Atrovent,Asthma,9.2,A
+Dexamethasone,Asthma,9.03030303,A
+Dulera,Asthma,8.909090909,B
+Cinqair,Asthma,8,C
+Reslizumab,Asthma,8,C
+Accolate,"Asthma, Maintenance",10,A
+Intal Inhaler,"Asthma, Maintenance",10,A
+Metaproterenol,"Asthma, Maintenance",10,A
+Pulmicort Respules,"Asthma, Maintenance",10,A
+Zafirlukast,"Asthma, Maintenance",10,A
+Cromolyn,"Asthma, Maintenance",9.875,A
+Flovent HFA,"Asthma, Maintenance",9.666666667,A
+Pulmicort Flexhaler,"Asthma, Maintenance",9.666666667,A
+Xolair,"Asthma, Maintenance",9.660377358,A
+Omalizumab,"Asthma, Maintenance",9.630769231,A
+Asmanex Twisthaler,"Asthma, Maintenance",9.6,A
+Symbicort,"Asthma, Maintenance",9.517857143,A
+Alupent,"Asthma, Maintenance",9.5,A
+Flovent,"Asthma, Maintenance",9.5,A
+Theo-24,"Asthma, Maintenance",9.5,A
+Fluticasone / vilanterol,"Asthma, Maintenance",9.483870968,A
+Theophylline,"Asthma, Maintenance",9.428571429,A
+Advair HFA,"Asthma, Maintenance",9.333333333,A
+Uniphyl,"Asthma, Maintenance",9.333333333,A
+Fluticasone / salmeterol,"Asthma, Maintenance",9.16,A
+AirDuo Respiclick,"Asthma, Maintenance",9,B
+Alvesco,"Asthma, Maintenance",9,B
+Arnuity Ellipta,"Asthma, Maintenance",9,B
+Ciclesonide,"Asthma, Maintenance",9,B
+Maxair,"Asthma, Maintenance",9,B
+Maxair Autohaler,"Asthma, Maintenance",9,B
+Pirbuterol,"Asthma, Maintenance",9,B
+Beclomethasone,"Asthma, Maintenance",8.863636364,B
+Qvar,"Asthma, Maintenance",8.8,B
+Proventil HFA,"Asthma, Maintenance",8.75,B
+Proventil,"Asthma, Maintenance",8.333333333,B
+Pulmicort Turbuhaler,"Asthma, Maintenance",8.333333333,B
+Xopenex,"Asthma, acute",9.444444444,A
+Epinephrine,"Asthma, acute",9.428571429,A
+Racepinephrine,"Asthma, acute",9.333333333,A
+Xopenex HFA,"Asthma, acute",9.333333333,A
+Ventolin,"Asthma, acute",9.285714286,A
+Asthmanefrin,"Asthma, acute",9.25,A
+Prednisolone,"Asthma, acute",8.888888889,B
+Albuterol,"Asthma, acute",8.75,B
+Sodium bicarbonate,Asystole,10,A
+Capex,Atopic Dermatitis,10,A
+Olux-E,Atopic Dermatitis,10,A
+Elocon,Atopic Dermatitis,9.857142857,A
+Protopic,Atopic Dermatitis,9.714285714,A
+Triamcinolone,Atopic Dermatitis,9.658536585,A
+Medrol Dosepak,Atopic Dermatitis,9.571428571,A
+Cloderm,Atopic Dermatitis,9.5,A
+Crisaborole,Atopic Dermatitis,9.25,A
+Eucrisa,Atopic Dermatitis,9.25,A
+Tacrolimus,Atopic Dermatitis,9.051282051,A
+Diprolene AF,Atopic Dermatitis,9,B
+Kenalog,Atopic Dermatitis,9,B
+Digoxin,Atrial Fibrillation,10,A
+Dilt-XR,Atrial Fibrillation,10,A
+Lanoxicaps,Atrial Fibrillation,10,A
+Sotalol Hydrochloride AF,Atrial Fibrillation,10,A
+Tiazac,Atrial Fibrillation,10,A
+Flecainide,Atrial Fibrillation,9.340425532,A
+Diltiazem,Atrial Fibrillation,9.294117647,A
+Rythmol SR,Atrial Fibrillation,9.285714286,A
+Carvedilol,Atrial Fibrillation,9.243243243,A
+Sotalol,Atrial Fibrillation,9.210526316,A
+Multaq,Atrial Fibrillation,9.142857143,A
+Dronedarone,Atrial Fibrillation,9.083333333,A
+Propafenone,Atrial Fibrillation,9.035714286,A
+Rythmol,Atrial Fibrillation,9,B
+Xarelto,Atrial Fibrillation,8.85106383,B
+Metoprolol,Atrial Fibrillation,8.643939394,B
+Cardizem LA,Atrial Fibrillation,8,C
+Tambocor,Atrial Flutte,9.285714286,A
+Cardizem,Atrial Flutte,9.2,A
+Vagifem,Atrophic Vaginitis,9.5,A
+Estradiol,Atrophic Vaginitis,9.308823529,A
+Estring,Atrophic Vaginitis,9.214285714,A
+Yuvafem,Atrophic Vaginitis,8.5,B
+Purinethol,Autoimmune Hepatitis,10,A
+Vitamin B12,B12 Nutritional Deficiency,10,A
+Ansaid,Back Pain,10,A
+Oruvail,Back Pain,10,A
+Xodol,Back Pain,10,A
+Acetaminophen / pamabrom,Back Pain,9.75,A
+Aleve,Back Pain,9.375,A
+Lorcet 10 / 650,Back Pain,9.363636364,A
+Aspirin,Back Pain,9.222222222,A
+Anaprox,Back Pain,9,B
+Bayer Aspirin,Back Pain,9,B
+Nabumetone,Back Pain,8.692307692,B
+Ultram,Back Pain,8.674418605,B
+Ryzolt,Back Pain,8.6,B
+Acetaminophen / aspirin,Back Pain,8,C
+Chloramphenicol,Bacterial Infection,10,A
+Lincocin,Bacterial Infection,10,A
+Lincomycin,Bacterial Infection,10,A
+Ceftriaxone,Bacterial Infection,9.568181818,A
+Penicillin v potassium,Bacterial Infection,9.363636364,A
+Clindamycin,Bacterial Infection,9,B
+Penicillin g benzathine,Bacterial Infection,9,B
+Vancomycin,Bacterial Infection,8.666666667,B
+Flagyl IV,Bacterial Infection,7,C
+A + D Cracked Skin Relief,Bacterial Skin Infection,10,A
+Bacitracin / neomycin / polymyxin b / pramoxine,Bacterial Skin Infection,10,A
+Bacitracin / polymyxin b,Bacterial Skin Infection,10,A
+Benzalkonium chloride / lidocaine,Bacterial Skin Infection,10,A
+Polysporin First Aid Antibiotic Ointment,Bacterial Skin Infection,10,A
+Triple Antibiotic,Bacterial Skin Infection,10,A
+Co-trimoxazole,Bacterial Skin Infection,8,C
+Clindamax,Bacterial Vaginitis,10,A
+Clindesse,Bacterial Vaginitis,10,A
+Vandazole,Bacterial Vaginitis,10,A
+Cleocin Ovules,Bacterial Vaginitis,9.5,A
+MetroGel-Vaginal,Bacterial Vaginitis,9.272727273,A
+Metronidazole,Bacterial Vaginitis,8.763066202,B
+Tinidazole,Bacterial Vaginitis,8.7,B
+Tindamax,Bacterial Vaginitis,8.625,B
+Flagyl ER,Bacterial Vaginitis,8.333333333,B
+Protonix IV,Barrett's Esophagus,9.666666667,A
+Lansoprazole,Barrett's Esophagus,9.428571429,A
+Rifampin,Bartonellosis,9.25,A
+Imiquimod,Basal Cell Carcinoma,8.76146789,B
+Primidone,Benign Essential Trem,8.761904762,B
+Cardura XL,Benign Prostatic Hyperplasia,10,A
+Proscar,Benign Prostatic Hyperplasia,10,A
+Cialis,Benign Prostatic Hyperplasia,9.447698745,A
+Terazosin,Benign Prostatic Hyperplasia,9.117647059,A
+Avodart,Benign Prostatic Hyperplasia,9.083333333,A
+Hytrin,Benign Prostatic Hyperplasia,9,B
+Saw palmetto,Benign Prostatic Hyperplasia,9,B
+Tamsulosin,Benign Prostatic Hyperplasia,8.988505747,B
+Dutasteride,Benign Prostatic Hyperplasia,8.823529412,B
+Cardura,Benign Prostatic Hyperplasia,8.666666667,B
+Finasteride,Benign Prostatic Hyperplasia,8.633333333,B
+Dutasteride / tamsulosin,Benign Prostatic Hyperplasia,8.571428571,B
+Silodosin,Benign Prostatic Hyperplasia,8.466666667,B
+Rapaflo,Benign Prostatic Hyperplasia,8.441176471,B
+Jalyn,Benign Prostatic Hyperplasia,8.333333333,B
+Uroxatral,Benign Prostatic Hyperplasia,8.285714286,B
+Urso,Biliary Cirrhosis,10,A
+Urso Forte,Biliary Cirrhosis,10,A
+Ursodiol,Biliary Cirrhosis,9.5,A
+Eskalith-CR,Bipolar Disorde,10,A
+Tiagabine,Bipolar Disorde,10,A
+Eskalith,Bipolar Disorde,9.5,A
+Lamictal,Bipolar Disorde,9.327137546,A
+Lamotrigine,Bipolar Disorde,9.306722689,A
+Cariprazine,Bipolar Disorde,9.255813953,A
+Lithobid,Bipolar Disorde,9.25,A
+Iloperidone,Bipolar Disorde,9.1875,A
+Trileptal,Bipolar Disorde,9.117647059,A
+Seroquel XR,Bipolar Disorde,9.10989011,A
+Vraylar,Bipolar Disorde,9.029411765,A
+Depakene,Bipolar Disorde,9,B
+Lamictal ODT,Bipolar Disorde,9,B
+Tegretol,Bipolar Disorde,9,B
+Saphris,Bipolar Disorde,8.992248062,B
+Lithium,Bipolar Disorde,8.97761194,B
+Latuda,Bipolar Disorde,8.976525822,B
+Quetiapine,Bipolar Disorde,8.973377704,B
+Aripiprazole,Bipolar Disorde,8.946127946,B
+Geodon,Bipolar Disorde,8.882978723,B
+Olanzapine,Bipolar Disorde,8.798780488,B
+Ziprasidone,Bipolar Disorde,8.795918367,B
+Fluoxetine / olanzapine,Bipolar Disorde,8.794871795,B
+Symbyax,Bipolar Disorde,8.771428571,B
+Divalproex sodium,Bipolar Disorde,8.691780822,B
+Depakote ER,Bipolar Disorde,8.666666667,B
+Valproic acid,Bipolar Disorde,8.636363636,B
+Zyprexa Zydis,Bipolar Disorde,8.5,B
+Invega,Bipolar Disorde,8.461538462,B
+Risperdal Consta,Bipolar Disorde,8.2,B
+Equetro,Bipolar Disorde,7,C
+Balziva,Birth Control,10,A
+Cyclessa,Birth Control,10,A
+Depo-Provera Contraceptive,Birth Control,10,A
+Elinest,Birth Control,10,A
+Gildess 1.5 / 30,Birth Control,10,A
+Juleber,Birth Control,10,A
+Junel 1.5 / 30,Birth Control,10,A
+Pimtrea,Birth Control,10,A
+Zenchent,Birth Control,10,A
+Heather,Birth Control,9.75,A
+Trivora,Birth Control,9.75,A
+Lybrel,Birth Control,9.666666667,A
+Mono-Linyah,Birth Control,9.666666667,A
+Zovia 1 / 35,Birth Control,9.666666667,A
+Vienva,Birth Control,9.4,A
+Junel 1 / 20,Birth Control,9.333333333,A
+Tri-Lo-Sprintec,Birth Control,9.333333333,A
+Taytulla,Birth Control,9.277777778,A
+Levonorgestrel,Birth Control,9.259535981,A
+Ortho-Novum 1 / 35,Birth Control,9.25,A
+Ortho-Novum 7 / 7 / 7,Birth Control,9.25,A
+Aubra,Birth Control,9.216216216,A
+ParaGard,Birth Control,9.200892857,A
+Zarah,Birth Control,9.176470588,A
+Copper,Birth Control,9.158018868,A
+Loryna,Birth Control,9.157894737,A
+Mirena,Birth Control,9.097661623,A
+Minastrin 24 Fe,Birth Control,9.080645161,A
+Chateal,Birth Control,9.075471698,A
+Orsythia,Birth Control,9.046153846,A
+Ortho Cyclen,Birth Control,9.045454545,A
+Ortho Evra,Birth Control,9.024691358,A
+Seasonique,Birth Control,9.011363636,A
+Alyacen 1 / 35,Birth Control,9,B
+Ashlyna,Birth Control,9,B
+Ethinyl estradiol / folic acid / levonorgestrel,Birth Control,9,B
+Gildess 1 / 20,Birth Control,9,B
+Junel Fe 24,Birth Control,9,B
+Lessina,Birth Control,9,B
+Mononessa,Birth Control,9,B
+Nortrel 7 / 7 / 7,Birth Control,9,B
+Portia,Birth Control,9,B
+Seasonale,Birth Control,9,B
+Tri-Linyah,Birth Control,9,B
+Skyla,Birth Control,8.982238011,B
+Cryselle,Birth Control,8.956521739,B
+Lyza,Birth Control,8.956521739,B
+Drospirenone / ethinyl estradiol,Birth Control,8.954166667,B
+Implanon,Birth Control,8.953405018,B
+Kyleena,Birth Control,8.943925234,B
+NuvaRing,Birth Control,8.940217391,B
+Etonogestrel,Birth Control,8.931688805,B
+Yaz,Birth Control,8.928571429,B
+Beyaz,Birth Control,8.915254237,B
+Ethinyl estradiol / etonogestrel,Birth Control,8.910326087,B
+Desogen,Birth Control,8.909090909,B
+Nexplanon,Birth Control,8.904137235,B
+Levora,Birth Control,8.901639344,B
+Junel Fe 1.5 / 30,Birth Control,8.9,B
+Lutera,Birth Control,8.898305085,B
+Ethinyl estradiol / levonorgestrel,Birth Control,8.897793264,B
+Generess Fe,Birth Control,8.893939394,B
+Depo-Provera,Birth Control,8.883116883,B
+Norethindrone,Birth Control,8.883040936,B
+Ortho Micronor,Birth Control,8.870967742,B
+Lo Loestrin Fe,Birth Control,8.862258953,B
+Aviane,Birth Control,8.861111111,B
+Drospirenone / ethinyl estradiol / levomefolate calcium,Birth Control,8.860465116,B
+Ortho-Cept,Birth Control,8.857142857,B
+Ethinyl estradiol / norethindrone,Birth Control,8.855606759,B
+Ortho Tri-Cyclen,Birth Control,8.846153846,B
+Ethinyl estradiol / norelgestromin,Birth Control,8.833333333,B
+Ethinyl estradiol / norgestrel,Birth Control,8.828571429,B
+Blisovi Fe 1 / 20,Birth Control,8.818181818,B
+Desogestrel / ethinyl estradiol,Birth Control,8.816239316,B
+Kariva,Birth Control,8.814814815,B
+Sronyx,Birth Control,8.805555556,B
+Gildess Fe 1 / 20,Birth Control,8.803571429,B
+Amethia,Birth Control,8.8,B
+Zovia,Birth Control,8.8,B
+Loestrin 24 Fe,Birth Control,8.792792793,B
+Apri,Birth Control,8.782608696,B
+Microgestin Fe 1 / 20,Birth Control,8.780898876,B
+Ethinyl estradiol / ethynodiol,Birth Control,8.777777778,B
+Lo / Ovral-28,Birth Control,8.75,B
+Sharobel,Birth Control,8.75,B
+Junel Fe 1 / 20,Birth Control,8.744897959,B
+Sprintec,Birth Control,8.738636364,B
+Alesse,Birth Control,8.738095238,B
+Jolessa,Birth Control,8.735294118,B
+Blisovi 24 Fe,Birth Control,8.722222222,B
+Femcon Fe,Birth Control,8.714285714,B
+Nortrel 1 / 35,Birth Control,8.714285714,B
+Microgestin Fe 1.5 / 30,Birth Control,8.7,B
+Liletta,Birth Control,8.69,B
+Jolivette,Birth Control,8.689655172,B
+Camila,Birth Control,8.666666667,B
+Cyred,Birth Control,8.666666667,B
+Loestrin Fe 1 / 20,Birth Control,8.666666667,B
+Marlissa,Birth Control,8.666666667,B
+Ortho Tri-Cyclen Lo,Birth Control,8.666666667,B
+Tri-Estarylla,Birth Control,8.666666667,B
+Xulane,Birth Control,8.651162791,B
+Ocella,Birth Control,8.641509434,B
+Previfem,Birth Control,8.625,B
+Reclipsen,Birth Control,8.607843137,B
+Gildess Fe 1.5 / 30,Birth Control,8.571428571,B
+Nora-Be,Birth Control,8.571428571,B
+Errin,Birth Control,8.555555556,B
+Velivet,Birth Control,8.555555556,B
+Camrese,Birth Control,8.545454545,B
+Safyral,Birth Control,8.526315789,B
+CamreseLo,Birth Control,8.5,B
+Estarylla,Birth Control,8.5,B
+Nikki,Birth Control,8.5,B
+Tarina Fe 1 / 20,Birth Control,8.5,B
+Vestura,Birth Control,8.5,B
+Viorele,Birth Control,8.5,B
+Azurette,Birth Control,8.444444444,B
+Quasense,Birth Control,8.428571429,B
+Lo / Ovral,Birth Control,8.333333333,B
+Altavera,Birth Control,8,C
+Blisovi Fe 1.5 / 30,Birth Control,8,C
+Cyclafem 1 / 35,Birth Control,8,C
+Introvale,Birth Control,8,C
+Larin Fe 1 / 20,Birth Control,8,C
+Loestrin Fe 1.5 / 30,Birth Control,8,C
+Ogestrel-28,Birth Control,8,C
+Rajani,Birth Control,8,C
+Caziant,Birth Control,7,C
+Fosfomycin,Bladder Infection,10,A
+Monurol,Bladder Infection,10,A
+Norfloxacin,Bladder Infection,10,A
+Hiprex,Bladder Infection,9.181818182,A
+Cefpodoxime,Bladder Infection,9,B
+Cyklokapron,Bleeding Disorde,10,A
+Iohexol,Body Imaging,7,C
+Omnipaque 350,Body Imaging,7,C
+Vancocin HCl,Bone infection,10,A
+Unasyn,Bone infection,9,B
+GaviLyte-C,Bowel Preparation,10,A
+GaviLyte-N,Bowel Preparation,10,A
+PEG-3350 with Electolytes,Bowel Preparation,10,A
+OsmoPrep,Bowel Preparation,9.666666667,A
+Sodium biphosphate / sodium phosphate,Bowel Preparation,9.615384615,A
+Citric acid / magnesium oxide / sodium picosulfate,Bowel Preparation,9.425531915,A
+Prepopik,Bowel Preparation,9.326086957,A
+MoviPrep,Bowel Preparation,9.157894737,A
+Polyethylene glycol 3350 with electrolytes,Bowel Preparation,9.044444444,A
+Suprep Bowel Prep Kit,Bowel Preparation,9.036866359,A
+Magnesium sulfate / potassium sulfate / sodium sulfate,Bowel Preparation,9.006437768,A
+GaviLyte-G,Bowel Preparation,9,B
+GoLYTELY,Bowel Preparation,9,B
+PEG3350,Bowel Preparation,8.5,B
+NuLYTELY,Bowel Preparation,8,C
+Cisplatin,Brain Tum,10,A
+Platinol,Brain Tum,10,A
+Cytoxan,Brain Tum,9.8,A
+Lazanda,Breakthrough Pain,10,A
+Subsys,Breakthrough Pain,9.75,A
+Actiq,Breakthrough Pain,9.2,A
+Abraxane,Breast Cance,9.666666667,A
+Adriamycin,Breast Cance,9.5,A
+Paclitaxel protein-bound,Breast Cance,9.5,A
+Docetaxel,Breast Cance,9,B
+Taxotere,Breast Cance,9,B
+Arimidex,Breast Cance,8.933333333,B
+Letrozole,Breast Cance,8.75,B
+Everolimus,Breast Cance,8.571428571,B
+Exemestane,Breast Cance,8.272727273,B
+Aromasin,Breast Cance,8.2,B
+Nolvadex,Breast Cance,7,C
+Femara,"Breast Cancer, Adjuvant",8.80952381,B
+Tamoxifen,"Breast Cancer, Adjuvant",8.166666667,B
+Halaven,"Breast Cancer, Metastatic",9.666666667,A
+Capecitabine,"Breast Cancer, Metastatic",9.5,A
+Eribulin,"Breast Cancer, Metastatic",9.5,A
+Ibrance,"Breast Cancer, Metastatic",9.181818182,A
+Palbociclib,"Breast Cancer, Metastatic",9.083333333,A
+Anastrozole,"Breast Cancer, Metastatic",8.769230769,B
+Faslodex,"Breast Cancer, Metastatic",8.666666667,B
+Taxol,"Breast Cancer, Metastatic",8,C
+Gemcitabine,"Breast Cancer, Metastatic",7.666666667,C
+Evista,"Breast Cancer, Prevention",10,A
+Ventolin HFA,Bronchiectasis,8.666666667,B
+Gemifloxacin,Bronchitis,10,A
+Cefprozil,Bronchitis,9.571428571,A
+Cefzil,Bronchitis,9.5,A
+Levofloxacin,Bronchitis,9.006849315,A
+Cefditoren,Bronchitis,9,B
+Ceftibuten,Bronchitis,9,B
+Septra,Bronchitis,9,B
+Ery-Tab,Bronchitis,7,C
+Formoterol,Bronchospasm Prophylaxis,9.714285714,A
+Aloe vera,"Burns, External",10,A
+Silvadene,"Burns, External",10,A
+Solarcaine First Aid Medicated Spray,"Burns, External",10,A
+Xylocaine Jelly,"Burns, External",10,A
+Silver sulfadiazine,"Burns, External",9.972222222,A
+Trolamine salicylate,Bursitis,8.941176471,B
+Valcyte,CMV Prophylaxis,8,C
+Valganciclovir,CMV Prophylaxis,8,C
+Incruse Ellipta,COPD,10,A
+Striverdi Respimat,COPD,10,A
+Stiolto Respimat,COPD,9.8,A
+Umeclidinium / vilanterol,COPD,9.714285714,A
+Anoro Ellipta,COPD,9.615384615,A
+Rayos,COPD,9.5,A
+Aclidinium,COPD,9.4,A
+Daliresp,COPD,9.3,A
+Tudorza Pressair,COPD,9.125,A
+Primatene Mist,"COPD, Acute",9.833333333,A
+Levalbuterol,"COPD, Acute",9.428571429,A
+Foradil Aerolizer,"COPD, Maintenance",9.75,A
+Olodaterol / tiotropium,"COPD, Maintenance",9.714285714,A
+Brovana,"COPD, Maintenance",9.5,A
+DuoNeb,"COPD, Maintenance",9.5,A
+Roflumilast,"COPD, Maintenance",9.45,A
+Ipratropium,"COPD, Maintenance",9.2,A
+Spiriva,"COPD, Maintenance",9.181818182,A
+Tiotropium,"COPD, Maintenance",9.103448276,A
+Advair Diskus,"COPD, Maintenance",9.066666667,A
+Combivent,"COPD, Maintenance",9,B
+Combivent Respimat,"COPD, Maintenance",9,B
+Spiriva Respimat,"COPD, Maintenance",9,B
+Albuterol / ipratropium,"COPD, Maintenance",8.933333333,B
+ProAir HFA,"COPD, Maintenance",8.333333333,B
+Perforomist,"COPD, Maintenance",8,C
+Atrovent HFA,"COPD, Maintenance",7,C
+Floxin,Campylobacter Gastroenteritis,10,A
+Chaparral,Cance,10,A
+Vincasar PFS,Cance,10,A
+Doxorubicin,Cance,9.5,A
+Vincristine,Cance,9.5,A
+Octreotide,Carcinoid Tum,9.25,A
+Sandostatin,Carcinoid Tum,9.2,A
+Isoxsuprine,Cerebrovascular Insufficiency,9.5,A
+Botulinum toxin type b,Cervical Dystonia,9,B
+Dysport,Cervical Dystonia,8.666666667,B
+AbobotulinumtoxinA,Cervical Dystonia,8,C
+Azithromycin,Chlamydia Infection,8.919137466,B
+Amantadine,Chronic Fatigue Syndrome,8.916666667,B
+Trulance,Chronic Idiopathic Constipation,9.545454545,A
+Plecanatide,Chronic Idiopathic Constipation,9.541666667,A
+Gammagard,Chronic Inflammatory Demyelinating Polyradiculoneuropathy,7,C
+Imbruvica,Chronic Lymphocytic Leukemia,9.333333333,A
+Rituxan,Chronic Lymphocytic Leukemia,9.071428571,A
+Ibrutinib,Chronic Lymphocytic Leukemia,9,B
+Leukeran,Chronic Lymphocytic Leukemia,8.666666667,B
+Chlorambucil,Chronic Lymphocytic Leukemia,8,C
+Bosulif,Chronic Myelogenous Leukemia,10,A
+Hydrea,Chronic Myelogenous Leukemia,10,A
+Tasigna,Chronic Myelogenous Leukemia,9.777777778,A
+Nilotinib,Chronic Myelogenous Leukemia,9.727272727,A
+Imatinib,Chronic Myelogenous Leukemia,9.421052632,A
+Dasatinib,Chronic Myelogenous Leukemia,9.153846154,A
+Sprycel,Chronic Myelogenous Leukemia,8.888888889,B
+Dazidox,Chronic Pain,10,A
+Methadone Diskets,Chronic Pain,9.523809524,A
+Methadone,Chronic Pain,9.387755102,A
+Roxicodone,Chronic Pain,9.263157895,A
+Oxycodone,Chronic Pain,9.241463415,A
+MS Contin,Chronic Pain,9.120689655,A
+Exalgo,Chronic Pain,9,B
+Infumorph,Chronic Pain,9,B
+Ultram ODT,Chronic Pain,9,B
+Xtampza ER,Chronic Pain,9,B
+Butrans,Chronic Pain,8.928571429,B
+Embeda,Chronic Pain,8.928571429,B
+Duloxetine,Chronic Pain,8.902192243,B
+Talwin Nx,Chronic Pain,8.75,B
+Morphine / naltrexone,Chronic Pain,8.625,B
+Xartemis XR,Chronic Pain,8.333333333,B
+Belbuca,Chronic Pain,8.1,B
+Oxaydo,Chronic Pain,8,C
+Ziconotide,Chronic Pain,7,C
+Zenpep,Chronic Pancreatitis,10,A
+Hi-Vegi-Lip,Chronic Pancreatitis,9,B
+Pancreatin,Chronic Pancreatitis,9,B
+Pancreaze,Chronic Pancreatitis,9,B
+Dantrolene,Chronic Spasticity,10,A
+Gablofen,Chronic Spasticity,8.5,B
+Fidaxomicin,Clostridial Infection,9.5,A
+Dificid,Clostridial Infection,9.333333333,A
+Calan,Cluster Headaches,10,A
+Isoptin SR,Cluster Headaches,10,A
+Sterapred DS,Cluster Headaches,10,A
+Verelan PM,Cluster Headaches,9.5,A
+Verapamil,Cluster Headaches,9.432835821,A
+Imitrex Nasal,Cluster Headaches,9.333333333,A
+D.H.E. 45,Cluster Headaches,9.2,A
+Acyclovir / hydrocortisone,Cold Sores,10,A
+Retre-Gel,Cold Sores,10,A
+Tetracaine,Cold Sores,10,A
+Famvir,Cold Sores,9.857142857,A
+Penciclovir,Cold Sores,9.8,A
+Denavir,Cold Sores,9.76,A
+Zovirax Cream,Cold Sores,9.583333333,A
+Zovirax Ointment,Cold Sores,9.166666667,A
+Sitavig,Cold Sores,8.8,B
+Codimal DM,Cold Symptoms,10,A
+Dextromethorphan / phenylephrine / pyrilamine,Cold Symptoms,10,A
+Ed A-Hist,Cold Symptoms,10,A
+Primatene,Cold Symptoms,10,A
+Robitussin Cold Cough and Flu,Cold Symptoms,10,A
+Drixoral Cold and Allergy,Cold Symptoms,9.944444444,A
+Alka-Seltzer Plus Cold,Cold Symptoms,9.666666667,A
+Bronkaid,Cold Symptoms,9.666666667,A
+Rynatan,Cold Symptoms,9.666666667,A
+Acetaminophen / diphenhydramine / phenylephrine,Cold Symptoms,9.5,A
+Echinacea,Cold Symptoms,9.5,A
+Ephedrine / guaifenesin,Cold Symptoms,9.375,A
+Acetaminophen / chlorpheniramine / phenylephrine,Cold Symptoms,9.333333333,A
+Coricidin HBP Cold & Flu,Cold Symptoms,9.25,A
+Acetaminophen / chlorpheniramine,Cold Symptoms,9,B
+Acetaminophen / dextromethorphan / doxylamine / pseudoephedrine,Cold Symptoms,9,B
+Actifed,Cold Symptoms,9,B
+Sudafed PE Severe Cold,Cold Symptoms,9,B
+Vicks Nyquil D Cold and Flu Nighttime Relief,Cold Symptoms,9,B
+Pseudoephedrine / triprolidine,Cold Symptoms,8.714285714,B
+Stivarga,Colorectal Cance,10,A
+Xeloda,Colorectal Cance,9.5,A
+Bevacizumab,Colorectal Cance,9.230769231,A
+Oxaliplatin,Colorectal Cance,8,C
+Panitumumab,Colorectal Cance,8,C
+Vectibix,Colorectal Cance,8,C
+Cetuximab,Colorectal Cance,7.8,C
+Barium sulfate,Computed Tomography,8.5,B
+Readi-Cat,Computed Tomography,8,C
+Condylox,Condylomata Acuminata,9.333333333,A
+Podofilox,Condylomata Acuminata,9,B
+Alrex,Conjunctivitis,10,A
+Alamast,"Conjunctivitis, Allergic",10,A
+Alocril,"Conjunctivitis, Allergic",10,A
+Nedocromil,"Conjunctivitis, Allergic",10,A
+Optivar,"Conjunctivitis, Allergic",10,A
+Pemirolast,"Conjunctivitis, Allergic",10,A
+Zaditor,"Conjunctivitis, Allergic",10,A
+Lastacaft,"Conjunctivitis, Allergic",9.875,A
+Bepreve,"Conjunctivitis, Allergic",9.714285714,A
+Alcaftadine,"Conjunctivitis, Allergic",9.625,A
+Bepotastine,"Conjunctivitis, Allergic",9.6,A
+Ketotifen,"Conjunctivitis, Allergic",9.571428571,A
+Elestat,"Conjunctivitis, Allergic",9,B
+Epinastine,"Conjunctivitis, Allergic",9,B
+Besifloxacin,"Conjunctivitis, Bacterial",10,A
+Besivance,"Conjunctivitis, Bacterial",10,A
+Blephamide,"Conjunctivitis, Bacterial",10,A
+Dexamethasone / neomycin / polymyxin b,"Conjunctivitis, Bacterial",10,A
+Maxitrol,"Conjunctivitis, Bacterial",10,A
+Moxeza,"Conjunctivitis, Bacterial",10,A
+Prednisolone / sulfacetamide sodium,"Conjunctivitis, Bacterial",10,A
+Tobrex,"Conjunctivitis, Bacterial",10,A
+TobraDex,"Conjunctivitis, Bacterial",9.333333333,A
+Moxifloxacin,"Conjunctivitis, Bacterial",9.012048193,A
+Polytrim,"Conjunctivitis, Bacterial",9,B
+Tobramycin,"Conjunctivitis, Bacterial",9,B
+Vigamox,"Conjunctivitis, Bacterial",9,B
+Dexamethasone / tobramycin,"Conjunctivitis, Bacterial",8.6,B
+Hydrocortisone / neomycin / polymyxin b,"Conjunctivitis, Bacterial",8.5,B
+Zylet,"Conjunctivitis, Bacterial",8.4,B
+Loteprednol / tobramycin,"Conjunctivitis, Bacterial",8.333333333,B
+Azasite,"Conjunctivitis, Bacterial",8,C
+Polymyxin b / trimethoprim,"Conjunctivitis, Bacterial",8,C
+Citrate of Magnesia,Constipation,10,A
+ClearLax,Constipation,10,A
+Colace,Constipation,10,A
+Fleet Glycerin Suppositories Adult,Constipation,10,A
+Fletchers Castoria,Constipation,10,A
+Metamucil,Constipation,9.857142857,A
+Polyethylene glycol 3350,Constipation,9.610526316,A
+MiraLax,Constipation,9.535211268,A
+Magnesium oxide,Constipation,9.5,A
+Methylcellulose,Constipation,9.5,A
+Magnesium citrate,Constipation,9.477707006,A
+Fleet Enema,Constipation,9.428571429,A
+Phillips' Milk of Magnesia,Constipation,9.393939394,A
+Magnesium hydroxide,Constipation,9.390804598,A
+Glycerin,Constipation,9.333333333,A
+Dulcolax Laxative,Constipation,9.3125,A
+Milk of Magnesia,Constipation,9.181818182,A
+Senna,Constipation,9.04,A
+Dulcolax,Constipation,9.038251366,A
+Enemeez Mini,Constipation,9,B
+Bisacodyl,Constipation,8.970464135,B
+Correctol,Constipation,8.833333333,B
+Docusate,Constipation,8.714285714,B
+Senokot,Constipation,8,C
+Peri-Colace,"Constipation, Acute",10,A
+Docusate / senna,"Constipation, Acute",9.5,A
+Senokot S,"Constipation, Acute",9.5,A
+Lactulose,"Constipation, Acute",9.32,A
+Senna Plus,"Constipation, Acute",9,B
+Doc-Q-Lax,"Constipation, Acute",8,C
+Constulose,"Constipation, Chronic",10,A
+Linzess,"Constipation, Chronic",9.211711712,A
+Lubiprostone,"Constipation, Chronic",9.048780488,A
+Methylnaltrexone,"Constipation, Drug Induced",9.133333333,A
+Naloxegol,"Constipation, Drug Induced",9.051282051,A
+Amitiza,"Constipation, Drug Induced",9,B
+Flanax Pain Reliever,Costochondritis,10,A
+Buckleys Mixture,Cough,10,A
+Robitussin Cough + Chest Congestion DM,Cough,10,A
+Robitussin CoughGels Long-Acting,Cough,10,A
+Tussigon,Cough,10,A
+Chlorpheniramine / hydrocodone,Cough,9.726027397,A
+Tussionex Pennkinetic,Cough,9.7,A
+Tessalon Perles,Cough,9.689655172,A
+TussiCaps,Cough,9.666666667,A
+Guaifenesin / hydrocodone,Cough,9.5,A
+Codeine / promethazine,Cough,9.481481481,A
+Hydromet,Cough,9.421052632,A
+Tessalon,Cough,9.333333333,A
+Dextromethorphan / promethazine,Cough,9.25,A
+Homatropine / hydrocodone,Cough,9.25,A
+Promethazine DM,Cough,9.25,A
+Delsym 12 Hour Cough Relief,Cough,9.2,A
+Benzonatate,Cough,9.186813187,A
+Guaifenesin,Cough,9.174418605,A
+Codeine / guaifenesin,Cough,9,B
+Mucinex DM,Cough,9,B
+Mucinex Maximum Strength,Cough,9,B
+Mucinex,Cough,8.904761905,B
+Hycodan,Cough,8.866666667,B
+Delsym,Cough,8.705882353,B
+Cheratussin AC,Cough,8.666666667,B
+Dextromethorphan / guaifenesin,Cough,8.6,B
+Dextromethorphan,Cough,8.545454545,B
+Brompheniramine / codeine / phenylephrine,Cough and Nasal Congestion,10,A
+Capmist DM,Cough and Nasal Congestion,10,A
+Chlorpheniramine / dextromethorphan,Cough and Nasal Congestion,10,A
+Chlorpheniramine / hydrocodone / pseudoephedrine,Cough and Nasal Congestion,10,A
+Dextromethorphan / guaifenesin / phenylephrine,Cough and Nasal Congestion,10,A
+Guaifenesin / phenylephrine,Cough and Nasal Congestion,10,A
+M-End PE,Cough and Nasal Congestion,10,A
+Maxichlor PSE DM,Cough and Nasal Congestion,10,A
+Mucinex D Maximum Strength,Cough and Nasal Congestion,10,A
+Mucinex Fast-Max Severe Congestion & Cough,Cough and Nasal Congestion,10,A
+Zutripro,Cough and Nasal Congestion,10,A
+Chlorpheniramine / dextromethorphan / pseudoephedrine,Cough and Nasal Congestion,9.75,A
+Chlorpheniramine / dextromethorphan / phenylephrine,Cough and Nasal Congestion,9.666666667,A
+Chlorpheniramine / hydrocodone / phenylephrine,Cough and Nasal Congestion,9.666666667,A
+Bromfed DM,Cough and Nasal Congestion,9.6,A
+Dextromethorphan / guaifenesin / pseudoephedrine,Cough and Nasal Congestion,9.6,A
+Brompheniramine / dextromethorphan / pseudoephedrine,Cough and Nasal Congestion,9.333333333,A
+Chlophedianol / guaifenesin / pseudoephedrine,Cough and Nasal Congestion,9,B
+Rezira,Cough and Nasal Congestion,9,B
+Vanatab DX,Cough and Nasal Congestion,9,B
+Guaifenesin / pseudoephedrine,Cough and Nasal Congestion,8.706521739,B
+Mucinex D,Cough and Nasal Congestion,8.61971831,B
+Hydrocodone / pseudoephedrine,Cough and Nasal Congestion,8,C
+Maxifed DM,Cough and Nasal Congestion,8,C
+Azasan,Crohn's Disease,10,A
+Colazal,Crohn's Disease,9.2,A
+Sulfasalazine,Crohn's Disease,8.954545455,B
+Balsalazide,Crohn's Disease,8.8,B
+Vedolizumab,Crohn's Disease,8.5,B
+HyoMax SR,Crohn's Disease,8,C
+Entocort EC,"Crohn's Disease, Acute",9.090909091,A
+Mercaptopurine,"Crohn's Disease, Maintenance",10,A
+Asacol HD,"Crohn's Disease, Maintenance",9.666666667,A
+Pentasa,"Crohn's Disease, Maintenance",8.793103448,B
+Nystatin / triamcinolone,Cutaneous Candidiasis,9.8,A
+Bexarotene,Cutaneous T-cell Lymphoma,9.5,A
+Targretin,Cutaneous T-cell Lymphoma,9,B
+Dornase alfa,Cystic Fibrosis,10,A
+Pancrelipase,Cystic Fibrosis,9.615384615,A
+Nizoral A-D,Dandruff,10,A
+Salicylic acid / sulfur,Dandruff,10,A
+Ketoconazole,Dandruff,9.75,A
+Innohep,Deep Vein Thrombosis,10,A
+Enoxaparin,Deep Vein Thrombosis,9.428571429,A
+Fondaparinux,Deep Vein Thrombosis,9,B
+Lovenox,Deep Vein Thrombosis,9,B
+Rivaroxaban,Deep Vein Thrombosis,8.941176471,B
+Tinzaparin,Deep Vein Thrombosis,7,C
+Arixtra,"Deep Vein Thrombosis, Prophylaxis",9,B
+Asendin,Depression,10,A
+Norpramin,Depression,10,A
+Oleptro,Depression,10,A
+Maprotiline,Depression,9.75,A
+Remeron SolTab,Depression,9.75,A
+Amitriptyline / chlordiazepoxide,Depression,9.714285714,A
+Nefazodone,Depression,9.611111111,A
+Tranylcypromine,Depression,9.59375,A
+Desipramine,Depression,9.538461538,A
+Parnate,Depression,9.529411765,A
+Amoxapine,Depression,9.5,A
+Limbitrol,Depression,9.5,A
+Serzone,Depression,9.5,A
+Niacin,Depression,9.366666667,A
+Phenelzine,Depression,9.32,A
+St. john's wort,Depression,9.292682927,A
+L-methylfolate,Depression,9.271186441,A
+Deplin,Depression,9.25,A
+Nardil,Depression,9.181818182,A
+Lexapro,Depression,9.105691057,A
+Fluoxetine,Depression,9.079310345,A
+Effexor XR,Depression,9.054421769,A
+Rexulti,Depression,9.019607843,A
+Aplenzin,Depression,9,B
+Budeprion SR,Depression,9,B
+Isocarboxazid,Depression,9,B
+Marplan,Depression,9,B
+Protriptyline,Depression,9,B
+Selegiline,Depression,9,B
+Sertraline,Depression,9,B
+Vivactil,Depression,9,B
+Paxil,Depression,8.981707317,B
+Methylphenidate,Depression,8.953703704,B
+Desvenlafaxine,Depression,8.949152542,B
+Wellbutrin,Depression,8.945273632,B
+Cymbalta,Depression,8.938432836,B
+Vilazodone,Depression,8.918103448,B
+Celexa,Depression,8.907356948,B
+Pristiq,Depression,8.892307692,B
+Zyprexa,Depression,8.816326531,B
+Effexor,Depression,8.802631579,B
+Imipramine,Depression,8.8,B
+Paxil CR,Depression,8.75,B
+Sinequan,Depression,8.75,B
+Emsam,Depression,8.733333333,B
+S-adenosylmethionine,Depression,8.444444444,B
+Ala-Quin,Dermatitis,10,A
+Clioquinol / hydrocortisone,Dermatitis,10,A
+Hylira,Dermatitis,10,A
+Temovate,Dermatitis,10,A
+Fluocinonide,Dermatitis,9.761904762,A
+Lidex,Dermatitis,9.666666667,A
+Verdeso,Dermatitis,9.666666667,A
+Clobetasol,Dermatitis,9.648148148,A
+Olux,Dermatitis,9.5,A
+Locoid Lipocream,Dermatitis,9,B
+Alcortin A,Dermatitis,8.5,B
+Aloe vera / hydrocortisone / iodoquinol,Dermatitis,8.5,B
+Balsam peru / castor oil / trypsin,Dermatologic Lesion,10,A
+Bensal HP,Dermatological Disorders,10,A
+Benzoic acid / salicylic acid,Dermatological Disorders,10,A
+Diprosone,Dermatological Disorders,10,A
+Luxiq,Dermatological Disorders,10,A
+Rea Lo 40,Dermatological Disorders,10,A
+Silver,Dermatological Disorders,9.5,A
+Carmol 20,Dermatological Disorders,9,B
+Duoplant,Dermatological Disorders,9,B
+Pramosone,Dermatological Disorders,8,C
+Hydroxychloroquine,Dermatomyositis,8.794871795,B
+Gris-PEG,Dermatophytosis,10,A
+Itraconazole,Dermatophytosis,9.142857143,A
+Grifulvin V,Dermatophytosis,8,C
+DDAVP,Diabetes Insipidus,9.75,A
+Desmopressin,Diabetes Insipidus,9.5,A
+DDAVP Nasal,Diabetes Insipidus,9,B
+Humalog KwikPen,"Diabetes, Type 1",10,A
+Humulin R U-500 (Concentrated),"Diabetes, Type 1",10,A
+Insulin aspart / insulin aspart protamine,"Diabetes, Type 1",10,A
+NovoLog Mix 70 / 30,"Diabetes, Type 1",10,A
+Pramlintide,"Diabetes, Type 1",10,A
+SymlinPen 60,"Diabetes, Type 1",10,A
+"Insulin inhalation, rapid acting","Diabetes, Type 1",9.724137931,A
+Afrezza,"Diabetes, Type 1",9.705882353,A
+Insulin lispro / insulin lispro protamine,"Diabetes, Type 1",9.5,A
+Insulin regular,"Diabetes, Type 1",9.5,A
+Symlin,"Diabetes, Type 1",9.5,A
+Humalog,"Diabetes, Type 1",9.333333333,A
+ReliOn / Novolin 70 / 30,"Diabetes, Type 1",9,B
+Insulin degludec,"Diabetes, Type 1",8.866666667,B
+Novolog,"Diabetes, Type 1",8,C
+Albiglutide,"Diabetes, Type 2",10,A
+Basaglar,"Diabetes, Type 2",10,A
+Exubera,"Diabetes, Type 2",10,A
+Glimepiride / pioglitazone,"Diabetes, Type 2",10,A
+GlipiZIDE XL,"Diabetes, Type 2",10,A
+Glumetza,"Diabetes, Type 2",10,A
+Glyset,"Diabetes, Type 2",10,A
+NovoLog FlexPen,"Diabetes, Type 2",10,A
+Novolin 70 / 30,"Diabetes, Type 2",10,A
+Novolin N,"Diabetes, Type 2",10,A
+Synjardy,"Diabetes, Type 2",10,A
+Tanzeum,"Diabetes, Type 2",10,A
+Pioglitazone,"Diabetes, Type 2",9.8,A
+Insulin lispro,"Diabetes, Type 2",9.666666667,A
+Levemir,"Diabetes, Type 2",9.666666667,A
+Toujeo,"Diabetes, Type 2",9.666666667,A
+Glucotrol,"Diabetes, Type 2",9.6,A
+Insulin detemir,"Diabetes, Type 2",9.555555556,A
+Humalog Mix 75 / 25,"Diabetes, Type 2",9.5,A
+Insulin glulisine,"Diabetes, Type 2",9.5,A
+Insulin isophane / insulin regular,"Diabetes, Type 2",9.5,A
+Tresiba,"Diabetes, Type 2",9.5,A
+Onglyza,"Diabetes, Type 2",9.333333333,A
+Janumet,"Diabetes, Type 2",9.307692308,A
+Actos,"Diabetes, Type 2",9.285714286,A
+Xigduo XR,"Diabetes, Type 2",9.25,A
+Insulin glargine,"Diabetes, Type 2",9.225806452,A
+Byetta,"Diabetes, Type 2",9.195121951,A
+Januvia,"Diabetes, Type 2",9.19047619,A
+Sitagliptin,"Diabetes, Type 2",9.19047619,A
+Canagliflozin,"Diabetes, Type 2",9.186666667,A
+Victoza,"Diabetes, Type 2",9.165467626,A
+Farxiga,"Diabetes, Type 2",9.153846154,A
+Lantus,"Diabetes, Type 2",9.153846154,A
+Invokana,"Diabetes, Type 2",9.116883117,A
+Exenatide,"Diabetes, Type 2",9.038167939,A
+Empagliflozin,"Diabetes, Type 2",9.037037037,A
+Avandamet,"Diabetes, Type 2",9,B
+Avandia,"Diabetes, Type 2",9,B
+Glipizide,"Diabetes, Type 2",9,B
+Glucophage,"Diabetes, Type 2",9,B
+Glyburide,"Diabetes, Type 2",9,B
+Linagliptin,"Diabetes, Type 2",9,B
+Prandin,"Diabetes, Type 2",9,B
+Repaglinide,"Diabetes, Type 2",9,B
+Rosiglitazone,"Diabetes, Type 2",9,B
+Saxagliptin,"Diabetes, Type 2",9,B
+Toujeo Solostar,"Diabetes, Type 2",9,B
+Tradjenta,"Diabetes, Type 2",9,B
+Glimepiride,"Diabetes, Type 2",8.962962963,B
+Dapagliflozin,"Diabetes, Type 2",8.933333333,B
+Dulaglutide,"Diabetes, Type 2",8.908333333,B
+Trulicity,"Diabetes, Type 2",8.901785714,B
+Bydureon,"Diabetes, Type 2",8.880434783,B
+Glyxambi,"Diabetes, Type 2",8.8,B
+Jardiance,"Diabetes, Type 2",8.791666667,B
+Lantus Solostar,"Diabetes, Type 2",8.777777778,B
+Empagliflozin / linagliptin,"Diabetes, Type 2",8.75,B
+Jentadueto,"Diabetes, Type 2",8.75,B
+Insulin aspart,"Diabetes, Type 2",8.714285714,B
+Amaryl,"Diabetes, Type 2",8.666666667,B
+Kombiglyze XR,"Diabetes, Type 2",8.666666667,B
+Glucophage XR,"Diabetes, Type 2",8.5,B
+ActoPlus Met,"Diabetes, Type 2",8.333333333,B
+Glucovance,"Diabetes, Type 2",8,C
+Humulin N,"Diabetes, Type 2",8,C
+Alogliptin,"Diabetes, Type 2",7,C
+Nesina,"Diabetes, Type 2",7,C
+Altace,Diabetic Kidney Disease,9.5,A
+Iluvien,Diabetic Macular Edema,10,A
+Eylea,Diabetic Macular Edema,9.4,A
+Fluocinolone,Diabetic Macular Edema,9,B
+Aflibercept,Diabetic Macular Edema,8.75,B
+Nucynta ER,Diabetic Peripheral Neuropathy,8.896551724,B
+Regadenoson,Diagnosis and Investigation,9,B
+Lexiscan,Diagnosis and Investigation,8.75,B
+Methacholine,Diagnosis and Investigation,7,C
+Provocholine,Diagnosis and Investigation,7,C
+Calmoseptine,Diaper Rash,10,A
+Menthol / zinc oxide,Diaper Rash,10,A
+Miconazole / zinc oxide,Diaper Rash,10,A
+Triple Paste,Diaper Rash,10,A
+Vusion,Diaper Rash,10,A
+Zinc oxide,Diaper Rash,10,A
+Boudreaux Butt Paste,Diaper Rash,9.333333333,A
+Attapulgite,Diarrhea,10,A
+Imodium A-D,Diarrhea,10,A
+Lonox,Diarrhea,10,A
+Paregoric,Diarrhea,10,A
+Pepto-Bismol,Diarrhea,9.833333333,A
+Loperamide,Diarrhea,9.75,A
+Opium,Diarrhea,9.7,A
+Lotronex,Diarrhea,9.642857143,A
+Florastor,Diarrhea,9.5,A
+Atropine / diphenoxylate,Diarrhea,9.44,A
+Bismuth subsalicylate,Diarrhea,9.333333333,A
+Lomotil,Diarrhea,9.285714286,A
+Raspberry,Diarrhea,9,B
+Saccharomyces boulardii lyo,Diarrhea,8.6,B
+Imotil,Diarrhea,8,C
+Atropine / difenoxin,"Diarrhea, Acute",10,A
+Motofen,"Diarrhea, Chronic",10,A
+Imodium,"Diarrhea, Chronic",9.75,A
+Welchol,"Diarrhea, Chronic",9.4,A
+Colesevelam,"Diarrhea, Chronic",9.37037037,A
+Paromomycin,Dientamoeba fragilis,10,A
+Ascorbic acid,Dietary Supplementation,10,A
+Cerefolin NAC,Dietary Supplementation,10,A
+CoQ10,Dietary Supplementation,10,A
+Glutamine,Dietary Supplementation,10,A
+L-Methylfolate Calcium,Dietary Supplementation,10,A
+Liquid Co-Q10,Dietary Supplementation,10,A
+Magnesium gluconate,Dietary Supplementation,10,A
+Vitamin C,Dietary Supplementation,10,A
+Ubiquinone,Dietary Supplementation,9.833333333,A
+Chondroitin / glucosamine,Dietary Supplementation,9.5,A
+Arginine,Dietary Supplementation,9.4,A
+Multivitamin,Dietary Supplementation,9.333333333,A
+Amino acids,Dietary Supplementation,9,B
+Biotin,Dietary Supplementation,9,B
+Coenzyme Q10,Dietary Supplementation,9,B
+Diosmiplex,Dietary Supplementation,9,B
+Vasculera,Dietary Supplementation,9,B
+Bifidobacterium infantis / lactobacillus acidophilus,Dietary Supplementation,8.333333333,B
+Dehydroepiandrosterone,Dietary Supplementation,8,C
+Phillips Colon Health,Dietary Supplementation,8,C
+Zinc gluconate,Dietary Supplementation,7,C
+Ciprofloxacin,Diverticulitis,8.968944099,B
+Flagyl,Diverticulitis,8.695652174,B
+Lifitegrast,Dry Eye Disease,9.133333333,A
+Xiidra,Dry Eye Disease,8.925925926,B
+Lacrisert,Dry Eye Disease,8.833333333,B
+Corn Huskers Lotion,Dry Skin,10,A
+Dexpanthenol,Dry Skin,10,A
+Lac-Hydrin,Dry Skin,10,A
+Lactic acid,Dry Skin,10,A
+Lanolin,Dry Skin,10,A
+Biafine,Dry Skin,9.857142857,A
+Ammonium lactate,Dry Skin,9.666666667,A
+Urea,Dry Skin,9.6,A
+EpiCeram,Dry Skin,9.5,A
+X-Viate,Dry Skin,9.5,A
+Emollients,Dry Skin,9.409090909,A
+Nutraplus,Dry Skin,9,B
+Bag Balm,Dry Skin,8,C
+Aveeno,Dry Skin,7,C
+Methscopolamine,Dumping Syndrome,9.166666667,A
+Collagenase clostridium histolyticum,Dupuytren's contracture,10,A
+Xiaflex,Dupuytren's contracture,10,A
+ProAmatine,Dysautonomia,9,B
+Mestinon,Dysautonomia,8.5,B
+Osphena,Dyspareunia,9,B
+Ospemifene,Dyspareunia,8.666666667,B
+Myobloc,Dystonia,10,A
+Flavoxate,Dysuria,10,A
+Uricalm,Dysuria,9.875,A
+Phenazopyridine,Dysuria,9.222222222,A
+Uristat,Dysuria,8,C
+Acetic acid / antipyrine / benzocaine / polycosanol,Ear Wax Impaction,10,A
+Debrox,Ear Wax Impaction,10,A
+Cortizone-10,Eczema,10,A
+Dermatop,Eczema,10,A
+Desonate,Eczema,10,A
+Dexpak Taperpak,Eczema,10,A
+Halog-E,Eczema,10,A
+Westcort,Eczema,10,A
+Dupilumab,Eczema,9.666666667,A
+Flurandrenolide,Eczema,9.666666667,A
+Mometasone,Eczema,9.637931034,A
+Prednicarbate,Eczema,9.5,A
+Topicort,Eczema,9.5,A
+Desonide,Eczema,9.391304348,A
+Halcinonide,Eczema,9.333333333,A
+Dupixent,Eczema,9.307692308,A
+Elidel,Eczema,9.222222222,A
+Pimecrolimus,Eczema,9.142857143,A
+DesOwen,Eczema,9,B
+Halog,Eczema,9,B
+Psorcon E,Eczema,9,B
+Bumetanide,Edema,10,A
+Chlorothiazide,Edema,10,A
+Torsemide,Edema,10,A
+Dyazide,Edema,9.5,A
+Hydrochlorothiazide / spironolactone,Edema,9.5,A
+Hydrochlorothiazide / triamterene,Edema,9.266666667,A
+Lasix,Edema,9.071428571,A
+Furosemide,Edema,8.896551724,B
+Bumex,Edema,8.5,B
+Ethacrynic acid,Edema,8,C
+Triamterene,Edema,7.5,C
+EContra EZ,Emergency Contraception,10,A
+Opcicon One-Step,Emergency Contraception,10,A
+Take Action,Emergency Contraception,10,A
+Plan B,Emergency Contraception,9.67822736,A
+Aftera,Emergency Contraception,9.605263158,A
+Plan B One-Step,Emergency Contraception,9.593495935,A
+My Way,Emergency Contraception,9.545454545,A
+Ulipristal,Emergency Contraception,9.257142857,A
+Next Choice,Emergency Contraception,9.208333333,A
+ella,Emergency Contraception,9.181818182,A
+Fallback Solo,Emergency Contraception,8,C
+Megace,Endometrial Cance,9.5,A
+Progesterone,"Endometrial Hyperplasia, Prophylaxis",8.071428571,B
+Danocrine,Endometriosis,10,A
+Danazol,Endometriosis,9.4,A
+Goserelin,Endometriosis,9.230769231,A
+Levlen,Endometriosis,9.166666667,A
+Medroxyprogesterone,Endometriosis,8.961748634,B
+Lupron Depot,Endometriosis,8.833333333,B
+Leuprolide,Endometriosis,8.775280899,B
+Nafarelin,Endometriosis,8.5,B
+Synarel,Endometriosis,7,C
+Mebaral,Epilepsy,10,A
+Felbatol,Epilepsy,9.5,A
+Mephobarbital,Epilepsy,9.5,A
+Carbatrol,Epilepsy,9.285714286,A
+Levetiracetam,Epilepsy,8.882352941,B
+Carbamazepine,Epilepsy,8.861386139,B
+Damiana,Erectile Dysfunction,10,A
+Viagra,Erectile Dysfunction,9.6,A
+Tadalafil,Erectile Dysfunction,9.43866171,A
+Sildenafil,Erectile Dysfunction,9.398550725,A
+Edex,Erectile Dysfunction,9.352941176,A
+Caverject Impulse,Erectile Dysfunction,9.333333333,A
+Avanafil,Erectile Dysfunction,9.176470588,A
+Alprostadil,Erectile Dysfunction,9.14893617,A
+Muse,Erectile Dysfunction,9.142857143,A
+Levitra,Erectile Dysfunction,9.13559322,A
+Stendra,Erectile Dysfunction,9.066666667,A
+Vardenafil,Erectile Dysfunction,9.066666667,A
+Caverject,Erectile Dysfunction,9,B
+Staxyn,Erectile Dysfunction,9,B
+Yohimbine,Erectile Dysfunction,9,B
+Rabeprazole,Erosive Esophagitis,9.625,A
+Nexium,Erosive Esophagitis,9.491525424,A
+Omeprazole,Erosive Esophagitis,9.25,A
+Conivaptan,Euvolemic Hyponatremia,9,B
+Vaprisol,Euvolemic Hyponatremia,9,B
+Mucomyst,Expectoration,10,A
+Acetylcysteine,Expectoration,9.555555556,A
+Benztropine,Extrapyramidal Reaction,9.5,A
+Artane,Extrapyramidal Reaction,9,B
+Cogentin,Extrapyramidal Reaction,9,B
+Trihexyphenidyl,Extrapyramidal Reaction,8,C
+Hypotears,Eye Redness,10,A
+Prefrin,Eye Redness,10,A
+Refresh PM,Eye Redness,10,A
+Systane,Eye Redness,10,A
+Tetrahydrozoline,Eye Redness,10,A
+Visine Original,Eye Redness,10,A
+Systane Balance,Eye Redness,9.666666667,A
+FreshKote,Eye Redness,9.571428571,A
+Ocular lubricant,Eye Redness,9.423076923,A
+GenTeal,Eye Redness,9,B
+TheraTears,Eye Redness,9,B
+FML Forte Liquifilm,Eye Redness,7,C
+Systane Ultra,Eye Redness,7,C
+Tetrahydrozoline / zinc sulfate,Eye Redness/Itching,9.5,A
+Visine Totality Multi-Symptom Relief,Eye Redness/Itching,9.5,A
+Naphazoline / pheniramine,Eye Redness/Itching,9.142857143,A
+Opcon-A,Eye Redness/Itching,8.5,B
+Axid,GERD,10,A
+Calcium carbonate / simethicone,GERD,10,A
+Mylanta,GERD,10,A
+Nexium 24HR,GERD,10,A
+Nizatidine,GERD,10,A
+Pepcid AC Chewable Tablets,GERD,10,A
+Zegerid OTC,GERD,10,A
+Aluminum hydroxide / magnesium trisilicate,GERD,9.666666667,A
+Zegerid,GERD,9.666666667,A
+Kapidex,GERD,9.647058824,A
+Esomeprazole,GERD,9.5,A
+Prilosec OTC,GERD,9.5,A
+Prevacid,GERD,9.466666667,A
+Pantoprazole,GERD,9.388888889,A
+Dexilant,GERD,9.351851852,A
+Aluminum hydroxide / magnesium hydroxide / simethicone,GERD,9.333333333,A
+Zantac,GERD,9.235294118,A
+Dexlansoprazole,GERD,9.192307692,A
+Zantac 150,GERD,9.133333333,A
+Ranitidine,GERD,9.12,A
+Famotidine,GERD,9,B
+Sucralfate,GERD,8.928571429,B
+Prilosec,GERD,8.882352941,B
+Pepcid,GERD,8.25,B
+Nexium IV,GERD,8,C
+Prevacid OTC,GERD,8,C
+Citric acid / simethicone / sodium bicarbonate,Gas,10,A
+Devrom,Gas,10,A
+Gas-X,Gas,9.8,A
+Simethicone,Gas,9.333333333,A
+Gelusil,Gas,9,B
+Cerezyme,Gaucher Disease,9,B
+Imiglucerase,Gaucher Disease,9,B
+Escitalopram,Generalized Anxiety Disorde,9.122877123,A
+Seroquel,Generalized Anxiety Disorde,8.873417722,B
+Insulin isophane,Gestational Diabetes,9,B
+Peridex,Gingivitis,10,A
+Periogard,Gingivitis,10,A
+Brimonidine / timolol,Glaucoma,9,B
+Alphagan P,"Glaucoma, Open Angle",10,A
+Istalol,"Glaucoma, Open Angle",10,A
+Travoprost,"Glaucoma, Open Angle",10,A
+Brimonidine / brinzolamide,"Glaucoma, Open Angle",9.666666667,A
+Xalatan,"Glaucoma, Open Angle",9.666666667,A
+Tafluprost,"Glaucoma, Open Angle",9.5,A
+Dorzolamide,"Glaucoma, Open Angle",9,B
+Lumigan,"Glaucoma, Open Angle",9,B
+Simbrinza,"Glaucoma, Open Angle",9,B
+Timolol,"Glaucoma, Open Angle",8.333333333,B
+Cosopt,"Glaucoma, Open Angle",8,C
+Dorzolamide / timolol,"Glaucoma, Open Angle",7,C
+Timoptic Ocudose,"Glaucoma, Open Angle",7,C
+Trusopt,"Glaucoma, Open Angle",7,C
+Zioptan,Glaucoma/Intraocular Hypertension,9,B
+Temodar,Glioblastoma Multiforme,9.2,A
+Benemid,Gout,10,A
+Lesinurad,Gout,10,A
+Zurampic,Gout,10,A
+Krystexxa,Gout,9.666666667,A
+Pegloticase,Gout,9.666666667,A
+Aloprim,Gout,9.5,A
+Probenecid,Gout,9.5,A
+Febuxostat,Gout,9.391304348,A
+Uloric,Gout,9.291666667,A
+Allopurinol,Gout,9.181818182,A
+Zyloprim,Gout,9,B
+Solu-Medrol,"Gout, Acute",9.666666667,A
+Colcrys,"Gout, Acute",9.333333333,A
+Methylprednisolone,"Gout, Acute",9.288288288,A
+Medrol,"Gout, Acute",9.25,A
+Indomethacin,"Gout, Acute",9.188235294,A
+Advil Liqui-Gels,"Gout, Acute",9.166666667,A
+Indocin,"Gout, Acute",9.125,A
+Tolmetin,"Gout, Acute",8.5,B
+Fenoprofen,"Gout, Acute",8,C
+Nalfon,"Gout, Acute",8,C
+Colchicine / probenecid,Gouty Arthritis,10,A
+Probenecid and Colchicine,Gouty Arthritis,10,A
+Sulfinpyrazone,Gouty Arthritis,9,B
+Atazanavir,HIV Infection,10,A
+Combivir,HIV Infection,10,A
+Darunavir,HIV Infection,10,A
+Emtricitabine / rilpivirine / tenofovir alafenamide,HIV Infection,10,A
+Enfuvirtide,HIV Infection,10,A
+Epivir,HIV Infection,10,A
+Epzicom,HIV Infection,10,A
+Fuzeon,HIV Infection,10,A
+Lamivudine / zidovudine,HIV Infection,10,A
+Odefsey,HIV Infection,10,A
+Reyataz,HIV Infection,10,A
+Stribild,HIV Infection,9.771929825,A
+Cobicistat / elvitegravir / emtricitabine / tenofovir,HIV Infection,9.7,A
+Tivicay,HIV Infection,9.666666667,A
+Truvada,HIV Infection,9.555555556,A
+Triumeq,HIV Infection,9.454545455,A
+Abacavir / dolutegravir / lamivudine,HIV Infection,9.45,A
+Emtricitabine / tenofovir,HIV Infection,9.444444444,A
+Atripla,HIV Infection,9.412698413,A
+Dolutegravir,HIV Infection,9.4,A
+Isentress,HIV Infection,9.375,A
+Raltegravir,HIV Infection,9.375,A
+Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide,HIV Infection,9.35483871,A
+Efavirenz / emtricitabine / tenofovir,HIV Infection,9.343283582,A
+Genvoya,HIV Infection,9.303030303,A
+Emtricitabine / rilpivirine / tenofovir,HIV Infection,9.194444444,A
+Complera,HIV Infection,9.151515152,A
+Abacavir / lamivudine / zidovudine,HIV Infection,9,B
+Trizivir,HIV Infection,9,B
+Lopinavir / ritonavir,HIV Infection,8.666666667,B
+Nevirapine,HIV Infection,8.5,B
+Efavirenz,HIV Infection,8,C
+Etravirine,HIV Infection,8,C
+Kaletra,HIV Infection,8,C
+Maraviroc,HIV Infection,8,C
+Selzentry,HIV Infection,8,C
+Viramune,HIV Infection,8,C
+Sustiva,HIV Infection,7.5,C
+Cladribine,Hairy Cell Leukemia,10,A
+Leustatin,Hairy Cell Leukemia,10,A
+Nature-Throid,Hashimoto's disease,9.545454545,A
+Unithroid,Hashimoto's disease,9.5,A
+Levothroid,Hashimoto's disease,9,B
+Levo-T,Hashimoto's disease,8,C
+Malathion,Head Lice,10,A
+Natroba,Head Lice,10,A
+Ovide,Head Lice,10,A
+Spinosad,Head Lice,10,A
+Sklice,Head Lice,9.8125,A
+Benzyl alcohol,Head Lice,8,C
+Ulesfia,Head Lice,8,C
+Keytruda,Head and Neck Cance,9,B
+Erbitux,Head and Neck Cance,8,C
+Acetaminophen / phenylephrine,Headache,10,A
+Anaprox-DS,Headache,10,A
+Ascomp with Codeine,Headache,10,A
+BC Fast Pain Relief,Headache,10,A
+Excedrin Sinus Headache,Headache,10,A
+Phrenilin,Headache,10,A
+Esgic-Plus,Headache,9.888888889,A
+Acetaminophen / butalbital / caffeine,Headache,9.666666667,A
+Esgic,Headache,9.666666667,A
+Aspirin / butalbital / caffeine / codeine,Headache,9.578947368,A
+Fioricet,Headache,9.564102564,A
+Acetaminophen / dichloralphenazone / isometheptene mucate,Headache,9.4,A
+Dolgic Plus,Headache,9.4,A
+Fioricet with Codeine,Headache,9.4,A
+Acetaminophen / butalbital / caffeine / codeine,Headache,9.375,A
+Advil,Headache,9.363636364,A
+Acetaminophen / caffeine,Headache,9.333333333,A
+Bupap,Headache,9.333333333,A
+Excedrin PM,Headache,9.333333333,A
+Fiorinal with Codeine,Headache,9.25,A
+Acetaminophen / butalbital,Headache,9.222222222,A
+Acetaminophen / diphenhydramine,Headache,9.066666667,A
+Advil Migraine,Headache,9,B
+Epidrin,Headache,9,B
+Excedrin Tension Headache,Headache,9,B
+Acetaminophen / caffeine / isometheptene mucate,Headache,8.857142857,B
+Prodrin,Headache,8.5,B
+Streptokinase,Heart Attack,10,A
+Clopidogrel,Heart Attack,9.464285714,A
+Plavix,Heart Attack,9.380952381,A
+Nitrolingual Pumpspray,Heart Attack,9,B
+Ivabradine,Heart Failure,10,A
+Entresto,Heart Failure,9.666666667,A
+Coreg,Heart Failure,9.380952381,A
+Sacubitril / valsartan,Heart Failure,9.25,A
+BiDil,Heart Failure,9,B
+Hydralazine / isosorbide dinitrate,Heart Failure,9,B
+Nitrostat,Heart Failure,9,B
+Isosorbide mononitrate,Heart Failure,8.909090909,B
+Aciphex,Helicobacter Pylori Infection,9.7,A
+Prevpac,Helicobacter Pylori Infection,8.857142857,B
+Amoxicillin / clarithromycin / lansoprazole,Helicobacter Pylori Infection,8.852941176,B
+Pylera,Helicobacter Pylori Infection,8.516129032,B
+Bismuth subcitrate potassium / metronidazole / tetracycline,Helicobacter Pylori Infection,8.40625,B
+Advate,Hemophilia A,9,B
+Antihemophilic factor,Hemophilia A,8,C
+Nuwiq,Hemophilia A,8,C
+Alphanine SD,Hemophilia B,9,B
+RectiCare,Hemorrhoids,10,A
+Tronolane Anesthetic for Hemorrhoids,Hemorrhoids,10,A
+Pramoxine,Hemorrhoids,9.75,A
+Proctofoam,Hemorrhoids,9.75,A
+Analpram-HC,Hemorrhoids,9.714285714,A
+Proctofoam HC,Hemorrhoids,9.666666667,A
+Nupercainal,Hemorrhoids,9.6,A
+Hydrocortisone / pramoxine,Hemorrhoids,9.454545455,A
+Proctosol-HC,Hemorrhoids,9.333333333,A
+Hydrocortisone / lidocaine,Hemorrhoids,9,B
+LMX 5,Hemorrhoids,9,B
+Phenylephrine / pramoxine,Hemorrhoids,8.5,B
+Generlac,Hepatic Encephalopathy,10,A
+Enulose,Hepatic Encephalopathy,9,B
+Epivir-HBV,Hepatitis B,10,A
+Tenofovir,Hepatitis B,9.333333333,A
+Lamivudine,Hepatitis B,9,B
+Viread,Hepatitis B,9,B
+Boceprevir,Hepatitis C,10,A
+Daclatasvir,Hepatitis C,10,A
+Glecaprevir / pibrentasvir,Hepatitis C,10,A
+Mavyret,Hepatitis C,10,A
+Rebetol,Hepatitis C,10,A
+Victrelis,Hepatitis C,10,A
+Dasabuvir / ombitasvir / paritaprevir / ritonavir,Hepatitis C,9.8,A
+Viekira Pak,Hepatitis C,9.8,A
+Sovaldi,Hepatitis C,9.761904762,A
+Simeprevir,Hepatitis C,9.666666667,A
+Harvoni,Hepatitis C,9.621301775,A
+Daklinza,Hepatitis C,9.6,A
+Ledipasvir / sofosbuvir,Hepatitis C,9.58045977,A
+Zepatier,Hepatitis C,9.5625,A
+Olysio,Hepatitis C,9.5,A
+Peginterferon alfa-2a,Hepatitis C,9.5,A
+Elbasvir / grazoprevir,Hepatitis C,9.470588235,A
+Sofosbuvir,Hepatitis C,9.444444444,A
+Ribavirin,Hepatitis C,9.333333333,A
+Pegasys,Hepatitis C,9.2,A
+Telaprevir,Hepatitis C,9.142857143,A
+Epclusa,Hepatitis C,9.111111111,A
+Incivek,Hepatitis C,9,B
+Sofosbuvir / velpatasvir,Hepatitis C,8.846153846,B
+Copegus,Hepatitis C,8,C
+Sorafenib,Hepatocellular Carcinoma,9,B
+Bee pollen,Herbal Supplementation,10,A
+Royal jelly,Herbal Supplementation,10,A
+Slippery elm,Herbal Supplementation,10,A
+Turmeric,Herbal Supplementation,9.6,A
+Lecithin,Herbal Supplementation,9.5,A
+Scullcap,Herbal Supplementation,9,B
+Milk thistle,Herbal Supplementation,8,C
+Creatine,Herbal Supplementation,7,C
+Pennyroyal,Herbal Supplementation,7,C
+C1 esterase inhibitor (human),Hereditary Angioedema,10,A
+Cinryze,Hereditary Angioedema,10,A
+Conestat alfa,Hereditary Angioedema,10,A
+Ecallantide,Hereditary Angioedema,10,A
+Firazyr,Hereditary Angioedema,10,A
+Icatibant,Hereditary Angioedema,10,A
+Ruconest,Hereditary Angioedema,10,A
+Blistex,Herpes Simplex,10,A
+Abreva,Herpes Simplex,9.301204819,A
+Acyclovir,Herpes Simplex,9.271604938,A
+Zovirax,Herpes Simplex,9.25,A
+Docosanol,Herpes Simplex,9.241758242,A
+Allantoin / camphor / phenol,Herpes Simplex,9,B
+Ganciclovir,Herpes Simplex Dendritic Keratitis,10,A
+Famciclovir,"Herpes Simplex, Mucocutaneous/Immunocompetent Host",9.217391304,A
+Valacyclovir,"Herpes Simplex, Suppression",9.693396226,A
+Lysine,"Herpes Simplex, Suppression",9.647058824,A
+Valtrex,"Herpes Simplex, Suppression",9.611510791,A
+Zostavax,"Herpes Zoster, Prophylaxis",10,A
+Zoster vaccine live,"Herpes Zoster, Prophylaxis",10,A
+Thorazine,Hiccups,9.444444444,A
+Aldactazide,High Blood Pressure,10,A
+Atenolol / chlorthalidone,High Blood Pressure,10,A
+Bendroflumethiazide / nadolol,High Blood Pressure,10,A
+Chlorthalidone,High Blood Pressure,10,A
+Corzide 80 / 5,High Blood Pressure,10,A
+Eplerenone,High Blood Pressure,10,A
+Exforge HCT,High Blood Pressure,10,A
+Fosinopril,High Blood Pressure,10,A
+Indapamide,High Blood Pressure,10,A
+Inspra,High Blood Pressure,10,A
+Lotensin,High Blood Pressure,10,A
+Nifedical XL,High Blood Pressure,10,A
+Tarka,High Blood Pressure,10,A
+Zestoretic,High Blood Pressure,10,A
+Avalide,High Blood Pressure,9.666666667,A
+Edarbi,High Blood Pressure,9.666666667,A
+Reserpine,High Blood Pressure,9.666666667,A
+Valturna,High Blood Pressure,9.666666667,A
+Amlodipine / olmesartan,High Blood Pressure,9.517241379,A
+Acebutolol,High Blood Pressure,9.5,A
+Caduet,High Blood Pressure,9.5,A
+Diovan HCT,High Blood Pressure,9.5,A
+Methyldopa,High Blood Pressure,9.5,A
+Plendil,High Blood Pressure,9.5,A
+Sectral,High Blood Pressure,9.5,A
+Azor,High Blood Pressure,9.428571429,A
+Edarbyclor,High Blood Pressure,9.4,A
+Hydrochlorothiazide / irbesartan,High Blood Pressure,9.4,A
+Twynsta,High Blood Pressure,9.4,A
+Amlodipine / telmisartan,High Blood Pressure,9.333333333,A
+Azilsartan medoxomil,High Blood Pressure,9.333333333,A
+Captopril,High Blood Pressure,9.333333333,A
+Catapres-TTS,High Blood Pressure,9.333333333,A
+Hydrochlorothiazide / telmisartan,High Blood Pressure,9.333333333,A
+Micardis HCT,High Blood Pressure,9.333333333,A
+Tekturna HCT,High Blood Pressure,9.333333333,A
+Hydrochlorothiazide / losartan,High Blood Pressure,9.285714286,A
+Maxzide,High Blood Pressure,9.25,A
+Perindopril,High Blood Pressure,9.25,A
+Trandolapril / verapamil,High Blood Pressure,9.25,A
+Bystolic,High Blood Pressure,9.2,A
+Hyzaar,High Blood Pressure,9.2,A
+Doxazosin,High Blood Pressure,9.133333333,A
+Amlodipine / hydrochlorothiazide / olmesartan,High Blood Pressure,9.125,A
+Olmesartan,High Blood Pressure,9.113207547,A
+Nebivolol,High Blood Pressure,9.092105263,A
+Aliskiren,High Blood Pressure,9.076923077,A
+Benicar,High Blood Pressure,9.075,A
+Toprol-XL,High Blood Pressure,9.041666667,A
+Aliskiren / hydrochlorothiazide,High Blood Pressure,9,B
+Amlodipine / atorvastatin,High Blood Pressure,9,B
+Benicar HCT,High Blood Pressure,9,B
+Coreg CR,High Blood Pressure,9,B
+Hydrochlorothiazide / olmesartan,High Blood Pressure,9,B
+Hydrochlorothiazide / valsartan,High Blood Pressure,9,B
+Lopressor,High Blood Pressure,9,B
+Micardis,High Blood Pressure,9,B
+Monopril,High Blood Pressure,9,B
+Telmisartan,High Blood Pressure,9,B
+Tenoretic 50,High Blood Pressure,9,B
+Amlodipine,High Blood Pressure,8.949367089,B
+Tekturna,High Blood Pressure,8.933333333,B
+Atenolol,High Blood Pressure,8.917647059,B
+Ramipril,High Blood Pressure,8.916666667,B
+Cozaar,High Blood Pressure,8.909090909,B
+Hydrochlorothiazide / lisinopril,High Blood Pressure,8.894736842,B
+Diovan,High Blood Pressure,8.88,B
+Lisinopril,High Blood Pressure,8.856060606,B
+Amlodipine / benazepril,High Blood Pressure,8.833333333,B
+Azilsartan medoxomil / chlorthalidone,High Blood Pressure,8.8,B
+Lotrel,High Blood Pressure,8.8,B
+Prinivil,High Blood Pressure,8.8,B
+Hydrochlorothiazide,High Blood Pressure,8.75,B
+Irbesartan,High Blood Pressure,8.75,B
+Tribenzor,High Blood Pressure,8.7,B
+Losartan,High Blood Pressure,8.56626506,B
+Atacand,High Blood Pressure,8.5,B
+Metoprolol Tartrate,High Blood Pressure,8.5,B
+Benazepril,High Blood Pressure,8.428571429,B
+Candesartan,High Blood Pressure,8.428571429,B
+Avapro,High Blood Pressure,8.333333333,B
+Exforge,High Blood Pressure,8.285714286,B
+Zestril,High Blood Pressure,8.25,B
+Bisoprolol / hydrochlorothiazide,High Blood Pressure,8,C
+Hydrochlorothiazide / moexipril,High Blood Pressure,8,C
+Moexipril,High Blood Pressure,8,C
+Prinzide,High Blood Pressure,8,C
+Procardia XL,High Blood Pressure,8,C
+Uniretic,High Blood Pressure,8,C
+Univasc,High Blood Pressure,8,C
+Ziac,High Blood Pressure,8,C
+Labetalol,High Blood Pressure,7,C
+Normodyne,High Blood Pressure,7,C
+Quinapril,High Blood Pressure,7,C
+B3-500-Gr,High Cholesterol,10,A
+Red yeast rice,High Cholesterol,10,A
+Slo-Niacin,High Cholesterol,10,A
+Repatha,High Cholesterol,9.764705882,A
+Ezetimibe / simvastatin,High Cholesterol,9.714285714,A
+Lopid,High Cholesterol,9.666666667,A
+Lovastatin,High Cholesterol,9.6,A
+Vytorin,High Cholesterol,9.555555556,A
+Praluent,High Cholesterol,9.538461538,A
+Ezetimibe,High Cholesterol,9.375,A
+Zocor,High Cholesterol,9.333333333,A
+Zetia,High Cholesterol,9.307692308,A
+Gemfibrozil,High Cholesterol,9.25,A
+Crestor,High Cholesterol,9.206896552,A
+Simvastatin,High Cholesterol,9.125,A
+Atorvastatin,High Cholesterol,9.088235294,A
+Pravachol,High Cholesterol,9,B
+Pitavastatin,High Cholesterol,8.882352941,B
+Livalo,High Cholesterol,8.777777778,B
+Lipitor,High Cholesterol,8.75,B
+Pravastatin,High Cholesterol,8.714285714,B
+Fenofibric acid,High Cholesterol,8.375,B
+Niacin / simvastatin,High Cholesterol,8.25,B
+Altoprev,"High Cholesterol, Familial Heterozygous",9.5,A
+Rosuvastatin,"High Cholesterol, Familial Heterozygous",9.472222222,A
+Alirocumab,"High Cholesterol, Familial Heterozygous",9.357142857,A
+Mevacor,"High Cholesterol, Familial Heterozygous",9,B
+Evolocumab,"High Cholesterol, Familial Homozygous",9.714285714,A
+Vaniqa,Hirsutism,9.653846154,A
+Eflornithine,Hirsutism,9.333333333,A
+Bazedoxifene / conjugated estrogens,Hot Flashes,10,A
+Estratest,Hot Flashes,10,A
+Evening Primrose Oil,Hot Flashes,9.75,A
+Duavee,Hot Flashes,9.5,A
+Gabapentin,Hot Flashes,9.065359477,A
+Brisdelle,Hot Flashes,8.642857143,B
+Aldara,Human Papilloma Virus,9.315789474,A
+Cimetidine,Human Papilloma Virus,9.166666667,A
+Tagamet,Human Papilloma Virus,9,B
+Podophyllum resin,Human Papilloma Virus,7,C
+Gardasil,Human Papillomavirus Prophylaxis,9.555555556,A
+Human papillomavirus vaccine,Human Papillomavirus Prophylaxis,9.555555556,A
+Xerac AC,Hyperhidrosis,10,A
+Hypercare,Hyperhidrosis,9.635036496,A
+Aluminum chloride hexahydrate,Hyperhidrosis,9.568965517,A
+Drysol,Hyperhidrosis,9.550724638,A
+Sodium polystyrene sulfonate,Hyperkalemia,10,A
+Niaspan,Hyperlipoproteinemia,8.222222222,B
+Simcor,Hyperlipoproteinemia,7,C
+Prevalite,"Hyperlipoproteinemia Type IIa, Elevated LDL",7.5,C
+Calcifediol,Hyperparathyroidism Secondary to Renal Impairment,10,A
+Rayaldee,Hyperparathyroidism Secondary to Renal Impairment,10,A
+Calcium acetate,Hyperphosphatemia,8,C
+PhosLo,Hyperphosphatemia,8,C
+Lanthanum carbonate,Hyperphosphatemia of Renal Failure,9,B
+Renvela,Hyperphosphatemia of Renal Failure,9,B
+Auryxia,Hyperphosphatemia of Renal Failure,8,C
+Ferric citrate,Hyperphosphatemia of Renal Failure,8,C
+Sevelamer,Hyperphosphatemia of Renal Failure,8,C
+Renagel,Hyperphosphatemia of Renal Failure,7,C
+Dostinex,Hyperprolactinemia,9.285714286,A
+Bromocriptine,Hyperprolactinemia,9,B
+Parlodel,Hyperprolactinemia,9,B
+Cabergoline,Hyperprolactinemia,8.956521739,B
+NoDoz,Hypersomnia,9.5,A
+Caffeine,Hypersomnia,9,B
+Vivarin,Hypersomnia,8.333333333,B
+Hydralazine,Hypertensive Emergency,8.333333333,B
+Pima,Hyperthyroidism,10,A
+Potassium iodide,Hyperthyroidism,10,A
+Tapazole,Hyperthyroidism,10,A
+Methimazole,Hyperthyroidism,8.666666667,B
+Vascepa,Hypertriglyceridemia,9.727272727,A
+Icosapent,Hypertriglyceridemia,9.692307692,A
+TriCor,Hypertriglyceridemia,9.5,A
+Fenofibrate,Hypertriglyceridemia,9.357142857,A
+Lovaza,Hypertriglyceridemia,9.333333333,A
+Omega-3 polyunsaturated fatty acids,Hypertriglyceridemia,9.076923077,A
+Omacor,Hypertriglyceridemia,9,B
+Lipofen,Hypertriglyceridemia,8.5,B
+Trilipix,Hypertriglyceridemia,8,C
+Flibanserin,Hypoactive Sexual Desire Disorde,9.5,A
+Addyi,Hypoactive Sexual Desire Disorde,9,B
+Rocaltrol,Hypocalcemia,10,A
+Hyaluronidase,Hypodermoclysis,10,A
+Cenestin,Hypoestrogenism,10,A
+Estrace Vaginal Cream,Hypoestrogenism,9.529411765,A
+Estrace,Hypoestrogenism,9.25,A
+Climara,Hypoestrogenism,8.888888889,B
+Glucose,Hypoglycemia,9.5,A
+Diazoxide,Hypoglycemia,9,B
+Insta-Glucose,Hypoglycemia,9,B
+Proglycem,Hypoglycemia,9,B
+Follicle stimulating hormone,"Hypogonadism, Male",10,A
+Gonal-f,"Hypogonadism, Male",10,A
+Methitest,"Hypogonadism, Male",10,A
+Methyltestosterone,"Hypogonadism, Male",10,A
+Ovidrel,"Hypogonadism, Male",10,A
+Depo-Testosterone,"Hypogonadism, Male",9.333333333,A
+Axiron,"Hypogonadism, Male",9.117647059,A
+Androderm,"Hypogonadism, Male",9,B
+Aveed,"Hypogonadism, Male",9,B
+Testopel,"Hypogonadism, Male",9,B
+Testosterone,"Hypogonadism, Male",8.96,B
+AndroGel,"Hypogonadism, Male",8.951219512,B
+Fortesta,"Hypogonadism, Male",8.909090909,B
+Testim,"Hypogonadism, Male",8.621621622,B
+Delatestryl,"Hypogonadism, Male",8.5,B
+Natesto,"Hypogonadism, Male",8,C
+Striant,"Hypogonadism, Male",7,C
+Klor-Con,Hypokalemia,9.5,A
+Potassium chloride,Hypokalemia,9.166666667,A
+Dichlorphenamide,Hypokalemic Periodic Paralysis,9,B
+Natpara,Hypoparathyroidism,8,C
+Parathyroid hormone,Hypoparathyroidism,8,C
+Liothyronine,"Hypothyroidism, After Thyroid Removal",9.647058824,A
+Armour Thyroid,"Hypothyroidism, After Thyroid Removal",9.469879518,A
+Synthroid,"Hypothyroidism, After Thyroid Removal",9.229508197,A
+NP Thyroid,"Hypothyroidism, After Thyroid Removal",8.5,B
+AmLactin,Ichthyosis,9.5,A
+Eltrombopag,Idiopathic Thrombocytopenic Purpura,10,A
+Romiplostim,Idiopathic Thrombocytopenic Purpura,10,A
+Neoral,Idiopathic Thrombocytopenic Purpura,9.666666667,A
+Retapamulin,Impetig,9,B
+Magaldrate / simethicone,Indigestion,10,A
+Depo-Medrol,Inflammatory Conditions,9.571428571,A
+Dexamethasone Intensol,Inflammatory Conditions,9,B
+Horse chestnut,Inflammatory Conditions,9,B
+Tamiflu,Influenza,9.275590551,A
+Acetaminophen / phenyltoloxamine,Influenza,9.272727273,A
+Oseltamivir,Influenza,9.224,A
+"Influenza virus vaccine, inactivated",Influenza Prophylaxis,9.5,A
+FluMist,Influenza Prophylaxis,8,C
+"Influenza virus vaccine, live, trivalent",Influenza Prophylaxis,8,C
+Ethchlorvynol,Insomnia,10,A
+Pentobarbital,Insomnia,10,A
+Secobarbital,Insomnia,10,A
+Seconal,Insomnia,10,A
+Seconal Sodium,Insomnia,10,A
+Sleep Aid,Insomnia,10,A
+Estazolam,Insomnia,9.8,A
+Tryptophan,Insomnia,9.8,A
+Intermezzo,Insomnia,9.666666667,A
+Zolpimist,Insomnia,9.666666667,A
+Benadryl Allergy,Insomnia,9.545454545,A
+Silenor,Insomnia,9.523809524,A
+Quazepam,Insomnia,9.5,A
+Somnote,Insomnia,9.5,A
+Flurazepam,Insomnia,9.454545455,A
+Dalmane,Insomnia,9.428571429,A
+Triazolam,Insomnia,9.37037037,A
+Chloral hydrate,Insomnia,9.363636364,A
+Lunesta,Insomnia,9.356164384,A
+Lorazepam,Insomnia,9.35,A
+Doxepin,Insomnia,9.342857143,A
+Nytol,Insomnia,9.333333333,A
+Halcion,Insomnia,9.307692308,A
+Eszopiclone,Insomnia,9.188235294,A
+Zolpidem,Insomnia,9.119047619,A
+Ambien,Insomnia,9.115577889,A
+Trazodone,Insomnia,9.071428571,A
+Elavil,Insomnia,9.010989011,A
+Advil PM,Insomnia,9,B
+Aspirin / diphenhydramine,Insomnia,9,B
+Compoz Nighttime Sleep Aid,Insomnia,9,B
+Doral,Insomnia,9,B
+Unisom SleepGels,Insomnia,9,B
+Unisom SleepMelts,Insomnia,9,B
+Melatonin,Insomnia,8.985074627,B
+Rozerem,Insomnia,8.947368421,B
+Belsomra,Insomnia,8.925925926,B
+Temazepam,Insomnia,8.901639344,B
+Restoril,Insomnia,8.884615385,B
+Tylenol PM,Insomnia,8.875,B
+Diphenhydramine,Insomnia,8.873417722,B
+Doxylamine,Insomnia,8.869565217,B
+Ramelteon,Insomnia,8.833333333,B
+Suvorexant,Insomnia,8.827586207,B
+Sonata,Insomnia,8.818181818,B
+Ambien CR,Insomnia,8.8,B
+Zaleplon,Insomnia,8.777777778,B
+Sominex,Insomnia,8.75,B
+Edluar,Insomnia,8.714285714,B
+Unisom SleepTabs,Insomnia,8.625,B
+Simply Sleep,Insomnia,8.5,B
+Valerian,Insomnia,7,C
+Vanatrip,Insomnia,7,C
+Fortamet,Insulin Resistance Syndrome,10,A
+Pletal,Intermittent Claudication,10,A
+Cilostazol,Intermittent Claudication,9.5,A
+Pentoxifylline,Intermittent Claudication,8.666666667,B
+Trental,Intermittent Claudication,8.5,B
+Tofranil,Interstitial Cystitis,9.833333333,A
+Pentosan polysulfate sodium,Interstitial Cystitis,9.444444444,A
+Pyridium,Interstitial Cystitis,9.3,A
+Elmiron,Interstitial Cystitis,9.228571429,A
+Azo-Standard,Interstitial Cystitis,8.714285714,B
+Azo Urinary Pain Relief,Interstitial Cystitis,8.5,B
+Bimatoprost,Intraocular Hypertension,9.2,A
+Latanoprost,Intraocular Hypertension,9.142857143,A
+Combigan,Intraocular Hypertension,9,B
+Loteprednol,Iritis,9.714285714,A
+Feraheme,Iron Deficiency Anemia,10,A
+Ferrous fumarate,Iron Deficiency Anemia,10,A
+Ferumoxytol,Iron Deficiency Anemia,10,A
+Heme iron polypeptide,Iron Deficiency Anemia,10,A
+Iron sucrose,Iron Deficiency Anemia,10,A
+ProFe,Iron Deficiency Anemia,10,A
+Tandem,Iron Deficiency Anemia,10,A
+Venofer,Iron Deficiency Anemia,10,A
+Iron polysaccharide,Iron Deficiency Anemia,9.666666667,A
+Ferrous gluconate,Iron Deficiency Anemia,9.333333333,A
+Slow Fe,Iron Deficiency Anemia,9,B
+Niferex,Iron Deficiency Anemia,8.666666667,B
+Tegaserod,Irritable Bowel Syndrome,9.8125,A
+Psyllium,Irritable Bowel Syndrome,9.8,A
+Zelnorm,Irritable Bowel Syndrome,9.6875,A
+Alosetron,Irritable Bowel Syndrome,9.666666667,A
+Cholestyramine,Irritable Bowel Syndrome,9.553191489,A
+Cholestyramine Light,Irritable Bowel Syndrome,9.5,A
+Chlordiazepoxide / clidinium,Irritable Bowel Syndrome,9.482758621,A
+Atropine / hyoscyamine / phenobarbital / scopolamine,Irritable Bowel Syndrome,9.4375,A
+Donnatal,Irritable Bowel Syndrome,9.428571429,A
+Eluxadoline,Irritable Bowel Syndrome,9.407407407,A
+Rifaximin,Irritable Bowel Syndrome,9.384615385,A
+Librax,Irritable Bowel Syndrome,9.375,A
+Questran,Irritable Bowel Syndrome,9.333333333,A
+Symax Duotab,Irritable Bowel Syndrome,9.333333333,A
+Lactobacillus acidophilus,Irritable Bowel Syndrome,9.307692308,A
+Viberzi,Irritable Bowel Syndrome,9.277777778,A
+Xifaxan,Irritable Bowel Syndrome,9.263157895,A
+Linaclotide,Irritable Bowel Syndrome,9.236051502,A
+EnteraGam,Irritable Bowel Syndrome,9.2,A
+Hyoscyamine,Irritable Bowel Syndrome,9.176470588,A
+Immune globulin oral,Irritable Bowel Syndrome,9.166666667,A
+Dicyclomine,Irritable Bowel Syndrome,9.154761905,A
+Bentyl,Irritable Bowel Syndrome,9.138888889,A
+Nortriptyline,Irritable Bowel Syndrome,9.074074074,A
+HyoMax SL,Irritable Bowel Syndrome,9,B
+Pamine,Irritable Bowel Syndrome,9,B
+Anafranil,Irritable Bowel Syndrome,8.939393939,B
+Venlafaxine,Irritable Bowel Syndrome,8.917043741,B
+Levsin,Irritable Bowel Syndrome,8.6,B
+HyoMax,Irritable Bowel Syndrome,8,C
+Hyosyne,Irritable Bowel Syndrome,8,C
+Nimotop,Ischemic Stroke,10,A
+Aggrenox,"Ischemic Stroke, Prophylaxis",9.375,A
+Aspirin / dipyridamole,"Ischemic Stroke, Prophylaxis",9,B
+Restasis,Keratoconjunctivitis Sicca,9.6,A
+Solaraze,Keratosis,10,A
+Fluorouracil,Keratosis,9.06122449,A
+Picato,Keratosis,8.666666667,B
+Zyclara,Keratosis,8.315789474,B
+Collagenase,Keratosis,7,C
+Zosyn,Kidney Infections,8,C
+Piperacillin / tazobactam,Kidney Infections,7,C
+Oxytocin,Labor Induction,10,A
+Misoprostol,Labor Induction,9,B
+Cervidil,Labor Induction,8,C
+Dinoprostone,Labor Induction,8,C
+Lactase,Lactose Intolerance,9.5,A
+Lactaid,Lactose Intolerance,9.333333333,A
+Enalapril,Left Ventricular Dysfunction,8.833333333,B
+Valsartan,Left Ventricular Dysfunction,8.823529412,B
+Banzel,Lennox-Gastaut Syndrome,10,A
+Rufinamide,Lennox-Gastaut Syndrome,10,A
+Clobazam,Lennox-Gastaut Syndrome,9.666666667,A
+Onfi,Lennox-Gastaut Syndrome,9.333333333,A
+Felbamate,Lennox-Gastaut Syndrome,9,B
+Donepezil,Lewy Body Dementia,8.75,B
+Synalar,Lichen Sclerosus,10,A
+Cutivate,Lichen Sclerosus,9.333333333,A
+Betamethasone,Lichen Sclerosus,9.210526316,A
+Versed,Light Sedation,9.875,A
+Midazolam,Light Sedation,9.75,A
+Chlorpromazine,Light Sedation,9.346153846,A
+Egrifta,Lipodystrophy,8,C
+Tesamorelin,Lipodystrophy,7.666666667,C
+Eovist,Liver Magnetic Resonance Imaging,10,A
+Sensorcaine-MPF,Local Anesthesia,10,A
+Dibucaine,Local Anesthesia,9.666666667,A
+Marcaine,Local Anesthesia,8,C
+Mepivacaine,Local Anesthesia,8,C
+Polocaine,Local Anesthesia,8,C
+Bicillin L-A,"Lyme Disease, Neurologic",9.666666667,A
+Doxy 100,"Lyme Disease, Neurologic",9.083333333,A
+Dexasone,Lymphoma,10,A
+Ranibizumab,Macular Degeneration,9.5,A
+Lucentis,Macular Degeneration,9,B
+Macugen,Macular Degeneration,9,B
+Prozac Weekly,Major Depressive Disorde,9.5,A
+Brexpiprazole,Major Depressive Disorde,9.109090909,A
+Budeprion XL,Major Depressive Disorde,9.083333333,A
+Wellbutrin XL,Major Depressive Disorde,9.071428571,A
+Viibryd,Major Depressive Disorde,8.963636364,B
+Fetzima,Major Depressive Disorde,8.914285714,B
+Trintellix,Major Depressive Disorde,8.863013699,B
+Levomilnacipran,Major Depressive Disorde,8.840909091,B
+Vortioxetine,Major Depressive Disorde,8.809352518,B
+Fansidar,Malaria,10,A
+Pyrimethamine / sulfadoxine,Malaria,10,A
+Artemether / lumefantrine,Malaria,9.666666667,A
+Coartem,Malaria,9.5,A
+Atovaquone / proguanil,Malaria,9.1,A
+Daraprim,Malaria Prevention,10,A
+Lariam,Malaria Prevention,10,A
+Pyrimethamine,Malaria Prevention,10,A
+Mefloquine,Malaria Prevention,9.75,A
+Malarone,Malaria Prevention,9.181818182,A
+Avastin,Malignant Glioma,9.083333333,A
+Stavzor,Mania,10,A
+Depakote Sprinkles,Mania,9,B
+Depakote,Mania,8.56043956,B
+Interferon alfa-2b,Melanoma,10,A
+Vemurafenib,"Melanoma, Metastatic",9.5,A
+Zelboraf,"Melanoma, Metastatic",9.5,A
+Dabrafenib,"Melanoma, Metastatic",9,B
+Mekinist,"Melanoma, Metastatic",9,B
+Tafinlar,"Melanoma, Metastatic",9,B
+Trametinib,"Melanoma, Metastatic",9,B
+Pembrolizumab,"Melanoma, Metastatic",8.5,B
+Fluocinolone / hydroquinone / tretinoin,Melasma,9.794117647,A
+Tri-Luma,Melasma,9.714285714,A
+Vancocin,Meningitis,7,C
+Meningococcal group B vaccine,"Meningitis, Meningococcal",7,C
+Estratest H.S.,Menopausal Disorders,9.8,A
+Dienogest / estradiol,Menorrhagia,9.5,A
+Natazia,Menorrhagia,9.5,A
+Tranexamic acid,Menorrhagia,9.349206349,A
+Lysteda,Menorrhagia,9.344827586,A
+Loestrin 21 1 / 20,Menstrual Disorders,9.2,A
+Microgestin 1.5 / 30,Menstrual Disorders,8,C
+Necon 7 / 7 / 7,Menstrual Disorders,8,C
+Zyvox,Methicillin-Resistant Staphylococcus Aureus Infection,9.25,A
+Acetaminophen / aspirin / caffeine / salicylamide,Migraine,10,A
+Alsuma,Migraine,10,A
+Goody's Headache Powders,Migraine,10,A
+Migergot,Migraine,10,A
+Onzetra Xsail,Migraine,10,A
+Sansert,Migraine,10,A
+Vanquish,Migraine,10,A
+Methylergonovine,Migraine,9.666666667,A
+Almotriptan,Migraine,9.647058824,A
+Axert,Migraine,9.631578947,A
+Imitrex Statdose,Migraine,9.615384615,A
+Excedrin,Migraine,9.6,A
+Eletriptan,Migraine,9.583333333,A
+Relpax,Migraine,9.580246914,A
+Treximet,Migraine,9.547169811,A
+Cambia,Migraine,9.538461538,A
+Fiorinal,Migraine,9.511627907,A
+Frovatriptan,Migraine,9.5,A
+Methergine,Migraine,9.5,A
+Sumavel DosePro,Migraine,9.5,A
+Naproxen / sumatriptan,Migraine,9.473684211,A
+Zomig,Migraine,9.466666667,A
+Frova,Migraine,9.461538462,A
+Dihydroergotamine,Migraine,9.4375,A
+Maxalt,Migraine,9.430769231,A
+Maxalt-MLT,Migraine,9.416666667,A
+Rizatriptan,Migraine,9.413793103,A
+Sumatriptan,Migraine,9.400943396,A
+Naratriptan,Migraine,9.363636364,A
+Amerge,Migraine,9.357142857,A
+Aspirin / butalbital / caffeine,Migraine,9.357142857,A
+Caffeine / ergotamine,Migraine,9.294117647,A
+Imitrex,Migraine,9.288888889,A
+Reglan,Migraine,9.285714286,A
+Butalbital Compound,Migraine,9.272727273,A
+Zolmitriptan,Migraine,9.228070175,A
+Metoclopramide,Migraine,9.2,A
+Cafergot,Migraine,9.125,A
+Ergomar,Migraine,9,B
+Ergotamine,Migraine,9,B
+Migranal,Migraine,9,B
+Zecuity,Migraine,9,B
+Memantine,Migraine,8.666666667,B
+Zomig-ZMT,Migraine,8.444444444,B
+InnoPran XL,Migraine Prevention,9.5,A
+Nadolol,Migraine Prevention,9.4375,A
+Botox,Migraine Prevention,9.395833333,A
+OnabotulinumtoxinA,Migraine Prevention,9.364583333,A
+Inderal LA,Migraine Prevention,9,B
+Nimodipine,Migraine Prevention,9,B
+Topiramate,Migraine Prevention,8.970430108,B
+Zonisamide,Migraine Prevention,8.756756757,B
+Riboflavin,Migraine Prevention,8.5,B
+Verelan,Migraine Prevention,8.5,B
+Vitamin B2,Migraine Prevention,8,C
+Aricept ODT,Mild Cognitive Impairment,9.5,A
+Cyclizine,Motion Sickness,10,A
+Travel-Eze,Motion Sickness,10,A
+Bonine,Motion Sickness,9.608695652,A
+Dramamine,Motion Sickness,9.592592593,A
+Scopolamine,Motion Sickness,9.224489796,A
+Transderm-Scop,Motion Sickness,9.153846154,A
+Meclizine,Motion Sickness,9.134146341,A
+NeutraSal,Mucositis,10,A
+Saliva substitutes,Mucositis,9.8,A
+Chlorhexidine,Mucositis,9.625,A
+Lenalidomide,Multiple Myeloma,10,A
+Pomalidomide,Multiple Myeloma,10,A
+Pomalyst,Multiple Myeloma,10,A
+Revlimid,Multiple Myeloma,10,A
+Bortezomib,Multiple Myeloma,9.5,A
+Velcade,Multiple Myeloma,9.5,A
+Alemtuzumab,Multiple Sclerosis,10,A
+Lemtrada,Multiple Sclerosis,10,A
+Mitoxantrone,Multiple Sclerosis,10,A
+Avonex Pen,Multiple Sclerosis,9.833333333,A
+Corticotropin,Multiple Sclerosis,9.833333333,A
+Tysabri,Multiple Sclerosis,9.684210526,A
+Ampyra,Multiple Sclerosis,9.527777778,A
+Dalfampridine,Multiple Sclerosis,9.5,A
+Natalizumab,Multiple Sclerosis,9.404255319,A
+Avonex,Multiple Sclerosis,9.357142857,A
+Tecfidera,Multiple Sclerosis,9.277777778,A
+Dimethyl fumarate,Multiple Sclerosis,9.235294118,A
+Glatiramer,Multiple Sclerosis,9.206896552,A
+Interferon beta-1a,Multiple Sclerosis,9.071428571,A
+Betaseron,Multiple Sclerosis,9,B
+Copaxone,Multiple Sclerosis,9,B
+Interferon beta-1b,Multiple Sclerosis,9,B
+Gilenya,Multiple Sclerosis,8.780487805,B
+Fingolimod,Multiple Sclerosis,8.75,B
+Peginterferon beta-1a,Multiple Sclerosis,8.5,B
+Teriflunomide,Multiple Sclerosis,8.384615385,B
+Rebif,Multiple Sclerosis,8.363636364,B
+Aubagio,Multiple Sclerosis,8.083333333,B
+Glatopa,Multiple Sclerosis,8,C
+Rebif Rebidose,Multiple Sclerosis,8,C
+Plegridy,Multiple Sclerosis,7,C
+Acetaminophen / caffeine / magnesium salicylate,Muscle Pain,10,A
+KneeRelief,Muscle Pain,10,A
+Lidocaine / menthol,Muscle Pain,10,A
+Salonpas Pain Patch,Muscle Pain,10,A
+Aspirin / caffeine / orphenadrine,Muscle Pain,9.5,A
+Soma Compound,Muscle Pain,9.375,A
+Naprelan,Muscle Pain,9.333333333,A
+Norgesic,Muscle Pain,9.25,A
+Fexmid,Muscle Spasm,10,A
+Norgesic Forte,Muscle Spasm,10,A
+Parafon Forte DSC,Muscle Spasm,10,A
+Carisoprodol,Muscle Spasm,9.6015625,A
+Orphenadrine,Muscle Spasm,9.6,A
+Soma,Muscle Spasm,9.598130841,A
+Valium,Muscle Spasm,9.532374101,A
+Aspirin / carisoprodol,Muscle Spasm,9.333333333,A
+Norflex,Muscle Spasm,9.2,A
+Metaxalone,Muscle Spasm,9.034482759,A
+Zanaflex,Muscle Spasm,9.022222222,A
+Lorzone,Muscle Spasm,9,B
+Chlorzoxazone,Muscle Spasm,8.952380952,B
+Skelaxin,Muscle Spasm,8.854166667,B
+Tizanidine,Muscle Spasm,8.846153846,B
+Amrix,Muscle Spasm,8.782608696,B
+Robaxin,Muscle Spasm,8.727272727,B
+Robaxin-750,Muscle Spasm,8.272727273,B
+Lioresal Intrathecal,Muscle Spasm,7,C
+Neostigmine,Myasthenia Gravis,10,A
+Mestinon Timespan,Myasthenia Gravis,9.666666667,A
+Mycophenolate mofetil,Myasthenia Gravis,9,B
+Pyridostigmine,Myasthenia Gravis,8.571428571,B
+Vidaza,Myelodysplastic Syndrome,9.8,A
+Azacitidine,Myelodysplastic Syndrome,9.4,A
+Famotidine / ibuprofen,NSAID-Induced Ulcer Prophylaxis,8.8,B
+Ephedrine,Narcolepsy,9.5,A
+Modafinil,Narcolepsy,9.256410256,A
+Methylin,Narcolepsy,9.111111111,A
+Xyrem,Narcolepsy,9.058823529,A
+Sodium oxybate,Narcolepsy,9.020833333,A
+Ritalin-SR,Narcolepsy,9,B
+Nuvigil,Narcolepsy,8.788135593,B
+Acrivastine / pseudoephedrine,Nasal Congestion,10,A
+Afrin 4 Hour Extra Moisturizing,Nasal Congestion,10,A
+Loratadine-D 24 Hour,Nasal Congestion,10,A
+Mucinex Sinus-Max Full Force,Nasal Congestion,10,A
+Naphazoline,Nasal Congestion,10,A
+Nostrilla,Nasal Congestion,10,A
+Privine,Nasal Congestion,10,A
+Semprex-D,Nasal Congestion,10,A
+Todays Health Nasal  Relief Extra Moisturizing,Nasal Congestion,10,A
+Vicks Sinex 12-Hour Decongestant Nasal Spray,Nasal Congestion,10,A
+Zicam Extreme Congestion Relief,Nasal Congestion,10,A
+Brompheniramine / pseudoephedrine,Nasal Congestion,9.75,A
+Chlorpheniramine / methscopolamine / phenylephrine,Nasal Congestion,9.75,A
+Vicks Sinex Nasal Spray (old formulation),Nasal Congestion,9.714285714,A
+Sudafed Congestion,Nasal Congestion,9.6,A
+Xylometazoline,Nasal Congestion,9.583333333,A
+Norel SR,Nasal Congestion,9.5,A
+Phenylephrine,Nasal Congestion,9.444444444,A
+Pseudoephedrine,Nasal Congestion,9.238095238,A
+Afrin,Nasal Congestion,9.2,A
+Loratadine / pseudoephedrine,Nasal Congestion,9.181818182,A
+Claritin-D,Nasal Congestion,9.076923077,A
+Afrin Original,Nasal Congestion,9,B
+Claritin-D 12 Hour,Nasal Congestion,9,B
+Sudafed 12-Hour,Nasal Congestion,9,B
+Sudafed 24-Hour,Nasal Congestion,9,B
+Sodium chloride,Nasal Congestion,8.5,B
+Afrin Sinus,Nasal Congestion,8,C
+Ayr Saline Nasal,Nasal Congestion,8,C
+Compro,Nausea/Vomiting,10,A
+Marezine,Nausea/Vomiting,10,A
+Peppermint,Nausea/Vomiting,10,A
+Trimethobenzamide,Nausea/Vomiting,10,A
+Emetrol,Nausea/Vomiting,9.722222222,A
+Dimenhydrinate,Nausea/Vomiting,9.655172414,A
+Zofran ODT,Nausea/Vomiting,9.631578947,A
+Haldol,Nausea/Vomiting,9.571428571,A
+Zofran,Nausea/Vomiting,9.548076923,A
+Phosphorated carbohydrate solution,Nausea/Vomiting,9.538461538,A
+Ondansetron,Nausea/Vomiting,9.447204969,A
+Prochlorperazine,Nausea/Vomiting,9.208333333,A
+Compazine,Nausea/Vomiting,9.083333333,A
+Pyridoxine,Nausea/Vomiting,9,B
+Tigan,Nausea/Vomiting,9,B
+Vitamin B6,Nausea/Vomiting,9,B
+Benadryl,Nausea/Vomiting,8.888888889,B
+Doxylamine / pyridoxine,Nausea/Vomiting of Pregnancy,9.216216216,A
+Diclegis,Nausea/Vomiting of Pregnancy,9.093023256,A
+Rolapitant,"Nausea/Vomiting, Chemotherapy Induced",10,A
+Varubi,"Nausea/Vomiting, Chemotherapy Induced",10,A
+Aprepitant,"Nausea/Vomiting, Chemotherapy Induced",9.9,A
+Marinol,"Nausea/Vomiting, Chemotherapy Induced",9.4375,A
+Granisetron,"Nausea/Vomiting, Chemotherapy Induced",9.333333333,A
+Sancuso,"Nausea/Vomiting, Chemotherapy Induced",9.25,A
+Aloxi,"Nausea/Vomiting, Postoperative",10,A
+Palonosetron,"Nausea/Vomiting, Postoperative",10,A
+Emend,"Nausea/Vomiting, Postoperative",9.9,A
+Kytril,"Nausea/Vomiting, Postoperative",8.5,B
+Pamelor,Neuralgia,9,B
+Dilantin,Neurosurgery,9.033333333,A
+Filgrastim,Neutropenia Associated with Chemotherapy,10,A
+Neupogen,Neutropenia Associated with Chemotherapy,10,A
+Pegfilgrastim,Neutropenia Associated with Chemotherapy,8.916666667,B
+Neulasta,Neutropenia Associated with Chemotherapy,8.733333333,B
+Qualaquin,Nocturnal Leg Cramps,9.5,A
+Vitamin e,Nocturnal Leg Cramps,9.5,A
+Calan SR,Nocturnal Leg Cramps,9.333333333,A
+Quinine,Nocturnal Leg Cramps,9.166666667,A
+Bendamustine,Non-Hodgkin's Lymphoma,9.25,A
+Rituximab,Non-Hodgkin's Lymphoma,9.042553191,A
+Treanda,Non-Hodgkin's Lymphoma,9,B
+Afatinib,Non-Small Cell Lung Cance,10,A
+Crizotinib,Non-Small Cell Lung Cance,10,A
+Gilotrif,Non-Small Cell Lung Cance,10,A
+Necitumumab,Non-Small Cell Lung Cance,10,A
+Pemetrexed,Non-Small Cell Lung Cance,10,A
+Gefitinib,Non-Small Cell Lung Cance,9.6,A
+Nivolumab,Non-Small Cell Lung Cance,9.555555556,A
+Erlotinib,Non-Small Cell Lung Cance,9.523809524,A
+Iressa,Non-Small Cell Lung Cance,9.5,A
+Tarceva,Non-Small Cell Lung Cance,9.380952381,A
+Opdivo,Non-Small Cell Lung Cance,9,B
+Xalkori,Non-Small Cell Lung Cance,9,B
+Alimta,Non-Small Cell Lung Cance,8,C
+Amikacin,Not Listed / Othe,10,A
+Dimethyl sulfoxide,Not Listed / Othe,10,A
+Olodaterol,Not Listed / Othe,10,A
+Undecylenic acid,Not Listed / Othe,10,A
+Bacitracin / neomycin / polymyxin b,Not Listed / Othe,9.666666667,A
+Gatifloxacin,Not Listed / Othe,9,B
+Alfuzosin,Not Listed / Othe,8.4375,B
+Electrolyte replacement solutions,Not Listed / Othe,8,C
+Didrex,Obesity,9.8,A
+Diethylpropion,Obesity,9.56097561,A
+Tenuate,Obesity,9.545454545,A
+Lorcaserin,Obesity,9.435267857,A
+Benzphetamine,Obesity,9.428571429,A
+Chorionic gonadotropin (hcg),Obesity,9.4,A
+Meridia,Obesity,9.375,A
+Xenical,Obesity,9.309090909,A
+Phentermine / topiramate,Obesity,9.242214533,A
+Tenuate Dospan,Obesity,9.2,A
+Phendimetrazine,Obesity,9.189873418,A
+Liraglutide,Obesity,9.181972789,A
+Saxenda,Obesity,9.167883212,A
+Orlistat,Obesity,9.144067797,A
+Contrave,Obesity,9.015517241,A
+Bontril Slow Release,Obesity,9,B
+Bupropion / naltrexone,Obesity,8.977198697,B
+Alli,Obesity,8.935483871,B
+Bontril PDM,Obesity,8.666666667,B
+Phendiet,Obesity,8,C
+Clomipramine,Obsessive Compulsive Disorde,9.191176471,A
+Luvox,Obsessive Compulsive Disorde,9.073170732,A
+Rilutek,Obsessive Compulsive Disorde,9,B
+Riluzole,Obsessive Compulsive Disorde,8,C
+Provigil,Obstructive Sleep Apnea/Hypopnea Syndrome,9.197674419,A
+Armodafinil,Obstructive Sleep Apnea/Hypopnea Syndrome,8.869863014,B
+Penlac Nail Lacquer,"Onychomycosis, Fingernail",8,C
+Ciclodan,"Onychomycosis, Toenail",10,A
+Tavaborole,"Onychomycosis, Toenail",9.6,A
+Terbinafine,"Onychomycosis, Toenail",9.36036036,A
+Lamisil,"Onychomycosis, Toenail",9.276595745,A
+Efinaconazole,"Onychomycosis, Toenail",9.236842105,A
+Jublia,"Onychomycosis, Toenail",9.184210526,A
+Sporanox,"Onychomycosis, Toenail",9.166666667,A
+Kerydin,"Onychomycosis, Toenail",9.142857143,A
+Ciclopirox,"Onychomycosis, Toenail",9,B
+Penlac,"Onychomycosis, Toenail",8,C
+Estradiol Patch,Oophorectomy,8.666666667,B
+Zymar,Ophthalmic Surgery,9.666666667,A
+Suboxone,Opiate Dependence,9.579113924,A
+Buprenorphine / naloxone,Opiate Dependence,9.518716578,A
+Naltrexone,Opiate Dependence,9.369127517,A
+Bunavail,Opiate Dependence,9.368421053,A
+Vivitrol,Opiate Dependence,9.25,A
+Subutex,Opiate Dependence,9.24137931,A
+Zubsolv,Opiate Dependence,8.958333333,B
+Dolophine,Opiate Withdrawal,9.307692308,A
+Clonidine,Opiate Withdrawal,9.121338912,A
+Methocarbamol,Opiate Withdrawal,8.847222222,B
+Naloxone,Opioid Overdose,9.555555556,A
+Narcan Injection,Opioid Overdose,9.5,A
+Movantik,Opioid-Induced Constipation,9.142857143,A
+Relistor,Opioid-Induced Constipation,9.142857143,A
+Nystatin,Oral Thrush,9.125,A
+Nilstat,Oral Thrush,9,B
+Mycelex Troche,Oral Thrush,8,C
+Gentian violet,Oral Thrush,7,C
+Clove,Oral and Dental Conditions,10,A
+Gengraf,"Organ Transplant, Rejection Prophylaxis",10,A
+Hecoria,"Organ Transplant, Rejection Prophylaxis",10,A
+Cyclosporine,"Organ Transplant, Rejection Prophylaxis",9.75,A
+CellCept,"Organ Transplant, Rejection Prophylaxis",9.1875,A
+Prograf,"Organ Transplant, Rejection Prophylaxis",8.823529412,B
+Dolobid,Osteoarthritis,10,A
+Zostrix,Osteoarthritis,10,A
+Bextra,Osteoarthritis,9.8,A
+Pennsaid,Osteoarthritis,9.6,A
+Vimovo,Osteoarthritis,9.583333333,A
+Esomeprazole / naproxen,Osteoarthritis,9.571428571,A
+Supartz,Osteoarthritis,9.555555556,A
+Limbrel,Osteoarthritis,9.5,A
+Bioflavonoids,Osteoarthritis,9.4,A
+Cataflam,Osteoarthritis,9.4,A
+Euflexxa,Osteoarthritis,9.385964912,A
+Sodium hyaluronate,Osteoarthritis,9.369863014,A
+Hyaluronan,Osteoarthritis,9.269230769,A
+Lodine,Osteoarthritis,9.25,A
+Hylan g-f 20,Osteoarthritis,9.245614035,A
+Voltaren,Osteoarthritis,9.213333333,A
+Methyl salicylate,Osteoarthritis,9.2,A
+Orthovisc,Osteoarthritis,9.170212766,A
+Synvisc-One,Osteoarthritis,9.162162162,A
+Meloxicam,Osteoarthritis,9.119047619,A
+Duexis,Osteoarthritis,9,B
+Monovisc,Osteoarthritis,9,B
+Osteo Bi-Flex,Osteoarthritis,9,B
+Celebrex,Osteoarthritis,8.9875,B
+Mobic,Osteoarthritis,8.984375,B
+Capsaicin,Osteoarthritis,8.909090909,B
+Synvisc,Osteoarthritis,8.909090909,B
+Naprosyn,Osteoarthritis,8.846153846,B
+Relafen,Osteoarthritis,8.6875,B
+Capzasin-HP,Osteoarthritis,8,C
+Chondroitin / glucosamine / methylsulfonylmethane,Osteoarthritis,8,C
+Daypro,Osteoarthritis,8,C
+Limbrel 500,Osteoarthritis,8,C
+Zometa,Osteolytic Bone Lesions of Multiple Myeloma,8.875,B
+Zoledronic acid,Osteolytic Bone Metastases of Solid Tumors,9,B
+Premarin,Osteoporosis,9.571428571,A
+Prolia,Osteoporosis,9.5,A
+Denosumab,Osteoporosis,9.466666667,A
+Boniva,Osteoporosis,9.444444444,A
+Ibandronate,Osteoporosis,9.3,A
+Alendronate,Osteoporosis,9.25,A
+Forteo,Osteoporosis,9.25,A
+Risedronate,Osteoporosis,9.25,A
+Teriparatide,Osteoporosis,9.217391304,A
+Reclast,Osteoporosis,9.105263158,A
+Calcium / vitamin d,Osteoporosis,9,B
+Fosamax,Osteoporosis,9,B
+Raloxifene,Osteoporosis,9,B
+Calcitonin,Osteoporosis,8,C
+Ciprodex,Otitis Externa,9.133333333,A
+Ciprofloxacin / dexamethasone,Otitis Externa,9.125,A
+A / B Otic,Otitis Media,10,A
+Antipyrine / benzocaine,Otitis Media,10,A
+Suprax,Otitis Media,9.25,A
+Cefdinir,Otitis Media,8.972972973,B
+Clarithromycin,Otitis Media,8.643410853,B
+Carboplatin,Ovarian Cance,9,B
+Paraplatin,Ovarian Cance,9,B
+Paclitaxel,Ovarian Cance,8.333333333,B
+Belladonna / opium,Overactive Bladde,9.833333333,A
+Enablex,Overactive Bladde,9.75,A
+Detrol,Overactive Bladde,9.5,A
+Myrbetriq,Overactive Bladde,9.222222222,A
+Darifenacin,Overactive Bladde,9.142857143,A
+Oxybutynin,Overactive Bladde,9.138613861,A
+Mirabegron,Overactive Bladde,9.128205128,A
+Oxytrol,Overactive Bladde,9,B
+Sanctura,Overactive Bladde,8.909090909,B
+Fesoterodine,Overactive Bladde,8.846153846,B
+Trospium,Overactive Bladde,8.833333333,B
+Solifenacin,Overactive Bladde,8.780487805,B
+VESIcare,Overactive Bladde,8.694444444,B
+Toviaz,Overactive Bladde,8.545454545,B
+Gelnique,Overactive Bladde,8,C
+Pregnyl,Ovulation Induction,9.5,A
+Actonel,Paget's Disease,9,B
+Aspirin / caffeine,Pain,10,A
+Bupivacaine liposome,Pain,10,A
+Buprenex,Pain,10,A
+Children's Motrin,Pain,10,A
+Doans Pills Extra Strength,Pain,10,A
+Duramorph,Pain,10,A
+Exparel,Pain,10,A
+Feverall,Pain,10,A
+Levorphanol,Pain,10,A
+Lidocaine Viscous,Pain,10,A
+Lorcet,Pain,10,A
+Magnacet,Pain,10,A
+Magnesium salicylate,Pain,10,A
+Maxidone,Pain,10,A
+Medi-Quik Spray,Pain,10,A
+Motrin IB,Pain,10,A
+Oxyfast,Pain,10,A
+Palladone,Pain,10,A
+Percodan,Pain,10,A
+Roxicodone Intensol,Pain,10,A
+Vitapap,Pain,10,A
+Valdecoxib,Pain,9.777777778,A
+Dilaudid-HP,Pain,9.75,A
+Nubain,Pain,9.714285714,A
+Meperitab,Pain,9.666666667,A
+Talwin,Pain,9.666666667,A
+Zorvolex,Pain,9.625,A
+Aspirin / caffeine / salicylamide,Pain,9.6,A
+Nalbuphine,Pain,9.5625,A
+Ketoprofen,Pain,9.533333333,A
+Demerol,Pain,9.526315789,A
+Butorphanol,Pain,9.517241379,A
+Aspirin / carisoprodol / codeine,Pain,9.5,A
+Meperidine,Pain,9.5,A
+Vicodin HP,Pain,9.5,A
+Methadose,Pain,9.454545455,A
+Dilaudid,Pain,9.431137725,A
+Stadol,Pain,9.428571429,A
+Diphenhydramine / naproxen,Pain,9.4,A
+Panlor SS,Pain,9.4,A
+Codeine,Pain,9.391304348,A
+Roxicet,Pain,9.363636364,A
+Toradol,Pain,9.357142857,A
+Zipsor,Pain,9.35,A
+Hydromorphone,Pain,9.348837209,A
+Acetaminophen / caffeine / dihydrocodeine,Pain,9.333333333,A
+Meperidine / promethazine,Pain,9.333333333,A
+Tylenol with Codeine,Pain,9.333333333,A
+Voltaren-XR,Pain,9.333333333,A
+Ketorolac,Pain,9.305785124,A
+Sprix,Pain,9.285714286,A
+Vicodin ES,Pain,9.272727273,A
+OxyContin,Pain,9.25625,A
+Diflunisal,Pain,9.25,A
+Soma Compound with Codeine,Pain,9.25,A
+Zohydro ER,Pain,9.25,A
+Voltaren Gel,Pain,9.244444444,A
+Etodolac,Pain,9.24137931,A
+Diclofenac,Pain,9.240105541,A
+Vicoprofen,Pain,9.208333333,A
+Tylenol,Pain,9.2,A
+Acetaminophen / oxycodone,Pain,9.170967742,A
+Feldene,Pain,9.166666667,A
+Propoxyphene,Pain,9.166666667,A
+Ibuprofen,Pain,9.161764706,A
+Percocet,Pain,9.158273381,A
+Oxymorphone,Pain,9.14953271,A
+Opana ER,Pain,9.142857143,A
+Tylox,Pain,9.125,A
+Fentora,Pain,9.111111111,A
+Norco,Pain,9.099236641,A
+Hydrocodone / ibuprofen,Pain,9.097560976,A
+Buprenorphine,Pain,9.094527363,A
+Lortab,Pain,9.0875,A
+Vicodin,Pain,9.070422535,A
+Ultracet,Pain,9.055555556,A
+Acetaminophen / hydrocodone,Pain,9.054320988,A
+Acetaminophen / tramadol,Pain,9,B
+Anexsia,Pain,9,B
+Darvon,Pain,9,B
+Endocet,Pain,9,B
+Excedrin Back & Body,Pain,9,B
+Lidocaine,Pain,9,B
+Menthol,Pain,9,B
+OxyIR,Pain,9,B
+Primlev,Pain,9,B
+Sublimaze,Pain,9,B
+Trixaicin HP,Pain,9,B
+Tylenol 8 Hour,Pain,9,B
+Tylenol Arthritis Pain,Pain,9,B
+Tramadol,Pain,8.975736568,B
+Hydrocodone,Pain,8.961538462,B
+Opana,Pain,8.961538462,B
+Celecoxib,Pain,8.941860465,B
+Flector Patch,Pain,8.892857143,B
+Avinza,Pain,8.888888889,B
+Fentanyl,Pain,8.88,B
+Ultram ER,Pain,8.875,B
+Morphine,Pain,8.868571429,B
+Tapentadol,Pain,8.868217054,B
+Acetaminophen / propoxyphene,Pain,8.842105263,B
+Kadian,Pain,8.814814815,B
+Naloxone / pentazocine,Pain,8.769230769,B
+Acetaminophen / codeine,Pain,8.734693878,B
+Neurontin,Pain,8.718446602,B
+Motrin,Pain,8.714285714,B
+Tylenol with Codeine #3,Pain,8.696969697,B
+Nucynta,Pain,8.67,B
+Pentazocine,Pain,8.666666667,B
+Duragesic,Pain,8.645833333,B
+Hysingla ER,Pain,8.636363636,B
+Reprexain,Pain,8.555555556,B
+Acetaminophen / pentazocine,Pain,8.5,B
+Midol PM,Pain,8.5,B
+Talacen,Pain,8.5,B
+Fentanyl Transdermal System,Pain,8.425,B
+Camphor / menthol,Pain,8,C
+Darvocet A500,Pain,8,C
+Fast Freeze,Pain,8,C
+Lagesic,Pain,8,C
+Naloxone / oxycodone,Pain,8,C
+Targiniq ER,Pain,8,C
+Trezix,Pain,8,C
+Oramorph SR,Pain,7.5,C
+Ibudone,Pain,7,C
+Tiger Balm,Pain,7,C
+Goody's Extra-Strength Headache Powders,Pain/Feve,10,A
+Acetaminophen / aspirin / caffeine,Pain/Feve,9.353846154,A
+Gemzar,Pancreatic Cance,7.666666667,C
+Creon,Pancreatic Exocrine Dysfunction,9.6,A
+Niravam,Panic Disorde,9.857142857,A
+Klonopin Wafer,Panic Disorde,9.727272727,A
+Xanax,Panic Disorde,9.501234568,A
+Ludiomil,Panic Disorde,9.5,A
+Clonazepam,Panic Disorde,9.378453039,A
+Klonopin,Panic Disorde,9.371134021,A
+Zoloft,Panic Disorde,8.970779221,B
+Praziquantel,"Paragonimus westermani, Lung Fluke",7,C
+Stalevo,Parkinson's Disease,10,A
+Rasagiline,Parkinson's Disease,9.666666667,A
+Azilect,Parkinson's Disease,9.5,A
+Requip XL,Parkinson's Disease,9.5,A
+Apokyn,Parkinson's Disease,9,B
+Apomorphine,Parkinson's Disease,9,B
+Carbidopa / entacapone / levodopa,Parkinson's Disease,9,B
+Kemadrin,Parkinson's Disease,9,B
+Stalevo 200,Parkinson's Disease,9,B
+Zelapar,Parkinson's Disease,9,B
+Comtan,Parkinson's Disease,8.5,B
+Mirapex ER,Parkinson's Disease,8.5,B
+Rytary,Parkinson's Disease,8,C
+Symmetrel,Parkinson's Disease,8,C
+Sinemet CR,Parkinson's Disease,7.5,C
+Entacapone,Parkinson's Disease,7,C
+Procyclidine,Parkinsonism,9.5,A
+Tev-Tropin,Pediatric Growth Hormone Deficiency,10,A
+Bivalirudin,Percutaneous Coronary Intervention,10,A
+Inderal,Performance Anxiety,9.058823529,A
+Midol Extended Relief,Period Pain,10,A
+Ponstel,Period Pain,9.6,A
+Flurbiprofen,Period Pain,9.4,A
+Mefenamic acid,Period Pain,9.368421053,A
+Naproxen,Period Pain,9.135,A
+Requip,Periodic Limb Movement Disorde,8.972222222,B
+Epitol,Peripheral Neuropathy,8.75,B
+L-Carnitine,Peripheral Neuropathy,8,C
+Pyrantel,Pinworm Infection (Enterobius vermicularis),10,A
+Albendazole,Pinworm Infection (Enterobius vermicularis),8.75,B
+Pin-X,Pinworm Infection (Enterobius vermicularis),7,C
+Brodalumab,Plaque Psoriasis,10,A
+Siliq,Plaque Psoriasis,10,A
+Ixekizumab,Plaque Psoriasis,9.642857143,A
+Secukinumab,Plaque Psoriasis,9.571428571,A
+Taltz,Plaque Psoriasis,9.5625,A
+Cosentyx,Plaque Psoriasis,9.411764706,A
+Taclonex,Plaque Psoriasis,9.380952381,A
+Adalimumab,Plaque Psoriasis,9.330049261,A
+Betamethasone / calcipotriene,Plaque Psoriasis,9.318181818,A
+Otezla,Plaque Psoriasis,8.8125,B
+Pneumococcal 13-valent vaccine,Pneumococcal Disease Prophylaxis,8.666666667,B
+Prevnar 13,Pneumococcal Disease Prophylaxis,8,C
+Penicillin VK,Pneumonia,10,A
+Omnicef,Pneumonia,9.5,A
+Amoxil,Pneumonia,9.461538462,A
+Linezolid,Pneumonia,9.307692308,A
+Biaxin XL,Pneumonia,9.2,A
+Azithromycin Dose Pack,Pneumonia,9,B
+Microgestin 1 / 20,Polycystic Ovary Syndrome,9.043478261,A
+LoSeasonique,Polycystic Ovary Syndrome,8.807692308,B
+Metformin,Polycystic Ovary Syndrome,8.732620321,B
+Falmina,Polycystic Ovary Syndrome,8.727272727,B
+Mircette,Polycystic Ovary Syndrome,8.5,B
+Wera,Polycystic Ovary Syndrome,7,C
+Jakafi,Polycythemia Vera,9.25,A
+Ruxolitinib,Polycythemia Vera,9,B
+Hemin,Porphyria,10,A
+Panhematin,Porphyria,10,A
+Minipress,Post Traumatic Stress Disorde,9.6,A
+Prazosin,Post Traumatic Stress Disorde,9.448979592,A
+Asenapine,Post Traumatic Stress Disorde,9.068027211,A
+Luvox CR,Post Traumatic Stress Disorde,9,B
+Abilify Discmelt,Post Traumatic Stress Disorde,8,C
+Gabapentin enacarbil,Postherpetic Neuralgia,9.5,A
+Gralise,Postherpetic Neuralgia,8.25,B
+Divigel,Postmenopausal Symptoms,10,A
+Enjuvia,Postmenopausal Symptoms,10,A
+Estraderm,Postmenopausal Symptoms,10,A
+Estropipate,Postmenopausal Symptoms,10,A
+Femtrace,Postmenopausal Symptoms,10,A
+Minivelle,Postmenopausal Symptoms,10,A
+Ogen,Postmenopausal Symptoms,10,A
+Premarin Vaginal,Postmenopausal Symptoms,10,A
+Premphase,Postmenopausal Symptoms,10,A
+Vivelle,Postmenopausal Symptoms,10,A
+femhrt,Postmenopausal Symptoms,10,A
+Evamist,Postmenopausal Symptoms,9.75,A
+Esterified estrogens / methyltestosterone,Postmenopausal Symptoms,9.625,A
+Vivelle-Dot,Postmenopausal Symptoms,9.583333333,A
+Angeliq,Postmenopausal Symptoms,9.5,A
+Conjugated estrogens,Postmenopausal Symptoms,9.5,A
+Drospirenone / estradiol,Postmenopausal Symptoms,9.5,A
+Elestrin,Postmenopausal Symptoms,9.333333333,A
+Femring,Postmenopausal Symptoms,9.333333333,A
+Estradiol / norethindrone,Postmenopausal Symptoms,9.285714286,A
+CombiPatch,Postmenopausal Symptoms,9.2,A
+Activella,Postmenopausal Symptoms,9,B
+Esterified estrogens,Postmenopausal Symptoms,9,B
+Menest,Postmenopausal Symptoms,9,B
+Conjugated estrogens / medroxyprogesterone,Postmenopausal Symptoms,8.833333333,B
+Prempro,Postmenopausal Symptoms,8.666666667,B
+Climara Pro,Postmenopausal Symptoms,8.5,B
+Estradiol / levonorgestrel,Postmenopausal Symptoms,8.5,B
+Estrasorb,Postmenopausal Symptoms,7,C
+Bromfenac,Postoperative Ocular Inflammation,10,A
+Ilevro,Postoperative Ocular Inflammation,10,A
+Lotemax,Postoperative Ocular Inflammation,10,A
+Prolensa,Postoperative Ocular Inflammation,10,A
+Nepafenac,Postoperative Ocular Inflammation,8.666666667,B
+Nevanac,Postoperative Ocular Inflammation,7,C
+Toradol IV / IM,Postoperative Pain,9.571428571,A
+Bupivacaine,Postoperative Pain,9.333333333,A
+Florinef Acetate,Postural Orthostatic Tachycardia Syndrome,10,A
+Fludrocortisone,Postural Orthostatic Tachycardia Syndrome,9.6,A
+Florinef,Postural Orthostatic Tachycardia Syndrome,9.5,A
+Midodrine,Postural Orthostatic Tachycardia Syndrome,9.181818182,A
+Orvaten,Postural Orthostatic Tachycardia Syndrome,9,B
+Supprelin LA,Precocious Puberty,9,B
+Lupron Depot-PED,Precocious Puberty,8.5,B
+Hydroxyprogesterone,Premature Lab,9.526315789,A
+Makena,Premature Lab,9.375,A
+Terbutaline,Premature Lab,8,C
+Brethine,Premature Lab,7,C
+Sarafem,Premenstrual Dysphoric Disorde,9.666666667,A
+Acetaminophen / pamabrom / pyrilamine,Premenstrual Syndrome,9,B
+Methenamine,Prevention of Bladder infection,9.588235294,A
+Mandelamine,Prevention of Bladder infection,9.5,A
+Macrodantin,Prevention of Bladder infection,8.9,B
+Clinpro 5000,Prevention of Dental Caries,10,A
+Fluoride,Prevention of Dental Caries,9.6,A
+Coumadin,Prevention of Thromboembolism in Atrial Fibrillation,9.6,A
+Eliquis,Prevention of Thromboembolism in Atrial Fibrillation,9,B
+Jantoven,Prevention of Thromboembolism in Atrial Fibrillation,9,B
+Dabigatran,Prevention of Thromboembolism in Atrial Fibrillation,8.780487805,B
+Pradaxa,Prevention of Thromboembolism in Atrial Fibrillation,8.722222222,B
+Apixaban,Prevention of Thromboembolism in Atrial Fibrillation,8.708333333,B
+Gamunex,Primary Immunodeficiency Syndrome,10,A
+Privigen,Primary Immunodeficiency Syndrome,10,A
+Vivaglobin,Primary Immunodeficiency Syndrome,9.5,A
+Cuvitru,Primary Immunodeficiency Syndrome,9,B
+Immune globulin subcutaneous,Primary Immunodeficiency Syndrome,8.888888889,B
+Immune globulin intravenous and subcutaneous,Primary Immunodeficiency Syndrome,8.5,B
+Hizentra,Primary Immunodeficiency Syndrome,8.2,B
+Octagam,Primary Immunodeficiency Syndrome,8,C
+Prometrium,Progesterone Insufficiency,8.533333333,B
+Abiraterone,Prostate Cance,9.75,A
+Zytiga,Prostate Cance,9.714285714,A
+Eligard,Prostate Cance,9.5,A
+Provenge,Prostate Cance,9.5,A
+Sipuleucel-T,Prostate Cance,9.5,A
+Casodex,Prostate Cance,9.333333333,A
+Bicalutamide,Prostate Cance,9.25,A
+Firmagon,Prostate Cance,9.25,A
+Degarelix,Prostate Cance,9,B
+Trelstar,Prostate Cance,9,B
+Zoladex,Prostate Cance,8.916666667,B
+Lupron,Prostate Cance,8.7,B
+Triptorelin,Prostate Cance,8.5,B
+Trelstar LA,Prostate Cance,8,C
+Avelox,Prostatitis,9,B
+Ditropan XL,Prostatitis,9,B
+Crotamiton,Pruritus,10,A
+Diphenhydramine / hydrocortisone,Pruritus,10,A
+HC-Derma-Pax,Pruritus,10,A
+Sarna Sensitive,Pruritus,10,A
+Skeeter Stik,Pruritus,10,A
+Eurax,Pruritus,9.5,A
+Benzocaine,Pruritus,9.4,A
+Lanacane,Pruritus,9,B
+Calamine,Pruritus,8,C
+Prax,Pruritus,8,C
+Nuedexta,Pseudobulbar Affect,9.571428571,A
+Dextromethorphan / quinidine,Pseudobulbar Affect,9.222222222,A
+Diamox Sequels,Pseudotumor Cerebri,9.333333333,A
+Diamox,Pseudotumor Cerebri,9.133333333,A
+Acetazolamide,Pseudotumor Cerebri,8.857142857,B
+Alefacept,Psoriasis,10,A
+Amevive,Psoriasis,10,A
+Scytera,Psoriasis,10,A
+Topicort LP,Psoriasis,10,A
+Clobex,Psoriasis,9.714285714,A
+Clocortolone,Psoriasis,9.666666667,A
+Cordran Tape,Psoriasis,9.666666667,A
+Desoximetasone,Psoriasis,9.571428571,A
+Psoriasin,Psoriasis,9.5,A
+Taclonex Scalp,Psoriasis,9.5,A
+Tazorac,Psoriasis,9.428571429,A
+Acitretin,Psoriasis,9.375,A
+Ultravate,Psoriasis,9.333333333,A
+Vectical,Psoriasis,9.333333333,A
+Humira,Psoriasis,9.252525253,A
+Stelara,Psoriasis,9.241935484,A
+Ustekinumab,Psoriasis,9.238095238,A
+Soriatane,Psoriasis,9.2,A
+Halobetasol,Psoriasis,9.166666667,A
+Calcitriol,Psoriasis,9,B
+Coal tar / salicylic acid / sulfur,Psoriasis,9,B
+MG217 Medicated Tar,Psoriasis,9,B
+Methotrexate,Psoriasis,8.884210526,B
+Calcipotriene,Psoriasis,8.75,B
+Dovonex,Psoriasis,8.75,B
+Alclometasone,Psoriasis,8,C
+Embeline,Psoriasis,8,C
+Enstilar,Psoriasis,8,C
+Infliximab,Psoriatic Arthritis,9.303797468,A
+Apremilast,Psoriatic Arthritis,9.015151515,A
+Thiothixene,Psychosis,10,A
+Navane,Psychosis,9.333333333,A
+Trilafon,Psychosis,9,B
+Perphenazine,Psychosis,8.857142857,B
+Haloperidol,Psychosis,8.821428571,B
+Fluphenazine,Psychosis,8.666666667,B
+Haldol Decanoate,Psychosis,8,C
+Prolixin,Psychosis,8,C
+Warfarin,"Pulmonary Embolism, Recurrent Event",9.181818182,A
+Epoprostenol,Pulmonary Hypertension,10,A
+Macitentan,Pulmonary Hypertension,10,A
+Opsumit,Pulmonary Hypertension,10,A
+Ambrisentan,Pulmonary Hypertension,9.75,A
+Letairis,Pulmonary Hypertension,9.571428571,A
+Bosentan,Pulmonary Hypertension,9.5,A
+Tracleer,Pulmonary Hypertension,9.5,A
+Revatio,Pulmonary Hypertension,9.25,A
+Treprostinil,Pulmonary Hypertension,8.333333333,B
+Tyvaso,Pulmonary Hypertension,7.875,C
+Adcirca,Pulmonary Hypertension,7,C
+Selexipag,Pulmonary Hypertension,7,C
+Uptravi,Pulmonary Hypertension,7,C
+"Rabies vaccine, human diploid cell",Rabies Prophylaxis,10,A
+Nitro-Bid,Raynaud's Syndrome,10,A
+Procardia,Raynaud's Syndrome,9.666666667,A
+Felodipine,Raynaud's Syndrome,9.5,A
+Vasodilan,Raynaud's Syndrome,9,B
+Nifedipine,Raynaud's Syndrome,8.766666667,B
+Norvasc,Raynaud's Syndrome,8.222222222,B
+Pregabalin,Reflex Sympathetic Dystrophy Syndrome,8.976415094,B
+Myfortic,Rejection Prophylaxis,9.333333333,A
+Proleukin,Renal Cell Carcinoma,10,A
+Pazopanib,Renal Cell Carcinoma,9.310344828,A
+Votrient,Renal Cell Carcinoma,9.214285714,A
+Sutent,Renal Cell Carcinoma,9.1,A
+Sunitinib,Renal Cell Carcinoma,9,B
+Temsirolimus,Renal Cell Carcinoma,9,B
+Torisel,Renal Cell Carcinoma,9,B
+Afinitor,Renal Cell Carcinoma,8.428571429,B
+Horizant,Restless Legs Syndrome,9.454545455,A
+Mirapex,Restless Legs Syndrome,9.384615385,A
+Sinemet,Restless Legs Syndrome,9.25,A
+Pramipexole,Restless Legs Syndrome,9.246376812,A
+Rotigotine,Restless Legs Syndrome,9.086956522,A
+Neupro,Restless Legs Syndrome,9,B
+Carbidopa / levodopa,Restless Legs Syndrome,8.909090909,B
+Ropinirole,Restless Legs Syndrome,8.894117647,B
+Levodopa,Restless Legs Syndrome,8,C
+Absorbine Jr.,Rheumatoid Arthritis,10,A
+Auranofin,Rheumatoid Arthritis,10,A
+IBU,Rheumatoid Arthritis,10,A
+Prednicot,Rheumatoid Arthritis,10,A
+Ridaura,Rheumatoid Arthritis,10,A
+Simponi Aria,Rheumatoid Arthritis,10,A
+Acthar,Rheumatoid Arthritis,9.75,A
+Xeljanz XR,Rheumatoid Arthritis,9.666666667,A
+Orudis KT,Rheumatoid Arthritis,9.5,A
+Sulindac,Rheumatoid Arthritis,9.307692308,A
+Etanercept,Rheumatoid Arthritis,9.283464567,A
+Certolizumab,Rheumatoid Arthritis,9.181818182,A
+Piroxicam,Rheumatoid Arthritis,9.181818182,A
+Simponi,Rheumatoid Arthritis,9.166666667,A
+Tofacitinib,Rheumatoid Arthritis,9.153846154,A
+Golimumab,Rheumatoid Arthritis,9.147058824,A
+Xeljanz,Rheumatoid Arthritis,9.142857143,A
+Actemra,Rheumatoid Arthritis,9.090909091,A
+Abatacept,Rheumatoid Arthritis,9,B
+Otrexup,Rheumatoid Arthritis,9,B
+Orencia,Rheumatoid Arthritis,8.928571429,B
+Leflunomide,Rheumatoid Arthritis,8.8,B
+Tocilizumab,Rheumatoid Arthritis,8.75,B
+Salsalate,Rheumatoid Arthritis,8.5,B
+Arava,Rheumatoid Arthritis,8.333333333,B
+Oxaprozin,Rheumatoid Arthritis,8,C
+Allerx Dose Pack DF,Rhinitis,10,A
+Chlorcyclizine / phenylephrine,Rhinitis,10,A
+Dallergy,Rhinitis,10,A
+Flonase,Rhinitis,9.555555556,A
+Veramyst,Rhinitis,9,B
+Atrovent Nasal,Rhinorrhea,10,A
+Clarifoam EF,Rosacea,9.714285714,A
+Brimonidine,Rosacea,9.571428571,A
+Ivermectin,Rosacea,9.557377049,A
+Soolantra,Rosacea,9.526315789,A
+Rhofade,Rosacea,9.5,A
+Finacea,Rosacea,9.363636364,A
+Oxymetazoline,Rosacea,9.333333333,A
+MetroGel,Rosacea,9.3,A
+Mirvaso,Rosacea,9.3,A
+Azelaic acid,Rosacea,9.282051282,A
+Azelex,Rosacea,9.25,A
+Oracea,Rosacea,9.185185185,A
+Plexion Cleanser,Rosacea,9,B
+Declomycin,SIADH,9,B
+Demeclocycline,SIADH,9,B
+Herceptin,Salivary Gland Cance,10,A
+Trastuzumab,Salivary Gland Cance,9.75,A
+Elimite,Scabies,9,B
+Permethrin,Scabies,8.5,B
+Risperdal M-Tab,Schizoaffective Disorde,9.333333333,A
+Risperdal,Schizoaffective Disorde,8.80952381,B
+Abilify Maintena,Schizophrenia,10,A
+Mellaril,Schizophrenia,10,A
+Thioridazine,Schizophrenia,10,A
+Clozapine,Schizophrenia,9.333333333,A
+Fanapt,Schizophrenia,9.1,A
+Invega Trinza,Schizophrenia,9,B
+Moban,Schizophrenia,9,B
+Molindone,Schizophrenia,9,B
+Lurasidone,Schizophrenia,8.978540773,B
+Invega Sustenna,Schizophrenia,8.923076923,B
+Clozaril,Schizophrenia,8.833333333,B
+Paliperidone,Schizophrenia,8.786885246,B
+Loxapine,Schizophrenia,8.5,B
+Kineret,Schnitzler Syndrome,10,A
+Acetaminophen,Sciatica,9.416666667,A
+Diclofenac / misoprostol,Sciatica,9.25,A
+Arthrotec,Sciatica,9.130434783,A
+Pazeo,Seasonal Allergic Conjunctivitis,10,A
+Patanol,Seasonal Allergic Conjunctivitis,9.6,A
+Olopatadine,Seasonal Allergic Conjunctivitis,9.366666667,A
+Pataday,Seasonal Allergic Conjunctivitis,9.222222222,A
+Avar LS Cleanser,Seborrheic Dermatitis,10,A
+DermaZinc Shampoo,Seborrheic Dermatitis,10,A
+Extina,Seborrheic Dermatitis,10,A
+Nizoral Topical,Seborrheic Dermatitis,10,A
+Ovace Plus,Seborrheic Dermatitis,10,A
+Sulfacetamide sodium,Seborrheic Dermatitis,10,A
+Xolegel,Seborrheic Dermatitis,10,A
+Coal tar,Seborrheic Dermatitis,9.076923077,A
+Cutar,Seborrheic Dermatitis,8,C
+Loprox,Seborrheic Dermatitis,8,C
+Mupirocin,Secondary Cutaneous Bacterial Infections,9.692307692,A
+Cinacalcet,Secondary Hyperparathyroidism,9.25,A
+Sensipar,Secondary Hyperparathyroidism,9.25,A
+Phenergan,Sedation,9.555555556,A
+Promethazine,Sedation,9.413461538,A
+Lorazepam Intensol,Sedation,9.166666667,A
+Butabarbital,Sedation,9,B
+Butisol Sodium,Sedation,9,B
+Desyrel Dividose,Sedation,8,C
+Trokendi XR,Seizure Prevention,10,A
+Topiragen,Seizure Prevention,9,B
+Lamictal XR,Seizure Prevention,8.5,B
+Oxtellar XR,Seizures,10,A
+Qudexy XR,Seizures,10,A
+Zarontin,Seizures,9.75,A
+Phenytek,Seizures,9.666666667,A
+Phenobarbital,Seizures,9.5,A
+Perampanel,Seizures,9.166666667,A
+Ethosuximide,Seizures,9.142857143,A
+Fycompa,Seizures,9.125,A
+Keppra XR,Seizures,9.111111111,A
+Gabitril,Seizures,9,B
+Luminal,Seizures,9,B
+Topamax,Seizures,8.949238579,B
+Aptiom,Seizures,8.8,B
+Mysoline,Seizures,8.8,B
+Eslicarbazepine,Seizures,8.75,B
+Keppra,Seizures,8.614285714,B
+Lacosamide,Seizures,8.613636364,B
+Zonegran,Seizures,8.590909091,B
+Vimpat,Seizures,8.578947368,B
+Diastat,Seizures,8.5,B
+Brivaracetam,Seizures,8,C
+Dextrostat,"Sexual Dysfunction, SSRI Induced",10,A
+Acetaminophen / pseudoephedrine,Sinus Symptoms,10,A
+Advil Cold and Sinus Liqui-Gels,Sinus Symptoms,10,A
+Alka-Seltzer Cold and Sinus,Sinus Symptoms,10,A
+Chlorpheniramine / methscopolamine / pseudoephedrine,Sinus Symptoms,10,A
+Ornex,Sinus Symptoms,10,A
+Sine-Off Maximum Strength,Sinus Symptoms,10,A
+Vicks Dayquil Cold & Flu Relief,Sinus Symptoms,10,A
+VisRx Dose Pack,Sinus Symptoms,10,A
+Ibuprofen / pseudoephedrine,Sinus Symptoms,9.631578947,A
+Advil Cold and Sinus,Sinus Symptoms,9.6,A
+Acetaminophen / dextromethorphan / phenylephrine,Sinus Symptoms,9,B
+Aleve-D Sinus & Cold,Sinus Symptoms,9,B
+Naproxen / pseudoephedrine,Sinus Symptoms,9,B
+Alka-Seltzer Plus Cold Formula Sparkling Original Effervescent Tablets,Sinus Symptoms,8,C
+Aspirin / chlorpheniramine / phenylephrine,Sinus Symptoms,8,C
+Cedax,Sinusitis,10,A
+Phenylephrine / pyrilamine,Sinusitis,10,A
+Cleocin,Sinusitis,9.8,A
+Vantin,Sinusitis,9.666666667,A
+Chlorpheniramine / pseudoephedrine,Sinusitis,9.4,A
+Cefuroxime,Sinusitis,9.28125,A
+Zithromax,Sinusitis,9.175438596,A
+Augmentin,Sinusitis,9.147727273,A
+Deltasone,Sinusitis,9,B
+Dexchlorpheniramine / dextromethorphan / pseudoephedrine,Sinusitis,9,B
+Lorabid,Sinusitis,9,B
+Loracarbef,Sinusitis,9,B
+Cevimeline,Sjogren's Syndrome,9.25,A
+Evoxac,Sjogren's Syndrome,9.2,A
+Efudex,Skin Cance,9.4,A
+Carac,Skin Cance,9.071428571,A
+Fluoroplex,Skin Cance,8,C
+Psorcon,Skin Rash,10,A
+Diflorasone,Skin Rash,9.5,A
+Hydrocortisone,Skin Rash,9.24,A
+Cubicin,Skin and Structure Infection,10,A
+Daptomycin,Skin and Structure Infection,10,A
+Goldenseal,Skin and Structure Infection,10,A
+Bactroban,Skin and Structure Infection,9.888888889,A
+Augmentin XR,Skin and Structure Infection,9.5,A
+Cefotaxime,Skin or Soft Tissue Infection,10,A
+Dicloxacillin,Skin or Soft Tissue Infection,10,A
+Amoxicillin / clavulanate,Skin or Soft Tissue Infection,9.155405405,A
+Cephalexin,Skin or Soft Tissue Infection,8.960784314,B
+Cleocin HCl,Skin or Soft Tissue Infection,8.333333333,B
+Vibramycin,Skin or Soft Tissue Infection,8.25,B
+Meropenem,Skin or Soft Tissue Infection,8,C
+Nicorette,Smoking Cessation,9.75,A
+Zyban,Smoking Cessation,9.58,A
+Chantix,Smoking Cessation,9.539267016,A
+Varenicline,Smoking Cessation,9.524216524,A
+Nicoderm CQ,Smoking Cessation,9.458333333,A
+Nicotrol Inhaler,Smoking Cessation,9.454545455,A
+Nicotine,Smoking Cessation,9.211267606,A
+Bupropion,Smoking Cessation,9.047297297,A
+Commit,Smoking Cessation,8.928571429,B
+Habitrol,Smoking Cessation,8.75,B
+Buproban,Smoking Cessation,8,C
+Risperidone,Social Anxiety Disorde,8.813432836,B
+Cepacol Dual Relief Sore Throat,Sore Throat,9,B
+Remicade,Spondyloarthritis,9.32,A
+Anakinra,Still's Disease,8.666666667,B
+Axid AR,Stomach Ulce,10,A
+Omeprazole / sodium bicarbonate,Stomach Ulce,9.615384615,A
+Protonix,Stomach Ulce,9.458333333,A
+Carafate,Stomach Ulce,9.133333333,A
+Calcium carbonate,Stomach Ulce,9,B
+Ceftin,Strep Throat,9.285714286,A
+Biaxin,Strep Throat,8.909090909,B
+Stromectol,Strongyloidiasis,8.5,B
+Kybella,Submental Fullness,10,A
+Cartia XT,Supraventricular Tachycardia,9.571428571,A
+Adenosine,Supraventricular Tachycardia,9.333333333,A
+Corgard,Supraventricular Tachycardia,9.25,A
+Bisoprolol,Supraventricular Tachycardia,9.222222222,A
+Cardizem CD,Supraventricular Tachycardia,8,C
+Relenza,Swine Flu,10,A
+Zanamivir,Swine Flu,10,A
+Benlysta,Systemic Lupus Erythematosus,9.181818182,A
+Belimumab,Systemic Lupus Erythematosus,8.9,B
+Plaquenil,Systemic Lupus Erythematosus,8.820512821,B
+Gastrocrom,Systemic Mastocytosis,9,B
+Midostaurin,Systemic Mastocytosis,8,C
+Thyroid desiccated,TSH Suppression,9.470588235,A
+Ifex,Testicular Cance,10,A
+Ifosfamide,Testicular Cance,10,A
+Busulfan,Thrombocythemia,10,A
+Myleran,Thrombocythemia,10,A
+Nexavar,Thyroid Cance,7.75,C
+Oxistat,Tinea Corporis,10,A
+Econazole,Tinea Corporis,9.666666667,A
+Oxiconazole,Tinea Corporis,9,B
+Naftin,Tinea Cruris,10,A
+Tolnaftate,Tinea Cruris,10,A
+Griseofulvin,Tinea Cruris,9,B
+Clioquinol,Tinea Pedis,10,A
+Naftifine,Tinea Pedis,10,A
+Sertaconazole,Tinea Pedis,10,A
+Zeasorb-AF Drying Gel,Tinea Pedis,10,A
+Spectazole,Tinea Pedis,9.666666667,A
+Selenium sulfide,Tinea Versicol,9.444444444,A
+Alprazolam,Tinnitus,9.526898734,A
+Trocaine,Tonsillitis/Pharyngitis,9,B
+Phenol,Tonsillitis/Pharyngitis,8.5,B
+Chloraseptic Sore Throat Spray,Tonsillitis/Pharyngitis,8,C
+Povidone iodine,Topical Disinfection,10,A
+Sodium hypochlorite,Topical Disinfection,10,A
+Pimozide,Tourette's Syndrome,9.5,A
+Orap,Tourette's Syndrome,9.125,A
+Bayer Children's Aspirin,Transient Ischemic Attack,10,A
+Paroxetine,Trichotillomania,9.024282561,A
+Oxcarbazepine,Trigeminal Neuralgia,9.089108911,A
+Tegretol XR,Trigeminal Neuralgia,9,B
+Rifadin,"Tuberculosis, Prophylaxis",10,A
+Isoniazid,"Tuberculosis, Prophylaxis",7.6,C
+Humatrope,Turner's Syndrome,9.6,A
+Sulfazine,Ulcerative Colitis,9.5,A
+Budesonide,Ulcerative Colitis,9.146341463,A
+Mesalamine,Ulcerative Colitis,9.022058824,A
+Entyvio,Ulcerative Colitis,9,B
+Imuran,Ulcerative Colitis,8.619047619,B
+Apriso,Ulcerative Colitis,8.5,B
+Azathioprine,Ulcerative Colitis,8.333333333,B
+Delzicol,"Ulcerative Colitis, Active",9.5,A
+Lialda,"Ulcerative Colitis, Active",9.108695652,A
+Uceris,"Ulcerative Colitis, Active",9,B
+Rowasa,"Ulcerative Colitis, Active",8.333333333,B
+Canasa,"Ulcerative Colitis, Active",8,C
+Salofalk,"Ulcerative Colitis, Maintenance",9.5,A
+Asacol,"Ulcerative Colitis, Maintenance",9,B
+WP Thyroid,Underactive Thyroid,10,A
+Westhroid,Underactive Thyroid,10,A
+Cytomel,Underactive Thyroid,9.5,A
+Levoxyl,Underactive Thyroid,9.5,A
+Tirosint,Underactive Thyroid,9.5,A
+Levothyroxine,Underactive Thyroid,9.171428571,A
+Amoxicillin,Upper Respiratory Tract Infection,9.243243243,A
+Keflex,Upper Respiratory Tract Infection,9.208333333,A
+Septra DS,Upper Respiratory Tract Infection,8.909090909,B
+Bactrim DS,Upper Respiratory Tract Infection,8.873015873,B
+Erythromycin,Upper Respiratory Tract Infection,8.833333333,B
+SMZ-TMP DS,Upper Respiratory Tract Infection,8.8,B
+Levsin SL,Urinary Incontinence,9.75,A
+Cranberry,Urinary Incontinence,9.666666667,A
+Tolterodine,Urinary Incontinence,9.285714286,A
+Sanctura XR,Urinary Incontinence,9.166666667,A
+Detrol LA,Urinary Incontinence,9.125,A
+Ditropan,Urinary Incontinence,8.8,B
+Bethanechol,Urinary Retention,8,C
+Ampicillin,Urinary Tract Infection,10,A
+Hyoscyamine / methenamine / methylene blue / sodium biphosphate,Urinary Tract Infection,10,A
+Phosphasal,Urinary Tract Infection,10,A
+Sulfatrim,Urinary Tract Infection,10,A
+Uta,Urinary Tract Infection,10,A
+Ofloxacin,Urinary Tract Infection,9.75,A
+Rocephin,Urinary Tract Infection,9.590909091,A
+Azo-Cranberry,Urinary Tract Infection,9.5,A
+Cefixime,Urinary Tract Infection,9.4,A
+Hyoscyamine / methenamine / methylene blue / phenyl salicylate,Urinary Tract Infection,9.285714286,A
+Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate,Urinary Tract Infection,9.25,A
+Uribel,Urinary Tract Infection,9.25,A
+Bactrim,Urinary Tract Infection,9.229357798,A
+Cipro,Urinary Tract Infection,9.181818182,A
+Sulfamethoxazole / trimethoprim,Urinary Tract Infection,9.070247934,A
+Levaquin,Urinary Tract Infection,9.010752688,A
+Acetohydroxamic acid,Urinary Tract Infection,9,B
+Lithostat,Urinary Tract Infection,9,B
+Trimethoprim,Urinary Tract Infection,9,B
+Urised,Urinary Tract Infection,9,B
+Nitrofurantoin,Urinary Tract Infection,8.94,B
+Doxycycline,Urinary Tract Infection,8.914351852,B
+Macrobid,Urinary Tract Infection,8.91011236,B
+Ampicillin / sulbactam,Urinary Tract Infection,8,C
+Citric acid / potassium citrate,Urinary Tract Stones,10,A
+Cytra-K,Urinary Tract Stones,10,A
+Flomax,Urinary Tract Stones,9.189655172,A
+Alavert,Urticaria,10,A
+Allegra,Urticaria,9.4375,A
+Levocetirizine,Urticaria,9.240506329,A
+Cetirizine,Urticaria,9.044117647,A
+Difluprednate,Uveitis,10,A
+Durezol,Uveitis,10,A
+Ozurdex,Uveitis,10,A
+Retisert,Uveitis,10,A
+Gynazole-1,Vaginal Yeast Infection,10,A
+Nizoral,Vaginal Yeast Infection,10,A
+Terazol 7,Vaginal Yeast Infection,10,A
+Acidophilus,Vaginal Yeast Infection,9.5,A
+Diflucan,Vaginal Yeast Infection,9.348837209,A
+Fluconazole,Vaginal Yeast Infection,9.189781022,A
+Clotrimazole,Vaginal Yeast Infection,9.142857143,A
+Tioconazole,Vaginal Yeast Infection,8.975609756,B
+Terconazole,Vaginal Yeast Infection,8.925925926,B
+Vagistat-1,Vaginal Yeast Infection,8.8,B
+Monistat 7,Vaginal Yeast Infection,8.75,B
+Miconazole,Vaginal Yeast Infection,8.655172414,B
+Monistat 7-Day Combination Pack,Vaginal Yeast Infection,8.611111111,B
+Butoconazole,Vaginal Yeast Infection,8.5,B
+Monistat 3-Day Combination Pack,Vaginal Yeast Infection,8.269230769,B
+Pedi-Dri,Vaginal Yeast Infection,8,C
+Terazol,Vaginal Yeast Infection,7.666666667,C
+Diphenidol,Vertig,10,A
+Vontrol,Vertig,10,A
+Dramamine Less Drowsy,Vertig,9.5,A
+Antivert,Vertig,9.2,A
+Dramamine II,Vertig,9,B
+CaloMist,Vitamin B12 Deficiency,10,A
+Cyanocobalamin,Vitamin B12 Deficiency,10,A
+D3,Vitamin D Deficiency,10,A
+Vitamin D2,Vitamin D Deficiency,10,A
+Vitamin D3,Vitamin D Deficiency,10,A
+Cholecalciferol,Vitamin D Deficiency,9.666666667,A
+Ergocalciferol,Vitamin D Deficiency,9,B
+Mephyton,Vitamin K Deficiency,10,A
+Phytonadione,Vitamin K Deficiency,10,A
+Proferrin-ES,Vitamin/Mineral Supplementation and Deficiency,10,A
+Chromium picolinate,Vitamin/Mineral Supplementation and Deficiency,9.5,A
+Multivitamin with minerals,Vitamin/Mineral Supplementation and Deficiency,9,B
+Zinc sulfate,Vitamin/Mineral Supplementation and Deficiency,9,B
+Hemax,Vitamin/Mineral Supplementation and Deficiency,8,C
+Concept DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,10,A
+Natelle One,Vitamin/Mineral Supplementation during Pregnancy/Lactation,10,A
+Neevo DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,10,A
+Vitafol-OB+DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,10,A
+CitraNatal Assure,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.5,A
+Ferrous sulfate,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.5,A
+PreNexa,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.5,A
+"Multivitamin, prenatal",Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.484848485,A
+Prenatal Plus,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9.333333333,A
+CitraNatal 90 DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9,B
+PR Natal 400,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9,B
+Tandem DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,9,B
+Duet DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,8.75,B
+Provida DHA,Vitamin/Mineral Supplementation during Pregnancy/Lactation,8,C
+Cyclophosphamide,Wegener's Granulomatosis,10,A
+Belviq XR,Weight Loss,10,A
+T-Diet,Weight Loss,10,A
+Megace ES,Weight Loss,9.75,A
+Ionamin,Weight Loss,9.5,A
+Phentercot,Weight Loss,9.5,A
+Adipex-P,Weight Loss,9.457627119,A
+Belviq,Weight Loss,9.427251732,A
+Phentermine,Weight Loss,9.35755814,A
+Megestrol,Weight Loss,9.322580645,A
+Qsymia,Weight Loss,9.248962656,A
+Fastin,Weight Loss,9.230769231,A
+Lomaira,Weight Loss,9,B
+Phentride,Weight Loss,8,C
+Penicillamine,Wilson's Disease,8,C
+Biotene Mouthwash,Xerostomia,10,A
+Pilocarpine,Xerostomia,10,A
+SalivaMAX,Xerostomia,10,A
+Salivart,Xerostomia,10,A
+Botox Cosmetic,acial Wrinkles,9.666666667,A
+Dermal filler,acial Wrinkles,9.333333333,A
+Juvederm Voluma XC,acial Wrinkles,7,C
+Arcalyst,amilial Cold Autoinflammatory Syndrome,10,A
+Rilonacept,amilial Cold Autoinflammatory Syndrome,10,A
+Colchicine,amilial Mediterranean Feve,9.026315789,A
+Adderall,atigue,9.18902439,A
+Clomid,emale Infertility,9.5,A
+Clomiphene,emale Infertility,9.482758621,A
+Amlodipine / valsartan,ge (amlodipine / valsartan),8.470588235,B
+Amlodipine / hydrochlorothiazide / valsartan,ge HCT (amlodipine / hydrochlorothiazide / valsartan),9.75,A
+Cesamet,ibromyalgia,10,A
+Glucosamine,ibromyalgia,10,A
+Amitriptyline,ibromyalgia,9.118181818,A
+Lyrica,ibromyalgia,8.95620438,B
+Milnacipran,ibromyalgia,8.838709677,B
+Savella,ibromyalgia,8.803030303,B
+Desyrel,ibromyalgia,8.789473684,B
+Cyclobenzaprine,ibromyalgia,8.757575758,B
+Flexeril,ibromyalgia,8.7,B
+Nabilone,ibromyalgia,8.4,B
+Folic acid,lic Acid Deficiency,9,B
+Metformin / pioglitazone,min / pioglitazone),8.75,B
+Metformin / rosiglitazone,min / rosiglitazone),9,B
+Metformin / saxagliptin,min / saxagliptin),8.666666667,B
+Metformin / sitagliptin,min / sitagliptin),9,B
+Empagliflozin / metformin,min),10,A
+Dapagliflozin / metformin,min),9,B
+Linagliptin / metformin,min),9,B
+Formoterol / mometasone,moterol / mometasone),8.933333333,B
+Arformoterol,moterol),9.5,A
+Budesonide / formoterol,moterol),9.319148936,A
+Salicylic acid / urea,t Care,10,A
+Salvax Duo,t Care,10,A
+Mycophenolic acid,tic (mycophenolic acid),9.333333333,A
+Antihemophilic factor / von willebrand factor,von Willebrand's Disease,10,A
+Humate-P,von Willebrand's Disease,10,A
+Stimate,von Willebrand's Disease,10,A
