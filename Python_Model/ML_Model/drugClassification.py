@@ -35,8 +35,8 @@ def load_data(d):
     return data
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-st.text(file_path)
 file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTrain_raw.csv')
+st.text(file_path)
 D = load_data(file_path)
 file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTest_raw.csv')
 D = D._append(load_data("../Datasets/drugsComTest_raw.csv"))
