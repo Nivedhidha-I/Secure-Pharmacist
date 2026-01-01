@@ -31,8 +31,8 @@ def load_data(d):
     data.rename(lowercase, axis='columns', inplace=True)
     return data
 
-D = load_data('C:/Users/siniv/OneDrive/Desktop/Secure Pharmacist/Python Model/Datasets/drugsComTrain_raw.csv')
-D = D._append(load_data('C:/Users/siniv/OneDrive/Desktop/Secure Pharmacist/Python Model/Datasets/drugsComTest_raw.csv'))
+D = load_data("../Datasets/drugsComTrain_raw.csv")
+D = D._append(load_data("../Datasets/drugsComTest_raw.csv"))
 
 # Cleaning Dataset
 D.drop(['uniqueid', 'review', 'date', 'usefulcount'], axis=1, inplace=True)
@@ -59,10 +59,10 @@ for i in Rating:
     else:
         Class.append("C")
 MungedData['class'] = Class
-MungedData.to_csv("C:/Users/siniv/OneDrive/Desktop/Secure Pharmacist/Python Model/Datasets/DrugsMungedData.csv", index = False)
+MungedData.to_csv("../Datasets/DrugsMungedData.csv", index = False)
 
 # Preparing Data for Recommendation Model
-Data = load_data("C:/Users/siniv/OneDrive/Desktop/Secure Pharmacist/Python Model/Datasets/DrugsMungedData.csv")
+Data = load_data("../Datasets/DrugsMungedData.csv")
 Data["drugname"] = Data["drugname"].astype('category')
 Data["condition"] = Data["condition"].astype('category')
 Data["class"] = Data["class"].astype('category')
