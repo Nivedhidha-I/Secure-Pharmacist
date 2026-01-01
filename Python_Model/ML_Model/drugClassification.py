@@ -33,7 +33,7 @@ def load_data(d):
 
 D = load_data("../Datasets/drugsComTrain_raw.csv")
 D = D._append(load_data("../Datasets/drugsComTest_raw.csv"))
-
+ 
 # Cleaning Dataset
 D.drop(['uniqueid', 'review', 'date', 'usefulcount'], axis=1, inplace=True)
 D.drop(list(D.filter(regex='unnamed')), axis=1, inplace=True)
