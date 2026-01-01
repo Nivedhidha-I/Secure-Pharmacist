@@ -1,3 +1,6 @@
+# locating dataset
+import os
+
 # munging dataset
 import numpy as np
 import pandas as pd
@@ -31,7 +34,10 @@ def load_data(d):
     data.rename(lowercase, axis='columns', inplace=True)
     return data
 
-D = load_data("../Datasets/drugsComTrain_raw.csv")
+current_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTrain_raw.csv')
+D = load_data(file_path)
+file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTest_raw.csv')
 D = D._append(load_data("../Datasets/drugsComTest_raw.csv"))
  
 # Cleaning Dataset
@@ -59,10 +65,11 @@ for i in Rating:
     else:
         Class.append("C")
 MungedData['class'] = Class
-MungedData.to_csv("../Datasets/DrugsMungedData.csv", index = False)
+file_path = os.path.join(current_dir, '..', 'Datasets', 'DrugsMungedData.csv')
+MungedData.to_csv(file_path, index = False)
 
 # Preparing Data for Recommendation Model
-Data = load_data("../Datasets/DrugsMungedData.csv")
+Data = load_data(file_path)
 Data["drugname"] = Data["drugname"].astype('category')
 Data["condition"] = Data["condition"].astype('category')
 Data["class"] = Data["class"].astype('category')
