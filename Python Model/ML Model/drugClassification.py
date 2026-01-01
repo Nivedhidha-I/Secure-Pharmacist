@@ -38,8 +38,8 @@ D = D._append(load_data('C:/Users/siniv/OneDrive/Desktop/Secure Pharmacist/Pytho
 D.drop(['uniqueid', 'review', 'date', 'usefulcount'], axis=1, inplace=True)
 D.drop(list(D.filter(regex='unnamed')), axis=1, inplace=True)
 D = D.dropna()
-D = D[~D.condition.str.contains("span", na=False)]
-D = D[D.rating.str.contains("^\d+$", na=False)]
+D = D[~D.condition.str.contains(r"span", na=False)]
+D = D[D.rating.str.contains(r"^\d+$", na=False)]
 D["rating"] = D["rating"].astype("int64")
 
 # Munging Dataset
