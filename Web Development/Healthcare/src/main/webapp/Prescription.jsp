@@ -154,8 +154,8 @@ color: #F5F5F5;
 <%
 try{
 	String docid = (String)session.getAttribute("doctor_id");
-	Class.forName("com.mysql.jdbc.Driver");
-	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/healthcare","root","");
+	Class.forName("com.mysql.cj.jdbc.Driver");
+	Connection con = DriverManager.getConnection("mysql://4U3mAakPtHpYiwK.root:dA02k2uNHQXPa5sq@gateway01.eu-central-1.prod.aws.tidbcloud.com:4000/healthcare","4U3mAakPtHpYiwK.root","dA02k2uNHQXPa5sq");
 %>
 <div class='header'>
 <h1><a href='./DoctorHome.jsp'><img src="./logo.png"></img> Secure Pharmacist</a></h1>

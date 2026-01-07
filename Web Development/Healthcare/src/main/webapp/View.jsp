@@ -218,8 +218,8 @@ if(request.getParameter("logout")!=null){
 String docid = (String)session.getAttribute("doctor_id");
 if(request.getParameter("submit")!=null){
 	String pid = request.getParameter("search");
-	Class.forName("com.mysql.jdbc.Driver");
-	Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/healthcare","root","");
+	Class.forName("com.mysql.cj.jdbc.Driver");
+	Connection con = DriverManager.getConnection("mysql://4U3mAakPtHpYiwK.root:dA02k2uNHQXPa5sq@gateway01.eu-central-1.prod.aws.tidbcloud.com:4000/healthcare","4U3mAakPtHpYiwK.root","dA02k2uNHQXPa5sq");
 	Statement s = con.createStatement();
 	String sql = "SELECT `condition`.`name` , `drug`.`name`, `patient_condition`.`date`, `patient_condition`.`recommended` FROM `condition` INNER JOIN `patient_condition` ON `condition`.`id` = `patient_condition`.`condition_id` INNER JOIN `drug` ON `drug`.`id` = `patient_condition`.`drug_id` WHERE `patient_id`="+pid+" AND `doctor_id`="+docid;
 	ResultSet rs = s.executeQuery(sql);

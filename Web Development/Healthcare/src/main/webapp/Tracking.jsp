@@ -195,8 +195,8 @@ if(request.getParameter("logout")!=null){
 </div>
 <%
 String patientID = (String) session.getAttribute("patient_id");
-Class.forName("com.mysql.jdbc.Driver");
-Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/healthcare","root","");
+Class.forName("com.mysql.cj.jdbc.Driver");
+Connection con = DriverManager.getConnection("mysql://4U3mAakPtHpYiwK.root:dA02k2uNHQXPa5sq@gateway01.eu-central-1.prod.aws.tidbcloud.com:4000/healthcare","4U3mAakPtHpYiwK.root","dA02k2uNHQXPa5sq");
 Statement s = con.createStatement();
 ResultSet tracking = s.executeQuery("SELECT purchase.purchase_date, purchase.drug_id, purchase.quantity, drug.name FROM purchase INNER JOIN drug ON drug.id = purchase.drug_id WHERE purchase.patient_id = '"+patientID+"'");
 %>

@@ -202,8 +202,8 @@ else{
 </div>
 <%
 String patientID = (String) session.getAttribute("patient_id");
-Class.forName("com.mysql.jdbc.Driver");
-Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/healthcare","root","");
+Class.forName("com.mysql.cj.jdbc.Driver");
+Connection con = DriverManager.getConnection("mysql://4U3mAakPtHpYiwK.root:dA02k2uNHQXPa5sq@gateway01.eu-central-1.prod.aws.tidbcloud.com:4000/healthcare","4U3mAakPtHpYiwK.root","dA02k2uNHQXPa5sq");
 Statement st = con.createStatement();
 String sql = "SELECT `patient_condition`.`doctor_id`, `patient_condition`.`date`, `drug`.`name`, `condition`.`name`, `patient_condition`.`recommended`, `patient_condition`.`bought`, `patient_condition`.`drug_id` FROM `drug` INNER JOIN `patient_condition` ON `patient_condition`.`drug_id` = `drug`.`id` INNER JOIN `condition` ON `condition`.id = `patient_condition`.`condition_id` WHERE `patient_condition`.`patient_id` = '"+patientID+"'";
 ResultSet prescription = st.executeQuery(sql);

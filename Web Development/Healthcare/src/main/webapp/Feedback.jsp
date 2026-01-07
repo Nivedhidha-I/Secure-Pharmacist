@@ -179,8 +179,8 @@ if(request.getParameter("logout")!=null){
 %>
 </div>
 <%
-Class.forName("com.mysql.jdbc.Driver");
-Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/healthcare","root","");
+Class.forName("com.mysql.cj.jdbc.Driver");
+Connection con = DriverManager.getConnection("mysql://4U3mAakPtHpYiwK.root:dA02k2uNHQXPa5sq@gateway01.eu-central-1.prod.aws.tidbcloud.com:4000/healthcare","4U3mAakPtHpYiwK.root","dA02k2uNHQXPa5sq");
 Statement st = con.createStatement();
 %>
 <div class='content'>
