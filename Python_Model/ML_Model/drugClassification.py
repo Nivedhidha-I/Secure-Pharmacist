@@ -29,15 +29,30 @@ import streamlit as st
 
 # Loading Dataset
 def load_data(d):
-    data = pd.read_csv(d, low_memory=False, encoding='utf-8')
-    lowercase = lambda x: str(x).lower()
-    data.rename(lowercase, axis='columns', inplace=True)
-    return data
-
+    try:
+        data = pd.read_csv(
+                d, 
+                low_memory=False, 
+                encoding='utf-8', 
+                on_bad_lines='warn', 
+                engine='python'
+            )
+        lowercase = lambda x: str(x).lower()
+        data.rename(lowercase, axis='columns', inplace=True)
+        return data
+    except Exception as e:
+        st.error(f"Pandas could not read the file: {e}")
+        return None
 current_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTrain_raw.csv')
+file_path = os.path.join(current_dir, '..', 'Datasets', 'cleaned_database.csv')
 st.text(file_path)
-# D = load_data(file_path)
+D = load_data(file_path)
+
+with open(file_path, 'r', encoding='utf-8') as f:
+    lines = f.readlines()
+    # Print header to see expected columns
+    st.text(f"Header: {lines[0].split(',')}")
+    st.text(f"Header count: {len(lines[0].split(','))}")
 # file_path = os.path.join(current_dir, '..', 'Datasets', 'drugsComTest_raw.csv')
 # D = D._append(load_data("../Datasets/drugsComTest_raw.csv"))
  
@@ -102,7 +117,7 @@ st.text(file_path)
 # estimator.append(('GNB', GNB))
 # estimator.append(('RF', randomForest))
 # estimator.append(('SVC', SVC))
-# EnsembledVH = VotingClassifier(estimators = estimator, voting ='hard')
+# EnsembledVH = VotingClassifier(estimators = estimator, voting ='soft')
 # EnsembledVH.fit(X_train, Y_train)
 # Y_predEM = EnsembledVH.predict(X_test)
 # Y_changedDF = pd.DataFrame()
