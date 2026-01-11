@@ -107,7 +107,7 @@ st.title('Secure Pharmacist')
 
 menu = ["Recommendation", "Algorithm Statistics"]
 choice = st.sidebar.selectbox('Sidebar',menu)
-if choice == 'Redommendation':
+if choice == 'Recommendation':
   st.subheader("Recommendations")	
   condition = st.selectbox(
      'Enter your condition',
@@ -123,7 +123,7 @@ if choice == 'Redommendation':
   st.write(MungedData[match & (Y == 'C')]['drugName'])
 
 else:
-  st.subheader("Model Accuracy")
+  st.subheader("Algorithm Statistics")
   st.write("Naive Bayes Model")
   accnb = round(metrics.accuracy_score(Y_test, Y_predNB)*100, 2)
   st.metric(label="Accuracy", value=str(accnb)+"%")
