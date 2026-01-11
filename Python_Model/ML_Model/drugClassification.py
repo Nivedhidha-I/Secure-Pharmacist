@@ -105,9 +105,9 @@ Y = EnsembledVH.predict(X)
 # Streamlit Application
 st.title('Secure Pharmacist')
 
-menu = ["Recommendation", "Algorithm Statistics"]
+menu = ["Recommendations", "Algorithm Statistics"]
 choice = st.sidebar.selectbox('Sidebar',menu)
-if choice == 'Recommendation':
+if choice == 'Recommendations':
   st.subheader("Recommendations")	
   condition = st.selectbox(
      'Enter your condition',
