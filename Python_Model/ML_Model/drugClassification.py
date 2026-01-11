@@ -29,9 +29,9 @@ import streamlit as st
 
 # Loading Dataset
 dir_path = os.path.dirname(__file__)
-file_path = os.path.join(dir_path, '..', 'Python_Model', 'Datasets', 'drugsComTrain_raw.csv')
+file_path = os.path.join(dir_path, '..', 'Datasets', 'drugsComTrain_raw.csv')
 D = pd.read_csv(file_path)
-file_path = os.path.join(dir_path, '..', 'Python_Model', 'Datasets', 'drugsComTest_raw.csv')
+file_path = os.path.join(dir_path, '..', 'Datasets', 'drugsComTest_raw.csv')
 D = pd.concat([D, pd.read_csv(file_path)], axis=0)
  
 # Cleaning Dataset
@@ -56,7 +56,7 @@ for i in Rating:
     else:
         Class.append("C")
 MungedData['class'] = Class
-file_path = os.path.join(dir_path, '..', 'Python_Model', 'Datasets', 'DrugsMungedData.csv')
+file_path = os.path.join(dir_path, '..', 'Datasets', 'DrugsMungedData.csv')
 MungedData.to_csv(file_path, index = False)
 
 # Preparing Data for Recommendation Model
