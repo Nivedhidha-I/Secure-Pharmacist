@@ -105,10 +105,10 @@ Y = EnsembledVH.predict(X)
 # Streamlit Application
 st.title('Secure Pharmacist')
 
-menu = ["Model", "Accuracy"]
+menu = ["Recommendation", "Algorithm Statistics"]
 choice = st.sidebar.selectbox('Sidebar',menu)
-if choice == 'Model':
-  st.subheader("Working Model")	
+if choice == 'Redommendation':
+  st.subheader("Recommendations")	
   condition = st.selectbox(
      'Enter your condition',
      (MungedData['condition'].str.upper().unique()))
