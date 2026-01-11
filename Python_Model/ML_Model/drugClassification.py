@@ -28,7 +28,7 @@ from sklearn.ensemble import VotingClassifier
 import streamlit as st
 
 # Loading Dataset
-dir_path = '/workspaces/Secure-Pharmacist/Python_Model/Datasets/'
+dir_path = '/mount/src/secure-pharmacist/Python_Model/ML_Model/'
 file_path = dir_path + 'drugsComTrain_raw.csv'
 D = pd.read_csv(file_path)
 file_path = dir_path + 'drugsComTest_raw.csv'
